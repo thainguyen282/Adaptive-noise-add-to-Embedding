@@ -45,8 +45,9 @@ def build_token_scores(
     token_ids: list[int],
     tokens: list[str],
     entropy: torch.Tensor,
-    top_ratio: float,
+    top_ratio: float | None = None,
     token_indices: list[int] | None = None,
+    selected_mask: torch.Tensor | None = None,
 ) -> list[TokenScore]:
     """Combine token ids, decoded strings, and entropy into serializable scores."""
 
@@ -57,7 +58,14 @@ def build_token_scores(
     if len(token_indices) != len(tokens):
         raise ValueError("token_indices must have the same length as tokens")
 
-    selected_mask = top_entropy_mask(entropy, top_ratio).tolist()
+    if selected_mask is None:
+        if top_ratio is None:
+            raise ValueError("top_ratio is required when selected_mask is not provided")
+        selected_mask = top_entropy_mask(entropy, top_ratio)
+    if selected_mask.numel() != entropy.numel():
+        raise ValueError("selected_mask and entropy must have the same length")
+
+    selected_values = selected_mask.detach().cpu().bool().tolist()
     entropy_values = entropy.detach().cpu().tolist()
 
     return [
@@ -66,7 +74,7 @@ def build_token_scores(
             token_id=token_id,
             token=token,
             entropy=float(entropy_values[index]),
-            selected=bool(selected_mask[index]),
+            selected=bool(selected_values[index]),
         )
         for index, (token_id, token) in enumerate(zip(token_ids, tokens, strict=True))
     ]

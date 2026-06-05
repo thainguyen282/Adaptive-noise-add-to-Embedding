@@ -29,7 +29,7 @@ def load_dapo_dataset(
 ) -> Dataset:
     """Load a Hugging Face DAPO dataset split."""
 
-    dataset = load_dataset(dataset_name, split=split)
+    dataset = load_dataset(dataset_name, split=split, verification_mode="no_checks")
     if max_samples is not None:
         if max_samples < 1:
             raise ValueError("max_samples must be positive when provided")
