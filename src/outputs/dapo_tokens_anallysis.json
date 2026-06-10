@@ -1,0 +1,13114 @@
+[
+  {
+    "token": "$",
+    "frequency": 14811
+  },
+  {
+    "token": "the",
+    "frequency": 3785
+  },
+  {
+    "token": "So",
+    "frequency": 3584
+  },
+  {
+    "token": "is",
+    "frequency": 3371
+  },
+  {
+    "token": ".",
+    "frequency": 2977
+  },
+  {
+    "token": "=",
+    "frequency": 2484
+  },
+  {
+    "token": "$.",
+    "frequency": 2467
+  },
+  {
+    "token": "\\",
+    "frequency": 2323
+  },
+  {
+    "token": ",",
+    "frequency": 2067
+  },
+  {
+    "token": "Let",
+    "frequency": 1975
+  },
+  {
+    "token": "If",
+    "frequency": 1870
+  },
+  {
+    "token": "a",
+    "frequency": 1794
+  },
+  {
+    "token": "Wait",
+    "frequency": 1711
+  },
+  {
+    "token": "$\\",
+    "frequency": 1618
+  },
+  {
+    "token": "1",
+    "frequency": 1446
+  },
+  {
+    "token": "(",
+    "frequency": 1373
+  },
+  {
+    "token": "The",
+    "frequency": 1290
+  },
+  {
+    "token": "we",
+    "frequency": 1273
+  },
+  {
+    "token": "This",
+    "frequency": 1263
+  },
+  {
+    "token": "We",
+    "frequency": 1204
+  },
+  {
+    "token": "?",
+    "frequency": 1067
+  },
+  {
+    "token": "2",
+    "frequency": 1040
+  },
+  {
+    "token": "if",
+    "frequency": 996
+  },
+  {
+    "token": "of",
+    "frequency": 915
+  },
+  {
+    "token": "for",
+    "frequency": 903
+  },
+  {
+    "token": "\"",
+    "frequency": 843
+  },
+  {
+    "token": "-",
+    "frequency": 835
+  },
+  {
+    "token": "x",
+    "frequency": 813
+  },
+  {
+    "token": "$,",
+    "frequency": 739
+  },
+  {
+    "token": "in",
+    "frequency": 714
+  },
+  {
+    "token": "to",
+    "frequency": 701
+  },
+  {
+    "token": "and",
+    "frequency": 663
+  },
+  {
+    "token": "3",
+    "frequency": 639
+  },
+  {
+    "token": "it",
+    "frequency": 638
+  },
+  {
+    "token": "check",
+    "frequency": 637
+  },
+  {
+    "token": "n",
+    "frequency": 637
+  },
+  {
+    "token": "P",
+    "frequency": 610
+  },
+  {
+    "token": "are",
+    "frequency": 600
+  },
+  {
+    "token": "+",
+    "frequency": 597
+  },
+  {
+    "token": "But",
+    "frequency": 596
+  },
+  {
+    "token": "Since",
+    "frequency": 596
+  },
+  {
+    "token": "S",
+    "frequency": 578
+  },
+  {
+    "token": "Is",
+    "frequency": 571
+  },
+  {
+    "token": "I",
+    "frequency": 562
+  },
+  {
+    "token": "0",
+    "frequency": 558
+  },
+  {
+    "token": ":",
+    "frequency": 542
+  },
+  {
+    "token": "A",
+    "frequency": 538
+  },
+  {
+    "token": "$(",
+    "frequency": 511
+  },
+  {
+    "token": "need",
+    "frequency": 497
+  },
+  {
+    "token": "Then",
+    "frequency": 488
+  },
+  {
+    "token": "that",
+    "frequency": 466
+  },
+  {
+    "token": "No",
+    "frequency": 463
+  },
+  {
+    "token": "k",
+    "frequency": 461
+  },
+  {
+    "token": "at",
+    "frequency": 451
+  },
+  {
+    "token": "4",
+    "frequency": 439
+  },
+  {
+    "token": "must",
+    "frequency": 437
+  },
+  {
+    "token": "on",
+    "frequency": 431
+  },
+  {
+    "token": "can",
+    "frequency": 427
+  },
+  {
+    "token": "5",
+    "frequency": 425
+  },
+  {
+    "token": ")",
+    "frequency": 419
+  },
+  {
+    "token": "have",
+    "frequency": 416
+  },
+  {
+    "token": "there",
+    "frequency": 415
+  },
+  {
+    "token": "not",
+    "frequency": 408
+  },
+  {
+    "token": "with",
+    "frequency": 383
+  },
+  {
+    "token": "For",
+    "frequency": 370
+  },
+  {
+    "token": "then",
+    "frequency": 366
+  },
+  {
+    "token": "'s",
+    "frequency": 343
+  },
+  {
+    "token": "all",
+    "frequency": 331
+  },
+  {
+    "token": "Also",
+    "frequency": 330
+  },
+  {
+    "token": "sum",
+    "frequency": 326
+  },
+  {
+    "token": "means",
+    "frequency": 322
+  },
+  {
+    "token": "}",
+    "frequency": 321
+  },
+  {
+    "token": "m",
+    "frequency": 318
+  },
+  {
+    "token": "y",
+    "frequency": 312
+  },
+  {
+    "token": "this",
+    "frequency": 311
+  },
+  {
+    "token": "b",
+    "frequency": 309
+  },
+  {
+    "token": "^",
+    "frequency": 305
+  },
+  {
+    "token": "such",
+    "frequency": 303
+  },
+  {
+    "token": "condition",
+    "frequency": 297
+  },
+  {
+    "token": "from",
+    "frequency": 297
+  },
+  {
+    "token": "or",
+    "frequency": 285
+  },
+  {
+    "token": "implies",
+    "frequency": 275
+  },
+  {
+    "token": "any",
+    "frequency": 271
+  },
+  {
+    "token": ").",
+    "frequency": 266
+  },
+  {
+    "token": ">",
+    "frequency": 247
+  },
+  {
+    "token": "E",
+    "frequency": 244
+  },
+  {
+    "token": "_",
+    "frequency": 243
+  },
+  {
+    "token": "D",
+    "frequency": 239
+  },
+  {
+    "token": "6",
+    "frequency": 234
+  },
+  {
+    "token": "has",
+    "frequency": 233
+  },
+  {
+    "token": "set",
+    "frequency": 232
+  },
+  {
+    "token": "be",
+    "frequency": 231
+  },
+  {
+    "token": "}$",
+    "frequency": 230
+  },
+  {
+    "token": "Yes",
+    "frequency": 228
+  },
+  {
+    "token": "And",
+    "frequency": 222
+  },
+  {
+    "token": "In",
+    "frequency": 219
+  },
+  {
+    "token": "c",
+    "frequency": 211
+  },
+  {
+    "token": "<",
+    "frequency": 208
+  },
+  {
+    "token": "u",
+    "frequency": 203
+  },
+  {
+    "token": "$x",
+    "frequency": 201
+  },
+  {
+    "token": "8",
+    "frequency": 195
+  },
+  {
+    "token": ")$",
+    "frequency": 194
+  },
+  {
+    "token": "_{",
+    "frequency": 192
+  },
+  {
+    "token": "number",
+    "frequency": 189
+  },
+  {
+    "token": "B",
+    "frequency": 188
+  },
+  {
+    "token": "9",
+    "frequency": 188
+  },
+  {
+    "token": "r",
+    "frequency": 187
+  },
+  {
+    "token": "d",
+    "frequency": 185
+  },
+  {
+    "token": "find",
+    "frequency": 184
+  },
+  {
+    "token": "R",
+    "frequency": 182
+  },
+  {
+    "token": "equation",
+    "frequency": 177
+  },
+  {
+    "token": "no",
+    "frequency": 172
+  },
+  {
+    "token": "was",
+    "frequency": 170
+  },
+  {
+    "token": "L",
+    "frequency": 168
+  },
+  {
+    "token": "just",
+    "frequency": 167
+  },
+  {
+    "token": "$n",
+    "frequency": 166
+  },
+  {
+    "token": "K",
+    "frequency": 166
+  },
+  {
+    "token": "re",
+    "frequency": 165
+  },
+  {
+    "token": "$:",
+    "frequency": 165
+  },
+  {
+    "token": "C",
+    "frequency": 165
+  },
+  {
+    "token": "sequence",
+    "frequency": 165
+  },
+  {
+    "token": "*",
+    "frequency": 163
+  },
+  {
+    "token": "problem",
+    "frequency": 162
+  },
+  {
+    "token": "line",
+    "frequency": 161
+  },
+  {
+    "token": "O",
+    "frequency": 159
+  },
+  {
+    "token": "positive",
+    "frequency": 158
+  },
+  {
+    "token": "where",
+    "frequency": 149
+  },
+  {
+    "token": "solution",
+    "frequency": 148
+  },
+  {
+    "token": "an",
+    "frequency": 148
+  },
+  {
+    "token": "want",
+    "frequency": 148
+  },
+  {
+    "token": "other",
+    "frequency": 146
+  },
+  {
+    "token": "only",
+    "frequency": 146
+  },
+  {
+    "token": "unit",
+    "frequency": 146
+  },
+  {
+    "token": "7",
+    "frequency": 146
+  },
+  {
+    "token": "What",
+    "frequency": 144
+  },
+  {
+    "token": "he",
+    "frequency": 143
+  },
+  {
+    "token": "tangent",
+    "frequency": 141
+  },
+  {
+    "token": "F",
+    "frequency": 140
+  },
+  {
+    "token": "|",
+    "frequency": 139
+  },
+  {
+    "token": "again",
+    "frequency": 138
+  },
+  {
+    "token": "one",
+    "frequency": 138
+  },
+  {
+    "token": "large",
+    "frequency": 137
+  },
+  {
+    "token": "let",
+    "frequency": 136
+  },
+  {
+    "token": "my",
+    "frequency": 136
+  },
+  {
+    "token": "found",
+    "frequency": 136
+  },
+  {
+    "token": "/",
+    "frequency": 135
+  },
+  {
+    "token": "Actually",
+    "frequency": 133
+  },
+  {
+    "token": "M",
+    "frequency": 129
+  },
+  {
+    "token": "Maybe",
+    "frequency": 128
+  },
+  {
+    "token": "$a",
+    "frequency": 127
+  },
+  {
+    "token": "even",
+    "frequency": 127
+  },
+  {
+    "token": "by",
+    "frequency": 122
+  },
+  {
+    "token": "Correct",
+    "frequency": 122
+  },
+  {
+    "token": "However",
+    "frequency": 121
+  },
+  {
+    "token": "use",
+    "frequency": 121
+  },
+  {
+    "token": "From",
+    "frequency": 120
+  },
+  {
+    "token": "possible",
+    "frequency": 120
+  },
+  {
+    "token": "does",
+    "frequency": 119
+  },
+  {
+    "token": "between",
+    "frequency": 118
+  },
+  {
+    "token": "integers",
+    "frequency": 118
+  },
+  {
+    "token": "cannot",
+    "frequency": 118
+  },
+  {
+    "token": "It",
+    "frequency": 117
+  },
+  {
+    "token": "which",
+    "frequency": 115
+  },
+  {
+    "token": "U",
+    "frequency": 115
+  },
+  {
+    "token": "roots",
+    "frequency": 114
+  },
+  {
+    "token": "{",
+    "frequency": 114
+  },
+  {
+    "token": "so",
+    "frequency": 113
+  },
+  {
+    "token": "since",
+    "frequency": 113
+  },
+  {
+    "token": "\".",
+    "frequency": 111
+  },
+  {
+    "token": "used",
+    "frequency": 109
+  },
+  {
+    "token": "they",
+    "frequency": 109
+  },
+  {
+    "token": "correct",
+    "frequency": 108
+  },
+  {
+    "token": "get",
+    "frequency": 108
+  },
+  {
+    "token": "T",
+    "frequency": 107
+  },
+  {
+    "token": "valid",
+    "frequency": 107
+  },
+  {
+    "token": "N",
+    "frequency": 107
+  },
+  {
+    "token": "specific",
+    "frequency": 104
+  },
+  {
+    "token": "Sum",
+    "frequency": 104
+  },
+  {
+    "token": "but",
+    "frequency": 103
+  },
+  {
+    "token": "should",
+    "frequency": 103
+  },
+  {
+    "token": "question",
+    "frequency": 102
+  },
+  {
+    "token": "distinct",
+    "frequency": 99
+  },
+  {
+    "token": "integer",
+    "frequency": 99
+  },
+  {
+    "token": "small",
+    "frequency": 98
+  },
+  {
+    "token": "area",
+    "frequency": 98
+  },
+  {
+    "token": "as",
+    "frequency": 97
+  },
+  {
+    "token": "values",
+    "frequency": 96
+  },
+  {
+    "token": "Area",
+    "frequency": 95
+  },
+  {
+    "token": "faces",
+    "frequency": 95
+  },
+  {
+    "token": "p",
+    "frequency": 94
+  },
+  {
+    "token": "v",
+    "frequency": 94
+  },
+  {
+    "token": "contains",
+    "frequency": 94
+  },
+  {
+    "token": "'",
+    "frequency": 93
+  },
+  {
+    "token": "double",
+    "frequency": 93
+  },
+  {
+    "token": "some",
+    "frequency": 92
+  },
+  {
+    "token": "Or",
+    "frequency": 92
+  },
+  {
+    "token": "would",
+    "frequency": 92
+  },
+  {
+    "token": "fixed",
+    "frequency": 92
+  },
+  {
+    "token": "calculation",
+    "frequency": 92
+  },
+  {
+    "token": "state",
+    "frequency": 92
+  },
+  {
+    "token": "previous",
+    "frequency": 91
+  },
+  {
+    "token": "always",
+    "frequency": 91
+  },
+  {
+    "token": "),",
+    "frequency": 90
+  },
+  {
+    "token": "Can",
+    "frequency": 90
+  },
+  {
+    "token": "terms",
+    "frequency": 89
+  },
+  {
+    "token": "H",
+    "frequency": 89
+  },
+  {
+    "token": "X",
+    "frequency": 88
+  },
+  {
+    "token": "choose",
+    "frequency": 88
+  },
+  {
+    "token": "painted",
+    "frequency": 88
+  },
+  {
+    "token": "($",
+    "frequency": 87
+  },
+  {
+    "token": "non",
+    "frequency": 87
+  },
+  {
+    "token": "say",
+    "frequency": 86
+  },
+  {
+    "token": "w",
+    "frequency": 86
+  },
+  {
+    "token": "numbers",
+    "frequency": 86
+  },
+  {
+    "token": "q",
+    "frequency": 86
+  },
+  {
+    "token": "$m",
+    "frequency": 84
+  },
+  {
+    "token": "...",
+    "frequency": 84
+  },
+  {
+    "token": "something",
+    "frequency": 83
+  },
+  {
+    "token": "Here",
+    "frequency": 83
+  },
+  {
+    "token": "Sub",
+    "frequency": 83
+  },
+  {
+    "token": "square",
+    "frequency": 83
+  },
+  {
+    "token": "_i",
+    "frequency": 83
+  },
+  {
+    "token": "To",
+    "frequency": 83
+  },
+  {
+    "token": "face",
+    "frequency": 83
+  },
+  {
+    "token": "(-",
+    "frequency": 82
+  },
+  {
+    "token": "generate",
+    "frequency": 82
+  },
+  {
+    "token": "AD",
+    "frequency": 81
+  },
+  {
+    "token": "Now",
+    "frequency": 81
+  },
+  {
+    "token": "gives",
+    "frequency": 81
+  },
+  {
+    "token": "case",
+    "frequency": 81
+  },
+  {
+    "token": "two",
+    "frequency": 79
+  },
+  {
+    "token": "earlier",
+    "frequency": 79
+  },
+  {
+    "token": "t",
+    "frequency": 79
+  },
+  {
+    "token": "Thus",
+    "frequency": 79
+  },
+  {
+    "token": "edges",
+    "frequency": 79
+  },
+  {
+    "token": "know",
+    "frequency": 78
+  },
+  {
+    "token": "because",
+    "frequency": 78
+  },
+  {
+    "token": "form",
+    "frequency": 77
+  },
+  {
+    "token": ",b",
+    "frequency": 76
+  },
+  {
+    "token": "connected",
+    "frequency": 76
+  },
+  {
+    "token": "}{",
+    "frequency": 75
+  },
+  {
+    "token": "seems",
+    "frequency": 75
+  },
+  {
+    "token": "exactly",
+    "frequency": 74
+  },
+  {
+    "token": "value",
+    "frequency": 74
+  },
+  {
+    "token": "first",
+    "frequency": 74
+  },
+  {
+    "token": "multiple",
+    "frequency": 74
+  },
+  {
+    "token": "states",
+    "frequency": 73
+  },
+  {
+    "token": "inside",
+    "frequency": 73
+  },
+  {
+    "token": "lies",
+    "frequency": 73
+  },
+  {
+    "token": "point",
+    "frequency": 73
+  },
+  {
+    "token": "=-",
+    "frequency": 73
+  },
+  {
+    "token": "logic",
+    "frequency": 73
+  },
+  {
+    "token": "MF",
+    "frequency": 73
+  },
+  {
+    "token": "indices",
+    "frequency": 72
+  },
+  {
+    "token": "look",
+    "frequency": 71
+  },
+  {
+    "token": "Case",
+    "frequency": 71
+  },
+  {
+    "token": "formula",
+    "frequency": 71
+  },
+  {
+    "token": "derived",
+    "frequency": 71
+  },
+  {
+    "token": "_k",
+    "frequency": 71
+  },
+  {
+    "token": "ins",
+    "frequency": 71
+  },
+  {
+    "token": "coordinates",
+    "frequency": 70
+  },
+  {
+    "token": "Does",
+    "frequency": 70
+  },
+  {
+    "token": "Total",
+    "frequency": 70
+  },
+  {
+    "token": "holds",
+    "frequency": 69
+  },
+  {
+    "token": "circle",
+    "frequency": 69
+  },
+  {
+    "token": "My",
+    "frequency": 69
+  },
+  {
+    "token": "black",
+    "frequency": 69
+  },
+  {
+    "token": "bis",
+    "frequency": 68
+  },
+  {
+    "token": "derivation",
+    "frequency": 68
+  },
+  {
+    "token": "probability",
+    "frequency": 68
+  },
+  {
+    "token": "sphere",
+    "frequency": 68
+  },
+  {
+    "token": "angle",
+    "frequency": 67
+  },
+  {
+    "token": "could",
+    "frequency": 67
+  },
+  {
+    "token": "Check",
+    "frequency": 67
+  },
+  {
+    "token": "matches",
+    "frequency": 67
+  },
+  {
+    "token": "doesn",
+    "frequency": 67
+  },
+  {
+    "token": "frac",
+    "frequency": 66
+  },
+  {
+    "token": "$k",
+    "frequency": 66
+  },
+  {
+    "token": "these",
+    "frequency": 66
+  },
+  {
+    "token": "Q",
+    "frequency": 66
+  },
+  {
+    "token": "yes",
+    "frequency": 66
+  },
+  {
+    "token": "each",
+    "frequency": 66
+  },
+  {
+    "token": "random",
+    "frequency": 65
+  },
+  {
+    "token": "disjoint",
+    "frequency": 65
+  },
+  {
+    "token": "defined",
+    "frequency": 64
+  },
+  {
+    "token": "also",
+    "frequency": 64
+  },
+  {
+    "token": "different",
+    "frequency": 64
+  },
+  {
+    "token": "Are",
+    "frequency": 64
+  },
+  {
+    "token": "+b",
+    "frequency": 64
+  },
+  {
+    "token": "subset",
+    "frequency": 64
+  },
+  {
+    "token": "OP",
+    "frequency": 64
+  },
+  {
+    "token": "(x",
+    "frequency": 63
+  },
+  {
+    "token": "term",
+    "frequency": 63
+  },
+  {
+    "token": "i",
+    "frequency": 63
+  },
+  {
+    "token": "s",
+    "frequency": 62
+  },
+  {
+    "token": "consider",
+    "frequency": 62
+  },
+  {
+    "token": "G",
+    "frequency": 62
+  },
+  {
+    "token": "passes",
+    "frequency": 61
+  },
+  {
+    "token": "intersection",
+    "frequency": 61
+  },
+  {
+    "token": "constraint",
+    "frequency": 61
+  },
+  {
+    "token": "don",
+    "frequency": 61
+  },
+  {
+    "token": "$b",
+    "frequency": 61
+  },
+  {
+    "token": "smallest",
+    "frequency": 61
+  },
+  {
+    "token": "might",
+    "frequency": 60
+  },
+  {
+    "token": "both",
+    "frequency": 60
+  },
+  {
+    "token": "same",
+    "frequency": 60
+  },
+  {
+    "token": "did",
+    "frequency": 60
+  },
+  {
+    "token": "works",
+    "frequency": 60
+  },
+  {
+    "token": "OM",
+    "frequency": 60
+  },
+  {
+    "token": "He",
+    "frequency": 60
+  },
+  {
+    "token": "what",
+    "frequency": 59
+  },
+  {
+    "token": "usually",
+    "frequency": 59
+  },
+  {
+    "token": "try",
+    "frequency": 59
+  },
+  {
+    "token": "(\\",
+    "frequency": 59
+  },
+  {
+    "token": "Why",
+    "frequency": 59
+  },
+  {
+    "token": "list",
+    "frequency": 59
+  },
+  {
+    "token": "real",
+    "frequency": 59
+  },
+  {
+    "token": "divisible",
+    "frequency": 59
+  },
+  {
+    "token": "keep",
+    "frequency": 59
+  },
+  {
+    "token": "Usually",
+    "frequency": 58
+  },
+  {
+    "token": "distance",
+    "frequency": 58
+  },
+  {
+    "token": "total",
+    "frequency": 58
+  },
+  {
+    "token": "consistent",
+    "frequency": 57
+  },
+  {
+    "token": "Could",
+    "frequency": 57
+  },
+  {
+    "token": "->",
+    "frequency": 57
+  },
+  {
+    "token": "verify",
+    "frequency": 56
+  },
+  {
+    "token": "corresponds",
+    "frequency": 56
+  },
+  {
+    "token": "indeed",
+    "frequency": 56
+  },
+  {
+    "token": "e",
+    "frequency": 56
+  },
+  {
+    "token": "unique",
+    "frequency": 56
+  },
+  {
+    "token": "given",
+    "frequency": 55
+  },
+  {
+    "token": "step",
+    "frequency": 55
+  },
+  {
+    "token": "every",
+    "frequency": 55
+  },
+  {
+    "token": "div",
+    "frequency": 55
+  },
+  {
+    "token": "partition",
+    "frequency": 55
+  },
+  {
+    "token": "reaches",
+    "frequency": 55
+  },
+  {
+    "token": "depends",
+    "frequency": 54
+  },
+  {
+    "token": "requires",
+    "frequency": 54
+  },
+  {
+    "token": "exposed",
+    "frequency": 54
+  },
+  {
+    "token": "BC",
+    "frequency": 52
+  },
+  {
+    "token": "One",
+    "frequency": 52
+  },
+  {
+    "token": "position",
+    "frequency": 52
+  },
+  {
+    "token": "assumed",
+    "frequency": 52
+  },
+  {
+    "token": "mean",
+    "frequency": 52
+  },
+  {
+    "token": "minimum",
+    "frequency": 52
+  },
+  {
+    "token": "cube",
+    "frequency": 52
+  },
+  {
+    "token": "intersect",
+    "frequency": 51
+  },
+  {
+    "token": "smaller",
+    "frequency": 51
+  },
+  {
+    "token": "start",
+    "frequency": 51
+  },
+  {
+    "token": "(n",
+    "frequency": 51
+  },
+  {
+    "token": "chooses",
+    "frequency": 51
+  },
+  {
+    "token": "cut",
+    "frequency": 51
+  },
+  {
+    "token": "[",
+    "frequency": 50
+  },
+  {
+    "token": "checked",
+    "frequency": 50
+  },
+  {
+    "token": "determined",
+    "frequency": 49
+  },
+  {
+    "token": "f",
+    "frequency": 49
+  },
+  {
+    "token": "plane",
+    "frequency": 49
+  },
+  {
+    "token": "outside",
+    "frequency": 48
+  },
+  {
+    "token": "le",
+    "frequency": 48
+  },
+  {
+    "token": "Max",
+    "frequency": 48
+  },
+  {
+    "token": "about",
+    "frequency": 48
+  },
+  {
+    "token": "Not",
+    "frequency": 48
+  },
+  {
+    "token": "$r",
+    "frequency": 48
+  },
+  {
+    "token": "surface",
+    "frequency": 48
+  },
+  {
+    "token": "assume",
+    "frequency": 47
+  },
+  {
+    "token": "Div",
+    "frequency": 47
+  },
+  {
+    "token": "make",
+    "frequency": 47
+  },
+  {
+    "token": "odd",
+    "frequency": 47
+  },
+  {
+    "token": "color",
+    "frequency": 47
+  },
+  {
+    "token": "wait",
+    "frequency": 46
+  },
+  {
+    "token": "expected",
+    "frequency": 46
+  },
+  {
+    "token": "ge",
+    "frequency": 46
+  },
+  {
+    "token": "AB",
+    "frequency": 45
+  },
+  {
+    "token": "length",
+    "frequency": 45
+  },
+  {
+    "token": "orientation",
+    "frequency": 45
+  },
+  {
+    "token": "=(",
+    "frequency": 45
+  },
+  {
+    "token": "pairs",
+    "frequency": 45
+  },
+  {
+    "token": "common",
+    "frequency": 45
+  },
+  {
+    "token": "colors",
+    "frequency": 45
+  },
+  {
+    "token": "more",
+    "frequency": 44
+  },
+  {
+    "token": "calculate",
+    "frequency": 44
+  },
+  {
+    "token": "them",
+    "frequency": 44
+  },
+  {
+    "token": "result",
+    "frequency": 44
+  },
+  {
+    "token": "period",
+    "frequency": 44
+  },
+  {
+    "token": "graph",
+    "frequency": 44
+  },
+  {
+    "token": "$d",
+    "frequency": 44
+  },
+  {
+    "token": "Equ",
+    "frequency": 43
+  },
+  {
+    "token": "vertices",
+    "frequency": 43
+  },
+  {
+    "token": "after",
+    "frequency": 43
+  },
+  {
+    "token": "will",
+    "frequency": 43
+  },
+  {
+    "token": "Sup",
+    "frequency": 43
+  },
+  {
+    "token": ")=",
+    "frequency": 42
+  },
+  {
+    "token": "answer",
+    "frequency": 42
+  },
+  {
+    "token": "solutions",
+    "frequency": 42
+  },
+  {
+    "token": "cycle",
+    "frequency": 42
+  },
+  {
+    "token": "pair",
+    "frequency": 42
+  },
+  {
+    "token": "says",
+    "frequency": 41
+  },
+  {
+    "token": "intersects",
+    "frequency": 41
+  },
+  {
+    "token": "DE",
+    "frequency": 41
+  },
+  {
+    "token": "size",
+    "frequency": 41
+  },
+  {
+    "token": "analyze",
+    "frequency": 41
+  },
+  {
+    "token": "do",
+    "frequency": 41
+  },
+  {
+    "token": "had",
+    "frequency": 41
+  },
+  {
+    "token": "projection",
+    "frequency": 41
+  },
+  {
+    "token": "factor",
+    "frequency": 40
+  },
+  {
+    "token": "interpretation",
+    "frequency": 40
+  },
+  {
+    "token": "Y",
+    "frequency": 40
+  },
+  {
+    "token": "$L",
+    "frequency": 40
+  },
+  {
+    "token": "$I",
+    "frequency": 40
+  },
+  {
+    "token": "over",
+    "frequency": 40
+  },
+  {
+    "token": "z",
+    "frequency": 40
+  },
+  {
+    "token": "disconnected",
+    "frequency": 40
+  },
+  {
+    "token": "OA",
+    "frequency": 40
+  },
+  {
+    "token": "meeting",
+    "frequency": 40
+  },
+  {
+    "token": "white",
+    "frequency": 40
+  },
+  {
+    "token": "spread",
+    "frequency": 40
+  },
+  {
+    "token": "carefully",
+    "frequency": 39
+  },
+  {
+    "token": "maybe",
+    "frequency": 39
+  },
+  {
+    "token": "order",
+    "frequency": 39
+  },
+  {
+    "token": "standard",
+    "frequency": 39
+  },
+  {
+    "token": "negative",
+    "frequency": 39
+  },
+  {
+    "token": "Card",
+    "frequency": 39
+  },
+  {
+    "token": "block",
+    "frequency": 39
+  },
+  {
+    "token": "digits",
+    "frequency": 39
+  },
+  {
+    "token": "denote",
+    "frequency": 38
+  },
+  {
+    "token": "into",
+    "frequency": 38
+  },
+  {
+    "token": "{\\",
+    "frequency": 38
+  },
+  {
+    "token": "equivalent",
+    "frequency": 38
+  },
+  {
+    "token": "root",
+    "frequency": 38
+  },
+  {
+    "token": "ensure",
+    "frequency": 38
+  },
+  {
+    "token": "equiv",
+    "frequency": 38
+  },
+  {
+    "token": "State",
+    "frequency": 38
+  },
+  {
+    "token": "reach",
+    "frequency": 38
+  },
+  {
+    "token": "wins",
+    "frequency": 38
+  },
+  {
+    "token": "$c",
+    "frequency": 37
+  },
+  {
+    "token": "equations",
+    "frequency": 37
+  },
+  {
+    "token": "=\\",
+    "frequency": 37
+  },
+  {
+    "token": "prime",
+    "frequency": 37
+  },
+  {
+    "token": "corner",
+    "frequency": 37
+  },
+  {
+    "token": "vertex",
+    "frequency": 36
+  },
+  {
+    "token": "center",
+    "frequency": 36
+  },
+  {
+    "token": "divides",
+    "frequency": 36
+  },
+  {
+    "token": "Possible",
+    "frequency": 36
+  },
+  {
+    "token": "missed",
+    "frequency": 36
+  },
+  {
+    "token": "moves",
+    "frequency": 36
+  },
+  {
+    "token": "leads",
+    "frequency": 36
+  },
+  {
+    "token": "becomes",
+    "frequency": 36
+  },
+  {
+    "token": "cubes",
+    "frequency": 36
+  },
+  {
+    "token": "{-",
+    "frequency": 35
+  },
+  {
+    "token": "using",
+    "frequency": 35
+  },
+  {
+    "token": "cdot",
+    "frequency": 35
+  },
+  {
+    "token": "circum",
+    "frequency": 35
+  },
+  {
+    "token": "j",
+    "frequency": 35
+  },
+  {
+    "token": "-e",
+    "frequency": 35
+  },
+  {
+    "token": "impossible",
+    "frequency": 35
+  },
+  {
+    "token": "There",
+    "frequency": 34
+  },
+  {
+    "token": "Consider",
+    "frequency": 34
+  },
+  {
+    "token": "At",
+    "frequency": 34
+  },
+  {
+    "token": "NOT",
+    "frequency": 34
+  },
+  {
+    "token": "before",
+    "frequency": 34
+  },
+  {
+    "token": "sets",
+    "frequency": 34
+  },
+  {
+    "token": "'$",
+    "frequency": 34
+  },
+  {
+    "token": "con",
+    "frequency": 34
+  },
+  {
+    "token": "equal",
+    "frequency": 33
+  },
+  {
+    "token": "go",
+    "frequency": 33
+  },
+  {
+    "token": "write",
+    "frequency": 33
+  },
+  {
+    "token": "AE",
+    "frequency": 33
+  },
+  {
+    "token": "+a",
+    "frequency": 33
+  },
+  {
+    "token": "relation",
+    "frequency": 33
+  },
+  {
+    "token": "compute",
+    "frequency": 33
+  },
+  {
+    "token": "range",
+    "frequency": 33
+  },
+  {
+    "token": "Ah",
+    "frequency": 33
+  },
+  {
+    "token": "pick",
+    "frequency": 33
+  },
+  {
+    "token": "established",
+    "frequency": 33
+  },
+  {
+    "token": "min",
+    "frequency": 33
+  },
+  {
+    "token": "suggests",
+    "frequency": 33
+  },
+  {
+    "token": "V",
+    "frequency": 33
+  },
+  {
+    "token": "exists",
+    "frequency": 33
+  },
+  {
+    "token": "meets",
+    "frequency": 33
+  },
+  {
+    "token": "elements",
+    "frequency": 33
+  },
+  {
+    "token": "were",
+    "frequency": 32
+  },
+  {
+    "token": "me",
+    "frequency": 32
+  },
+  {
+    "token": "process",
+    "frequency": 32
+  },
+  {
+    "token": "necessary",
+    "frequency": 32
+  },
+  {
+    "token": "pattern",
+    "frequency": 32
+  },
+  {
+    "token": "flip",
+    "frequency": 32
+  },
+  {
+    "token": "shadow",
+    "frequency": 32
+  },
+  {
+    "token": "region",
+    "frequency": 32
+  },
+  {
+    "token": "remove",
+    "frequency": 32
+  },
+  {
+    "token": "h",
+    "frequency": 32
+  },
+  {
+    "token": "Meeting",
+    "frequency": 32
+  },
+  {
+    "token": "paint",
+    "frequency": 32
+  },
+  {
+    "token": "Forbidden",
+    "frequency": 32
+  },
+  {
+    "token": "carries",
+    "frequency": 32
+  },
+  {
+    "token": "configuration",
+    "frequency": 31
+  },
+  {
+    "token": "passing",
+    "frequency": 31
+  },
+  {
+    "token": "(a",
+    "frequency": 31
+  },
+  {
+    "token": "slope",
+    "frequency": 31
+  },
+  {
+    "token": "perpendicular",
+    "frequency": 31
+  },
+  {
+    "token": "Final",
+    "frequency": 31
+  },
+  {
+    "token": "connects",
+    "frequency": 31
+  },
+  {
+    "token": "tang",
+    "frequency": 31
+  },
+  {
+    "token": "removing",
+    "frequency": 31
+  },
+  {
+    "token": "max",
+    "frequency": 31
+  },
+  {
+    "token": "leg",
+    "frequency": 31
+  },
+  {
+    "token": "residues",
+    "frequency": 31
+  },
+  {
+    "token": "triangle",
+    "frequency": 30
+  },
+  {
+    "token": "looks",
+    "frequency": 30
+  },
+  {
+    "token": "property",
+    "frequency": 30
+  },
+  {
+    "token": "lines",
+    "frequency": 30
+  },
+  {
+    "token": "times",
+    "frequency": 30
+  },
+  {
+    "token": "geometric",
+    "frequency": 30
+  },
+  {
+    "token": "unless",
+    "frequency": 30
+  },
+  {
+    "token": "structure",
+    "frequency": 30
+  },
+  {
+    "token": "starts",
+    "frequency": 30
+  },
+  {
+    "token": "move",
+    "frequency": 30
+  },
+  {
+    "token": "minimize",
+    "frequency": 30
+  },
+  {
+    "token": "parallel",
+    "frequency": 30
+  },
+  {
+    "token": "maximum",
+    "frequency": 30
+  },
+  {
+    "token": "wants",
+    "frequency": 30
+  },
+  {
+    "token": "available",
+    "frequency": 30
+  },
+  {
+    "token": "relative",
+    "frequency": 29
+  },
+  {
+    "token": "origin",
+    "frequency": 29
+  },
+  {
+    "token": "statement",
+    "frequency": 29
+  },
+  {
+    "token": "text",
+    "frequency": 29
+  },
+  {
+    "token": "All",
+    "frequency": 29
+  },
+  {
+    "token": "side",
+    "frequency": 29
+  },
+  {
+    "token": "edge",
+    "frequency": 29
+  },
+  {
+    "token": "cover",
+    "frequency": 29
+  },
+  {
+    "token": "allowed",
+    "frequency": 29
+  },
+  {
+    "token": "weight",
+    "frequency": 29
+  },
+  {
+    "token": "larger",
+    "frequency": 29
+  },
+  {
+    "token": "(S",
+    "frequency": 29
+  },
+  {
+    "token": "inc",
+    "frequency": 29
+  },
+  {
+    "token": "boundary",
+    "frequency": 28
+  },
+  {
+    "token": "satisfy",
+    "frequency": 28
+  },
+  {
+    "token": "constant",
+    "frequency": 28
+  },
+  {
+    "token": "very",
+    "frequency": 28
+  },
+  {
+    "token": "its",
+    "frequency": 28
+  },
+  {
+    "token": "satisfies",
+    "frequency": 28
+  },
+  {
+    "token": "solid",
+    "frequency": 28
+  },
+  {
+    "token": "initial",
+    "frequency": 28
+  },
+  {
+    "token": "possibility",
+    "frequency": 28
+  },
+  {
+    "token": "everything",
+    "frequency": 28
+  },
+  {
+    "token": "g",
+    "frequency": 28
+  },
+  {
+    "token": "strictly",
+    "frequency": 28
+  },
+  {
+    "token": "Flip",
+    "frequency": 28
+  },
+  {
+    "token": "HO",
+    "frequency": 28
+  },
+  {
+    "token": "current",
+    "frequency": 28
+  },
+  {
+    "token": "symmetric",
+    "frequency": 27
+  },
+  {
+    "token": "-k",
+    "frequency": 27
+  },
+  {
+    "token": "Specific",
+    "frequency": 27
+  },
+  {
+    "token": "]",
+    "frequency": 27
+  },
+  {
+    "token": "goes",
+    "frequency": 27
+  },
+  {
+    "token": "think",
+    "frequency": 27
+  },
+  {
+    "token": "ambiguity",
+    "frequency": 27
+  },
+  {
+    "token": "notin",
+    "frequency": 27
+  },
+  {
+    "token": "constraints",
+    "frequency": 27
+  },
+  {
+    "token": "change",
+    "frequency": 27
+  },
+  {
+    "token": "positions",
+    "frequency": 27
+  },
+  {
+    "token": "add",
+    "frequency": 27
+  },
+  {
+    "token": "union",
+    "frequency": 27
+  },
+  {
+    "token": "single",
+    "frequency": 27
+  },
+  {
+    "token": "$t",
+    "frequency": 27
+  },
+  {
+    "token": "represent",
+    "frequency": 27
+  },
+  {
+    "token": "midpoint",
+    "frequency": 27
+  },
+  {
+    "token": "another",
+    "frequency": 26
+  },
+  {
+    "token": "up",
+    "frequency": 26
+  },
+  {
+    "token": "gave",
+    "frequency": 26
+  },
+  {
+    "token": "arithmetic",
+    "frequency": 26
+  },
+  {
+    "token": "see",
+    "frequency": 26
+  },
+  {
+    "token": "vector",
+    "frequency": 26
+  },
+  {
+    "token": "starting",
+    "frequency": 26
+  },
+  {
+    "token": "when",
+    "frequency": 26
+  },
+  {
+    "token": "next",
+    "frequency": 26
+  },
+  {
+    "token": "Start",
+    "frequency": 26
+  },
+  {
+    "token": "construct",
+    "frequency": 26
+  },
+  {
+    "token": "generated",
+    "frequency": 26
+  },
+  {
+    "token": "refers",
+    "frequency": 26
+  },
+  {
+    "token": "cost",
+    "frequency": 26
+  },
+  {
+    "token": "points",
+    "frequency": 25
+  },
+  {
+    "token": "ray",
+    "frequency": 25
+  },
+  {
+    "token": "assuming",
+    "frequency": 25
+  },
+  {
+    "token": "calculated",
+    "frequency": 25
+  },
+  {
+    "token": "}=",
+    "frequency": 25
+  },
+  {
+    "token": "-(",
+    "frequency": 25
+  },
+  {
+    "token": "close",
+    "frequency": 25
+  },
+  {
+    "token": "impl",
+    "frequency": 25
+  },
+  {
+    "token": "Box",
+    "frequency": 25
+  },
+  {
+    "token": "part",
+    "frequency": 25
+  },
+  {
+    "token": "Move",
+    "frequency": 25
+  },
+  {
+    "token": "Step",
+    "frequency": 25
+  },
+  {
+    "token": "Sm",
+    "frequency": 25
+  },
+  {
+    "token": "components",
+    "frequency": 25
+  },
+  {
+    "token": "parity",
+    "frequency": 25
+  },
+  {
+    "token": "combine",
+    "frequency": 25
+  },
+  {
+    "token": "CE",
+    "frequency": 25
+  },
+  {
+    "token": "Multiply",
+    "frequency": 24
+  },
+  {
+    "token": "required",
+    "frequency": 24
+  },
+  {
+    "token": "product",
+    "frequency": 24
+  },
+  {
+    "token": "uniform",
+    "frequency": 24
+  },
+  {
+    "token": "looking",
+    "frequency": 24
+  },
+  {
+    "token": "confirms",
+    "frequency": 24
+  },
+  {
+    "token": "last",
+    "frequency": 24
+  },
+  {
+    "token": "either",
+    "frequency": 24
+  },
+  {
+    "token": "asks",
+    "frequency": 24
+  },
+  {
+    "token": "second",
+    "frequency": 24
+  },
+  {
+    "token": "component",
+    "frequency": 24
+  },
+  {
+    "token": "cone",
+    "frequency": 24
+  },
+  {
+    "token": "empty",
+    "frequency": 24
+  },
+  {
+    "token": "AM",
+    "frequency": 24
+  },
+  {
+    "token": "true",
+    "frequency": 23
+  },
+  {
+    "token": "segment",
+    "frequency": 23
+  },
+  {
+    "token": "AC",
+    "frequency": 23
+  },
+  {
+    "token": "why",
+    "frequency": 23
+  },
+  {
+    "token": "count",
+    "frequency": 23
+  },
+  {
+    "token": "interval",
+    "frequency": 23
+  },
+  {
+    "token": "robust",
+    "frequency": 23
+  },
+  {
+    "token": "directly",
+    "frequency": 23
+  },
+  {
+    "token": "quickly",
+    "frequency": 23
+  },
+  {
+    "token": "With",
+    "frequency": 23
+  },
+  {
+    "token": "periodic",
+    "frequency": 23
+  },
+  {
+    "token": "):",
+    "frequency": 23
+  },
+  {
+    "token": "being",
+    "frequency": 23
+  },
+  {
+    "token": "Condition",
+    "frequency": 23
+  },
+  {
+    "token": "adding",
+    "frequency": 23
+  },
+  {
+    "token": "Dir",
+    "frequency": 23
+  },
+  {
+    "token": "switches",
+    "frequency": 23
+  },
+  {
+    "token": "forbidden",
+    "frequency": 23
+  },
+  {
+    "token": "alpha",
+    "frequency": 22
+  },
+  {
+    "token": "left",
+    "frequency": 22
+  },
+  {
+    "token": "OB",
+    "frequency": 22
+  },
+  {
+    "token": "moving",
+    "frequency": 22
+  },
+  {
+    "token": "sub",
+    "frequency": 22
+  },
+  {
+    "token": "independent",
+    "frequency": 22
+  },
+  {
+    "token": "their",
+    "frequency": 22
+  },
+  {
+    "token": "They",
+    "frequency": 22
+  },
+  {
+    "token": "original",
+    "frequency": 22
+  },
+  {
+    "token": "complete",
+    "frequency": 22
+  },
+  {
+    "token": "ne",
+    "frequency": 22
+  },
+  {
+    "token": "remaining",
+    "frequency": 22
+  },
+  {
+    "token": "connect",
+    "frequency": 22
+  },
+  {
+    "token": "'t",
+    "frequency": 22
+  },
+  {
+    "token": "J",
+    "frequency": 22
+  },
+  {
+    "token": "_m",
+    "frequency": 22
+  },
+  {
+    "token": "needs",
+    "frequency": 22
+  },
+  {
+    "token": "Prob",
+    "frequency": 22
+  },
+  {
+    "token": "aligned",
+    "frequency": 22
+  },
+  {
+    "token": "Py",
+    "frequency": 22
+  },
+  {
+    "token": "quadratic",
+    "frequency": 21
+  },
+  {
+    "token": "finding",
+    "frequency": 21
+  },
+  {
+    "token": "satisfying",
+    "frequency": 21
+  },
+  {
+    "token": "related",
+    "frequency": 21
+  },
+  {
+    "token": "greater",
+    "frequency": 21
+  },
+  {
+    "token": ")(",
+    "frequency": 21
+  },
+  {
+    "token": "Root",
+    "frequency": 21
+  },
+  {
+    "token": "meant",
+    "frequency": 21
+  },
+  {
+    "token": "modulo",
+    "frequency": 21
+  },
+  {
+    "token": "Dirk",
+    "frequency": 21
+  },
+  {
+    "token": "right",
+    "frequency": 20
+  },
+  {
+    "token": "satisfied",
+    "frequency": 20
+  },
+  {
+    "token": "based",
+    "frequency": 20
+  },
+  {
+    "token": "CD",
+    "frequency": 20
+  },
+  {
+    "token": "Note",
+    "frequency": 20
+  },
+  {
+    "token": "Line",
+    "frequency": 20
+  },
+  {
+    "token": "coordinate",
+    "frequency": 20
+  },
+  {
+    "token": "made",
+    "frequency": 20
+  },
+  {
+    "token": "sides",
+    "frequency": 20
+  },
+  {
+    "token": "got",
+    "frequency": 20
+  },
+  {
+    "token": "Okay",
+    "frequency": 20
+  },
+  {
+    "token": "ab",
+    "frequency": 20
+  },
+  {
+    "token": "showed",
+    "frequency": 20
+  },
+  {
+    "token": "Disc",
+    "frequency": 20
+  },
+  {
+    "token": "Even",
+    "frequency": 20
+  },
+  {
+    "token": "enough",
+    "frequency": 20
+  },
+  {
+    "token": "operation",
+    "frequency": 20
+  },
+  {
+    "token": "stays",
+    "frequency": 20
+  },
+  {
+    "token": "game",
+    "frequency": 20
+  },
+  {
+    "token": "bip",
+    "frequency": 20
+  },
+  {
+    "token": "HF",
+    "frequency": 20
+  },
+  {
+    "token": "time",
+    "frequency": 20
+  },
+  {
+    "token": "regions",
+    "frequency": 20
+  },
+  {
+    "token": "outcome",
+    "frequency": 20
+  },
+  {
+    "token": "substitute",
+    "frequency": 19
+  },
+  {
+    "token": "equ",
+    "frequency": 19
+  },
+  {
+    "token": "above",
+    "frequency": 19
+  },
+  {
+    "token": "parameter",
+    "frequency": 19
+  },
+  {
+    "token": "dots",
+    "frequency": 19
+  },
+  {
+    "token": "complex",
+    "frequency": 19
+  },
+  {
+    "token": "rotated",
+    "frequency": 19
+  },
+  {
+    "token": "new",
+    "frequency": 19
+  },
+  {
+    "token": "similar",
+    "frequency": 19
+  },
+  {
+    "token": "sums",
+    "frequency": 19
+  },
+  {
+    "token": "partitions",
+    "frequency": 19
+  },
+  {
+    "token": "factors",
+    "frequency": 19
+  },
+  {
+    "token": "map",
+    "frequency": 19
+  },
+  {
+    "token": "_j",
+    "frequency": 19
+  },
+  {
+    "token": "primes",
+    "frequency": 19
+  },
+  {
+    "token": "gets",
+    "frequency": 19
+  },
+  {
+    "token": "discard",
+    "frequency": 19
+  },
+  {
+    "token": "divisor",
+    "frequency": 19
+  },
+  {
+    "token": "randomly",
+    "frequency": 19
+  },
+  {
+    "token": "Spread",
+    "frequency": 19
+  },
+  {
+    "token": "theta",
+    "frequency": 18
+  },
+  {
+    "token": "beta",
+    "frequency": 18
+  },
+  {
+    "token": "sin",
+    "frequency": 18
+  },
+  {
+    "token": "BD",
+    "frequency": 18
+  },
+  {
+    "token": "Where",
+    "frequency": 18
+  },
+  {
+    "token": "Intersection",
+    "frequency": 18
+  },
+  {
+    "token": "Because",
+    "frequency": 18
+  },
+  {
+    "token": "-c",
+    "frequency": 18
+  },
+  {
+    "token": "Term",
+    "frequency": 18
+  },
+  {
+    "token": "distribution",
+    "frequency": 18
+  },
+  {
+    "token": "contain",
+    "frequency": 18
+  },
+  {
+    "token": "Matches",
+    "frequency": 18
+  },
+  {
+    "token": "wrote",
+    "frequency": 18
+  },
+  {
+    "token": "conditions",
+    "frequency": 18
+  },
+  {
+    "token": "trace",
+    "frequency": 18
+  },
+  {
+    "token": "element",
+    "frequency": 18
+  },
+  {
+    "token": "much",
+    "frequency": 18
+  },
+  {
+    "token": "analysis",
+    "frequency": 18
+  },
+  {
+    "token": "said",
+    "frequency": 18
+  },
+  {
+    "token": "largest",
+    "frequency": 18
+  },
+  {
+    "token": "via",
+    "frequency": 18
+  },
+  {
+    "token": "parab",
+    "frequency": 18
+  },
+  {
+    "token": "removed",
+    "frequency": 18
+  },
+  {
+    "token": "iff",
+    "frequency": 18
+  },
+  {
+    "token": "AF",
+    "frequency": 18
+  },
+  {
+    "token": "AH",
+    "frequency": 18
+  },
+  {
+    "token": "roll",
+    "frequency": 18
+  },
+  {
+    "token": "triple",
+    "frequency": 18
+  },
+  {
+    "token": "$q",
+    "frequency": 18
+  },
+  {
+    "token": "makes",
+    "frequency": 17
+  },
+  {
+    "token": "solve",
+    "frequency": 17
+  },
+  {
+    "token": "simplify",
+    "frequency": 17
+  },
+  {
+    "token": "$p",
+    "frequency": 17
+  },
+  {
+    "token": "}(",
+    "frequency": 17
+  },
+  {
+    "token": "shift",
+    "frequency": 17
+  },
+  {
+    "token": "necessarily",
+    "frequency": 17
+  },
+  {
+    "token": "call",
+    "frequency": 17
+  },
+  {
+    "token": "still",
+    "frequency": 17
+  },
+  {
+    "token": "example",
+    "frequency": 17
+  },
+  {
+    "token": "changes",
+    "frequency": 17
+  },
+  {
+    "token": "discrimin",
+    "frequency": 17
+  },
+  {
+    "token": "placed",
+    "frequency": 17
+  },
+  {
+    "token": "cards",
+    "frequency": 17
+  },
+  {
+    "token": "Double",
+    "frequency": 17
+  },
+  {
+    "token": "Next",
+    "frequency": 17
+  },
+  {
+    "token": "triples",
+    "frequency": 17
+  },
+  {
+    "token": "approx",
+    "frequency": 17
+  },
+  {
+    "token": "^{",
+    "frequency": 17
+  },
+  {
+    "token": "closest",
+    "frequency": 17
+  },
+  {
+    "token": "needed",
+    "frequency": 17
+  },
+  {
+    "token": "=x",
+    "frequency": 17
+  },
+  {
+    "token": "complement",
+    "frequency": 17
+  },
+  {
+    "token": "Distance",
+    "frequency": 17
+  },
+  {
+    "token": "decom",
+    "frequency": 17
+  },
+  {
+    "token": "ALL",
+    "frequency": 17
+  },
+  {
+    "token": "within",
+    "frequency": 17
+  },
+  {
+    "token": "$f",
+    "frequency": 17
+  },
+  {
+    "token": "meet",
+    "frequency": 17
+  },
+  {
+    "token": "copr",
+    "frequency": 17
+  },
+  {
+    "token": "arrangement",
+    "frequency": 17
+  },
+  {
+    "token": "wording",
+    "frequency": 16
+  },
+  {
+    "token": "geometry",
+    "frequency": 16
+  },
+  {
+    "token": "lie",
+    "frequency": 16
+  },
+  {
+    "token": "vectors",
+    "frequency": 16
+  },
+  {
+    "token": "half",
+    "frequency": 16
+  },
+  {
+    "token": "By",
+    "frequency": 16
+  },
+  {
+    "token": "cubic",
+    "frequency": 16
+  },
+  {
+    "token": "_A",
+    "frequency": 16
+  },
+  {
+    "token": "cases",
+    "frequency": 16
+  },
+  {
+    "token": "Similarly",
+    "frequency": 16
+  },
+  {
+    "token": "base",
+    "frequency": 16
+  },
+  {
+    "token": "average",
+    "frequency": 16
+  },
+  {
+    "token": "setup",
+    "frequency": 16
+  },
+  {
+    "token": "miss",
+    "frequency": 16
+  },
+  {
+    "token": "Therefore",
+    "frequency": 16
+  },
+  {
+    "token": "definitely",
+    "frequency": 16
+  },
+  {
+    "token": "includes",
+    "frequency": 16
+  },
+  {
+    "token": "anything",
+    "frequency": 16
+  },
+  {
+    "token": "linear",
+    "frequency": 16
+  },
+  {
+    "token": "remains",
+    "frequency": 16
+  },
+  {
+    "token": "_n",
+    "frequency": 16
+  },
+  {
+    "token": "match",
+    "frequency": 16
+  },
+  {
+    "token": "_x",
+    "frequency": 16
+  },
+  {
+    "token": "isolated",
+    "frequency": 16
+  },
+  {
+    "token": "through",
+    "frequency": 16
+  },
+  {
+    "token": "consecutive",
+    "frequency": 16
+  },
+  {
+    "token": "infinitely",
+    "frequency": 16
+  },
+  {
+    "token": "Fro",
+    "frequency": 16
+  },
+  {
+    "token": "formed",
+    "frequency": 15
+  },
+  {
+    "token": "type",
+    "frequency": 15
+  },
+  {
+    "token": "imply",
+    "frequency": 15
+  },
+  {
+    "token": "express",
+    "frequency": 15
+  },
+  {
+    "token": "containing",
+    "frequency": 15
+  },
+  {
+    "token": "Vector",
+    "frequency": 15
+  },
+  {
+    "token": "sqrt",
+    "frequency": 15
+  },
+  {
+    "token": "{(",
+    "frequency": 15
+  },
+  {
+    "token": "wrong",
+    "frequency": 15
+  },
+  {
+    "token": "These",
+    "frequency": 15
+  },
+  {
+    "token": "guaranteed",
+    "frequency": 15
+  },
+  {
+    "token": "here",
+    "frequency": 15
+  },
+  {
+    "token": "saying",
+    "frequency": 15
+  },
+  {
+    "token": "already",
+    "frequency": 15
+  },
+  {
+    "token": "likely",
+    "frequency": 15
+  },
+  {
+    "token": "Just",
+    "frequency": 15
+  },
+  {
+    "token": "invariant",
+    "frequency": 15
+  },
+  {
+    "token": "Which",
+    "frequency": 15
+  },
+  {
+    "token": "card",
+    "frequency": 15
+  },
+  {
+    "token": "Sequence",
+    "frequency": 15
+  },
+  {
+    "token": "transition",
+    "frequency": 15
+  },
+  {
+    "token": "covered",
+    "frequency": 15
+  },
+  {
+    "token": "Everything",
+    "frequency": 15
+  },
+  {
+    "token": "reached",
+    "frequency": 15
+  },
+  {
+    "token": "horizontal",
+    "frequency": 15
+  },
+  {
+    "token": "bus",
+    "frequency": 15
+  },
+  {
+    "token": "mid",
+    "frequency": 15
+  },
+  {
+    "token": "_P",
+    "frequency": 15
+  },
+  {
+    "token": "Board",
+    "frequency": 15
+  },
+  {
+    "token": "loses",
+    "frequency": 15
+  },
+  {
+    "token": "internal",
+    "frequency": 14
+  },
+  {
+    "token": "ratio",
+    "frequency": 14
+  },
+  {
+    "token": "+x",
+    "frequency": 14
+  },
+  {
+    "token": "(A",
+    "frequency": 14
+  },
+  {
+    "token": "ar",
+    "frequency": 14
+  },
+  {
+    "token": "assumption",
+    "frequency": 14
+  },
+  {
+    "token": "},",
+    "frequency": 14
+  },
+  {
+    "token": "shape",
+    "frequency": 14
+  },
+  {
+    "token": "int",
+    "frequency": 14
+  },
+  {
+    "token": "]$",
+    "frequency": 14
+  },
+  {
+    "token": "divide",
+    "frequency": 14
+  },
+  {
+    "token": "Result",
+    "frequency": 14
+  },
+  {
+    "token": "definition",
+    "frequency": 14
+  },
+  {
+    "token": "actually",
+    "frequency": 14
+  },
+  {
+    "token": "require",
+    "frequency": 14
+  },
+  {
+    "token": "-read",
+    "frequency": 14
+  },
+  {
+    "token": "Indices",
+    "frequency": 14
+  },
+  {
+    "token": "Factors",
+    "frequency": 14
+  },
+  {
+    "token": "assign",
+    "frequency": 14
+  },
+  {
+    "token": "than",
+    "frequency": 14
+  },
+  {
+    "token": "Min",
+    "frequency": 14
+  },
+  {
+    "token": "like",
+    "frequency": 14
+  },
+  {
+    "token": "phrase",
+    "frequency": 14
+  },
+  {
+    "token": "operations",
+    "frequency": 14
+  },
+  {
+    "token": "never",
+    "frequency": 14
+  },
+  {
+    "token": "Set",
+    "frequency": 14
+  },
+  {
+    "token": "radius",
+    "frequency": 14
+  },
+  {
+    "token": "top",
+    "frequency": 14
+  },
+  {
+    "token": "cuts",
+    "frequency": 14
+  },
+  {
+    "token": "coloring",
+    "frequency": 14
+  },
+  {
+    "token": "altitude",
+    "frequency": 14
+  },
+  {
+    "token": "missing",
+    "frequency": 14
+  },
+  {
+    "token": "Remaining",
+    "frequency": 14
+  },
+  {
+    "token": "scores",
+    "frequency": 14
+  },
+  {
+    "token": "extension",
+    "frequency": 13
+  },
+  {
+    "token": "assumes",
+    "frequency": 13
+  },
+  {
+    "token": "way",
+    "frequency": 13
+  },
+  {
+    "token": "polynomial",
+    "frequency": 13
+  },
+  {
+    "token": "phi",
+    "frequency": 13
+  },
+  {
+    "token": "direction",
+    "frequency": 13
+  },
+  {
+    "token": "chosen",
+    "frequency": 13
+  },
+  {
+    "token": "(u",
+    "frequency": 13
+  },
+  {
+    "token": "Pairs",
+    "frequency": 13
+  },
+  {
+    "token": "areas",
+    "frequency": 13
+  },
+  {
+    "token": "happens",
+    "frequency": 13
+  },
+  {
+    "token": "-b",
+    "frequency": 13
+  },
+  {
+    "token": "exist",
+    "frequency": 13
+  },
+  {
+    "token": "proved",
+    "frequency": 13
+  },
+  {
+    "token": "perform",
+    "frequency": 13
+  },
+  {
+    "token": "remainder",
+    "frequency": 13
+  },
+  {
+    "token": "Forward",
+    "frequency": 13
+  },
+  {
+    "token": "\",",
+    "frequency": 13
+  },
+  {
+    "token": "Using",
+    "frequency": 13
+  },
+  {
+    "token": "less",
+    "frequency": 13
+  },
+  {
+    "token": "space",
+    "frequency": 13
+  },
+  {
+    "token": "Pr",
+    "frequency": 13
+  },
+  {
+    "token": "generators",
+    "frequency": 13
+  },
+  {
+    "token": "many",
+    "frequency": 13
+  },
+  {
+    "token": "maximize",
+    "frequency": 13
+  },
+  {
+    "token": "removes",
+    "frequency": 13
+  },
+  {
+    "token": "take",
+    "frequency": 13
+  },
+  {
+    "token": "(K",
+    "frequency": 13
+  },
+  {
+    "token": "etc",
+    "frequency": 13
+  },
+  {
+    "token": "$h",
+    "frequency": 13
+  },
+  {
+    "token": "Newton",
+    "frequency": 13
+  },
+  {
+    "token": "Initially",
+    "frequency": 13
+  },
+  {
+    "token": "added",
+    "frequency": 13
+  },
+  {
+    "token": "Cost",
+    "frequency": 13
+  },
+  {
+    "token": "accepted",
+    "frequency": 13
+  },
+  {
+    "token": "stop",
+    "frequency": 13
+  },
+  {
+    "token": "transitions",
+    "frequency": 13
+  },
+  {
+    "token": "=[",
+    "frequency": 13
+  },
+  {
+    "token": "calculations",
+    "frequency": 12
+  },
+  {
+    "token": "bc",
+    "frequency": 12
+  },
+  {
+    "token": "expression",
+    "frequency": 12
+  },
+  {
+    "token": "fact",
+    "frequency": 12
+  },
+  {
+    "token": "sign",
+    "frequency": 12
+  },
+  {
+    "token": "_X",
+    "frequency": 12
+  },
+  {
+    "token": ")^",
+    "frequency": 12
+  },
+  {
+    "token": "Same",
+    "frequency": 12
+  },
+  {
+    "token": "higher",
+    "frequency": 12
+  },
+  {
+    "token": "per",
+    "frequency": 12
+  },
+  {
+    "token": "thought",
+    "frequency": 12
+  },
+  {
+    "token": "whether",
+    "frequency": 12
+  },
+  {
+    "token": "ph",
+    "frequency": 12
+  },
+  {
+    "token": "detail",
+    "frequency": 12
+  },
+  {
+    "token": "led",
+    "frequency": 12
+  },
+  {
+    "token": "regardless",
+    "frequency": 12
+  },
+  {
+    "token": ".\"",
+    "frequency": 12
+  },
+  {
+    "token": "out",
+    "frequency": 12
+  },
+  {
+    "token": "repeats",
+    "frequency": 12
+  },
+  {
+    "token": "our",
+    "frequency": 12
+  },
+  {
+    "token": "steps",
+    "frequency": 12
+  },
+  {
+    "token": "\"?",
+    "frequency": 12
+  },
+  {
+    "token": "/(",
+    "frequency": 12
+  },
+  {
+    "token": "Define",
+    "frequency": 12
+  },
+  {
+    "token": "Did",
+    "frequency": 12
+  },
+  {
+    "token": "am",
+    "frequency": 12
+  },
+  {
+    "token": "inequality",
+    "frequency": 12
+  },
+  {
+    "token": "Impossible",
+    "frequency": 12
+  },
+  {
+    "token": "minimal",
+    "frequency": 12
+  },
+  {
+    "token": "candidate",
+    "frequency": 12
+  },
+  {
+    "token": "_c",
+    "frequency": 12
+  },
+  {
+    "token": "contained",
+    "frequency": 12
+  },
+  {
+    "token": "cap",
+    "frequency": 12
+  },
+  {
+    "token": "bad",
+    "frequency": 12
+  },
+  {
+    "token": "define",
+    "frequency": 12
+  },
+  {
+    "token": "buses",
+    "frequency": 12
+  },
+  {
+    "token": "Trans",
+    "frequency": 12
+  },
+  {
+    "token": ")-",
+    "frequency": 12
+  },
+  {
+    "token": "carry",
+    "frequency": 12
+  },
+  {
+    "token": "residue",
+    "frequency": 12
+  },
+  {
+    "token": "Mod",
+    "frequency": 12
+  },
+  {
+    "token": "gaps",
+    "frequency": 12
+  },
+  {
+    "token": "consume",
+    "frequency": 12
+  },
+  {
+    "token": "hyp",
+    "frequency": 12
+  },
+  {
+    "token": "xy",
+    "frequency": 11
+  },
+  {
+    "token": "substitution",
+    "frequency": 11
+  },
+  {
+    "token": "simpler",
+    "frequency": 11
+  },
+  {
+    "token": "BM",
+    "frequency": 11
+  },
+  {
+    "token": "MC",
+    "frequency": 11
+  },
+  {
+    "token": "determine",
+    "frequency": 11
+  },
+  {
+    "token": "coll",
+    "frequency": 11
+  },
+  {
+    "token": "interior",
+    "frequency": 11
+  },
+  {
+    "token": "defines",
+    "frequency": 11
+  },
+  {
+    "token": "_E",
+    "frequency": 11
+  },
+  {
+    "token": "+k",
+    "frequency": 11
+  },
+  {
+    "token": "correctly",
+    "frequency": 11
+  },
+  {
+    "token": "vs",
+    "frequency": 11
+  },
+  {
+    "token": "cos",
+    "frequency": 11
+  },
+  {
+    "token": "pass",
+    "frequency": 11
+  },
+  {
+    "token": "perimeter",
+    "frequency": 11
+  },
+  {
+    "token": "consists",
+    "frequency": 11
+  },
+  {
+    "token": "Length",
+    "frequency": 11
+  },
+  {
+    "token": "uv",
+    "frequency": 11
+  },
+  {
+    "token": "mistake",
+    "frequency": 11
+  },
+  {
+    "token": "Average",
+    "frequency": 11
+  },
+  {
+    "token": "$s",
+    "frequency": 11
+  },
+  {
+    "token": "Unless",
+    "frequency": 11
+  },
+  {
+    "token": "Contr",
+    "frequency": 11
+  },
+  {
+    "token": "Both",
+    "frequency": 11
+  },
+  {
+    "token": "uniquely",
+    "frequency": 11
+  },
+  {
+    "token": "leaves",
+    "frequency": 11
+  },
+  {
+    "token": "items",
+    "frequency": 11
+  },
+  {
+    "token": "continues",
+    "frequency": 11
+  },
+  {
+    "token": "mod",
+    "frequency": 11
+  },
+  {
+    "token": "getting",
+    "frequency": 11
+  },
+  {
+    "token": "split",
+    "frequency": 11
+  },
+  {
+    "token": "Find",
+    "frequency": 11
+  },
+  {
+    "token": "towards",
+    "frequency": 11
+  },
+  {
+    "token": "Given",
+    "frequency": 11
+  },
+  {
+    "token": "variables",
+    "frequency": 11
+  },
+  {
+    "token": "coefficient",
+    "frequency": 11
+  },
+  {
+    "token": "</think>",
+    "frequency": 11
+  },
+  {
+    "token": "gap",
+    "frequency": 11
+  },
+  {
+    "token": "Try",
+    "frequency": 11
+  },
+  {
+    "token": "math",
+    "frequency": 11
+  },
+  {
+    "token": "$$",
+    "frequency": 11
+  },
+  {
+    "token": "(t",
+    "frequency": 11
+  },
+  {
+    "token": "PT",
+    "frequency": 11
+  },
+  {
+    "token": "generator",
+    "frequency": 11
+  },
+  {
+    "token": "whose",
+    "frequency": 11
+  },
+  {
+    "token": "rectangle",
+    "frequency": 11
+  },
+  {
+    "token": "invalid",
+    "frequency": 11
+  },
+  {
+    "token": "meetings",
+    "frequency": 11
+  },
+  {
+    "token": "she",
+    "frequency": 11
+  },
+  {
+    "token": "apples",
+    "frequency": 11
+  },
+  {
+    "token": "die",
+    "frequency": 11
+  },
+  {
+    "token": "prob",
+    "frequency": 11
+  },
+  {
+    "token": "digit",
+    "frequency": 11
+  },
+  {
+    "token": "primitive",
+    "frequency": 11
+  },
+  {
+    "token": "losing",
+    "frequency": 11
+  },
+  {
+    "token": "stick",
+    "frequency": 10
+  },
+  {
+    "token": "yields",
+    "frequency": 10
+  },
+  {
+    "token": "!",
+    "frequency": 10
+  },
+  {
+    "token": "simply",
+    "frequency": 10
+  },
+  {
+    "token": "scaling",
+    "frequency": 10
+  },
+  {
+    "token": "(k",
+    "frequency": 10
+  },
+  {
+    "token": "without",
+    "frequency": 10
+  },
+  {
+    "token": "Integral",
+    "frequency": 10
+  },
+  {
+    "token": "Se",
+    "frequency": 10
+  },
+  {
+    "token": "relations",
+    "frequency": 10
+  },
+  {
+    "token": "coefficients",
+    "frequency": 10
+  },
+  {
+    "token": "-a",
+    "frequency": 10
+  },
+  {
+    "token": "Notice",
+    "frequency": 10
+  },
+  {
+    "token": "Only",
+    "frequency": 10
+  },
+  {
+    "token": "system",
+    "frequency": 10
+  },
+  {
+    "token": "=b",
+    "frequency": 10
+  },
+  {
+    "token": "allows",
+    "frequency": 10
+  },
+  {
+    "token": "except",
+    "frequency": 10
+  },
+  {
+    "token": "comes",
+    "frequency": 10
+  },
+  {
+    "token": "difference",
+    "frequency": 10
+  },
+  {
+    "token": "counts",
+    "frequency": 10
+  },
+  {
+    "token": "ordered",
+    "frequency": 10
+  },
+  {
+    "token": "trip",
+    "frequency": 10
+  },
+  {
+    "token": "-x",
+    "frequency": 10
+  },
+  {
+    "token": "test",
+    "frequency": 10
+  },
+  {
+    "token": "squares",
+    "frequency": 10
+  },
+  {
+    "token": "decreases",
+    "frequency": 10
+  },
+  {
+    "token": "differently",
+    "frequency": 10
+  },
+  {
+    "token": "',",
+    "frequency": 10
+  },
+  {
+    "token": "apply",
+    "frequency": 10
+  },
+  {
+    "token": "connectivity",
+    "frequency": 10
+  },
+  {
+    "token": "class",
+    "frequency": 10
+  },
+  {
+    "token": "avoid",
+    "frequency": 10
+  },
+  {
+    "token": "matching",
+    "frequency": 10
+  },
+  {
+    "token": "subseteq",
+    "frequency": 10
+  },
+  {
+    "token": "(C",
+    "frequency": 10
+  },
+  {
+    "token": "reflection",
+    "frequency": 10
+  },
+  {
+    "token": "BF",
+    "frequency": 10
+  },
+  {
+    "token": "CF",
+    "frequency": 10
+  },
+  {
+    "token": "expansion",
+    "frequency": 10
+  },
+  {
+    "token": "Town",
+    "frequency": 10
+  },
+  {
+    "token": "When",
+    "frequency": 10
+  },
+  {
+    "token": "eventually",
+    "frequency": 10
+  },
+  {
+    "token": "occur",
+    "frequency": 10
+  },
+  {
+    "token": "**",
+    "frequency": 10
+  },
+  {
+    "token": "buy",
+    "frequency": 10
+  },
+  {
+    "token": "mango",
+    "frequency": 10
+  },
+  {
+    "token": "rolls",
+    "frequency": 10
+  },
+  {
+    "token": "append",
+    "frequency": 10
+  },
+  {
+    "token": "lower",
+    "frequency": 10
+  },
+  {
+    "token": "intervals",
+    "frequency": 10
+  },
+  {
+    "token": "Joe",
+    "frequency": 10
+  },
+  {
+    "token": "OR",
+    "frequency": 10
+  },
+  {
+    "token": "QR",
+    "frequency": 10
+  },
+  {
+    "token": "legs",
+    "frequency": 10
+  },
+  {
+    "token": "symmetry",
+    "frequency": 9
+  },
+  {
+    "token": ")}",
+    "frequency": 9
+  },
+  {
+    "token": "Angle",
+    "frequency": 9
+  },
+  {
+    "token": "tan",
+    "frequency": 9
+  },
+  {
+    "token": "below",
+    "frequency": 9
+  },
+  {
+    "token": "slopes",
+    "frequency": 9
+  },
+  {
+    "token": ")/",
+    "frequency": 9
+  },
+  {
+    "token": "depend",
+    "frequency": 9
+  },
+  {
+    "token": "{x",
+    "frequency": 9
+  },
+  {
+    "token": "height",
+    "frequency": 9
+  },
+  {
+    "token": "opposite",
+    "frequency": 9
+  },
+  {
+    "token": "Di",
+    "frequency": 9
+  },
+  {
+    "token": "Number",
+    "frequency": 9
+  },
+  {
+    "token": "Formula",
+    "frequency": 9
+  },
+  {
+    "token": "relatively",
+    "frequency": 9
+  },
+  {
+    "token": "Previous",
+    "frequency": 9
+  },
+  {
+    "token": "$v",
+    "frequency": 9
+  },
+  {
+    "token": "=A",
+    "frequency": 9
+  },
+  {
+    "token": "covers",
+    "frequency": 9
+  },
+  {
+    "token": "consistency",
+    "frequency": 9
+  },
+  {
+    "token": "relationship",
+    "frequency": 9
+  },
+  {
+    "token": "share",
+    "frequency": 9
+  },
+  {
+    "token": "existence",
+    "frequency": 9
+  },
+  {
+    "token": "fine",
+    "frequency": 9
+  },
+  {
+    "token": "'m",
+    "frequency": 9
+  },
+  {
+    "token": "Cards",
+    "frequency": 9
+  },
+  {
+    "token": "index",
+    "frequency": 9
+  },
+  {
+    "token": "listed",
+    "frequency": 9
+  },
+  {
+    "token": "path",
+    "frequency": 9
+  },
+  {
+    "token": "Adding",
+    "frequency": 9
+  },
+  {
+    "token": "else",
+    "frequency": 9
+  },
+  {
+    "token": "interpret",
+    "frequency": 9
+  },
+  {
+    "token": "ensures",
+    "frequency": 9
+  },
+  {
+    "token": "Difference",
+    "frequency": 9
+  },
+  {
+    "token": "bases",
+    "frequency": 9
+  },
+  {
+    "token": "fraction",
+    "frequency": 9
+  },
+  {
+    "token": "clearly",
+    "frequency": 9
+  },
+  {
+    "token": "'+",
+    "frequency": 9
+  },
+  {
+    "token": "problems",
+    "frequency": 9
+  },
+  {
+    "token": "picks",
+    "frequency": 9
+  },
+  {
+    "token": "false",
+    "frequency": 9
+  },
+  {
+    "token": "Constant",
+    "frequency": 9
+  },
+  {
+    "token": "Solution",
+    "frequency": 9
+  },
+  {
+    "token": "increasing",
+    "frequency": 9
+  },
+  {
+    "token": "bound",
+    "frequency": 9
+  },
+  {
+    "token": "Valid",
+    "frequency": 9
+  },
+  {
+    "token": "neighbors",
+    "frequency": 9
+  },
+  {
+    "token": "notice",
+    "frequency": 9
+  },
+  {
+    "token": "identity",
+    "frequency": 9
+  },
+  {
+    "token": "reachable",
+    "frequency": 9
+  },
+  {
+    "token": "pre",
+    "frequency": 9
+  },
+  {
+    "token": "axis",
+    "frequency": 9
+  },
+  {
+    "token": "Radius",
+    "frequency": 9
+  },
+  {
+    "token": "disconnect",
+    "frequency": 9
+  },
+  {
+    "token": "forming",
+    "frequency": 9
+  },
+  {
+    "token": "im",
+    "frequency": 9
+  },
+  {
+    "token": "RHS",
+    "frequency": 9
+  },
+  {
+    "token": "She",
+    "frequency": 9
+  },
+  {
+    "token": "simplest",
+    "frequency": 9
+  },
+  {
+    "token": "fruits",
+    "frequency": 9
+  },
+  {
+    "token": "Need",
+    "frequency": 9
+  },
+  {
+    "token": "increase",
+    "frequency": 9
+  },
+  {
+    "token": "accept",
+    "frequency": 9
+  },
+  {
+    "token": "well",
+    "frequency": 9
+  },
+  {
+    "token": "products",
+    "frequency": 9
+  },
+  {
+    "token": "reduces",
+    "frequency": 9
+  },
+  {
+    "token": "eq",
+    "frequency": 9
+  },
+  {
+    "token": "-\\",
+    "frequency": 8
+  },
+  {
+    "token": "place",
+    "frequency": 8
+  },
+  {
+    "token": "=c",
+    "frequency": 8
+  },
+  {
+    "token": "fixes",
+    "frequency": 8
+  },
+  {
+    "token": "(m",
+    "frequency": 8
+  },
+  {
+    "token": "derive",
+    "frequency": 8
+  },
+  {
+    "token": "simpl",
+    "frequency": 8
+  },
+  {
+    "token": "acute",
+    "frequency": 8
+  },
+  {
+    "token": "group",
+    "frequency": 8
+  },
+  {
+    "token": "integral",
+    "frequency": 8
+  },
+  {
+    "token": "Base",
+    "frequency": 8
+  },
+  {
+    "token": "Calc",
+    "frequency": 8
+  },
+  {
+    "token": "-u",
+    "frequency": 8
+  },
+  {
+    "token": "argument",
+    "frequency": 8
+  },
+  {
+    "token": "|\\",
+    "frequency": 8
+  },
+  {
+    "token": "preserved",
+    "frequency": 8
+  },
+  {
+    "token": "near",
+    "frequency": 8
+  },
+  {
+    "token": "checking",
+    "frequency": 8
+  },
+  {
+    "token": "rel",
+    "frequency": 8
+  },
+  {
+    "token": "abc",
+    "frequency": 8
+  },
+  {
+    "token": "+c",
+    "frequency": 8
+  },
+  {
+    "token": "ax",
+    "frequency": 8
+  },
+  {
+    "token": "disc",
+    "frequency": 8
+  },
+  {
+    "token": "Problem",
+    "frequency": 8
+  },
+  {
+    "token": "deduction",
+    "frequency": 8
+  },
+  {
+    "token": "restrict",
+    "frequency": 8
+  },
+  {
+    "token": "relies",
+    "frequency": 8
+  },
+  {
+    "token": "=a",
+    "frequency": 8
+  },
+  {
+    "token": "box",
+    "frequency": 8
+  },
+  {
+    "token": "repeat",
+    "frequency": 8
+  },
+  {
+    "token": "After",
+    "frequency": 8
+  },
+  {
+    "token": "ends",
+    "frequency": 8
+  },
+  {
+    "token": "repeated",
+    "frequency": 8
+  },
+  {
+    "token": "back",
+    "frequency": 8
+  },
+  {
+    "token": "blocks",
+    "frequency": 8
+  },
+  {
+    "token": "Block",
+    "frequency": 8
+  },
+  {
+    "token": "matters",
+    "frequency": 8
+  },
+  {
+    "token": "New",
+    "frequency": 8
+  },
+  {
+    "token": "+n",
+    "frequency": 8
+  },
+  {
+    "token": "how",
+    "frequency": 8
+  },
+  {
+    "token": "notation",
+    "frequency": 8
+  },
+  {
+    "token": "method",
+    "frequency": 8
+  },
+  {
+    "token": "zero",
+    "frequency": 8
+  },
+  {
+    "token": "Use",
+    "frequency": 8
+  },
+  {
+    "token": "generating",
+    "frequency": 8
+  },
+  {
+    "token": "gcd",
+    "frequency": 8
+  },
+  {
+    "token": "solved",
+    "frequency": 8
+  },
+  {
+    "token": "None",
+    "frequency": 8
+  },
+  {
+    "token": "Minimum",
+    "frequency": 8
+  },
+  {
+    "token": "strict",
+    "frequency": 8
+  },
+  {
+    "token": "sm",
+    "frequency": 8
+  },
+  {
+    "token": "Constraint",
+    "frequency": 8
+  },
+  {
+    "token": "replace",
+    "frequency": 8
+  },
+  {
+    "token": "give",
+    "frequency": 8
+  },
+  {
+    "token": "those",
+    "frequency": 8
+  },
+  {
+    "token": "flips",
+    "frequency": 8
+  },
+  {
+    "token": "maps",
+    "frequency": 8
+  },
+  {
+    "token": "rest",
+    "frequency": 8
+  },
+  {
+    "token": "DY",
+    "frequency": 8
+  },
+  {
+    "token": "vertical",
+    "frequency": 8
+  },
+  {
+    "token": "colored",
+    "frequency": 8
+  },
+  {
+    "token": "fewer",
+    "frequency": 8
+  },
+  {
+    "token": "worst",
+    "frequency": 8
+  },
+  {
+    "token": "easily",
+    "frequency": 8
+  },
+  {
+    "token": "Ass",
+    "frequency": 8
+  },
+  {
+    "token": "reaching",
+    "frequency": 8
+  },
+  {
+    "token": "matter",
+    "frequency": 8
+  },
+  {
+    "token": "simultaneously",
+    "frequency": 8
+  },
+  {
+    "token": "stops",
+    "frequency": 8
+  },
+  {
+    "token": "corners",
+    "frequency": 8
+  },
+  {
+    "token": "Paint",
+    "frequency": 8
+  },
+  {
+    "token": "Black",
+    "frequency": 8
+  },
+  {
+    "token": "Equation",
+    "frequency": 8
+  },
+  {
+    "token": "combinations",
+    "frequency": 8
+  },
+  {
+    "token": "constrained",
+    "frequency": 8
+  },
+  {
+    "token": "produce",
+    "frequency": 8
+  },
+  {
+    "token": "outcomes",
+    "frequency": 8
+  },
+  {
+    "token": "multiples",
+    "frequency": 8
+  },
+  {
+    "token": "Inter",
+    "frequency": 8
+  },
+  {
+    "token": "lose",
+    "frequency": 8
+  },
+  {
+    "token": "winning",
+    "frequency": 8
+  },
+  {
+    "token": "grid",
+    "frequency": 8
+  },
+  {
+    "token": "}}",
+    "frequency": 8
+  },
+  {
+    "token": "OO",
+    "frequency": 8
+  },
+  {
+    "token": "True",
+    "frequency": 8
+  },
+  {
+    "token": "player",
+    "frequency": 8
+  },
+  {
+    "token": "^\\",
+    "frequency": 7
+  },
+  {
+    "token": "written",
+    "frequency": 7
+  },
+  {
+    "token": "angles",
+    "frequency": 7
+  },
+  {
+    "token": "ABC",
+    "frequency": 7
+  },
+  {
+    "token": "BE",
+    "frequency": 7
+  },
+  {
+    "token": "Ratio",
+    "frequency": 7
+  },
+  {
+    "token": "arbitrary",
+    "frequency": 7
+  },
+  {
+    "token": "automatically",
+    "frequency": 7
+  },
+  {
+    "token": "determines",
+    "frequency": 7
+  },
+  {
+    "token": "subt",
+    "frequency": 7
+  },
+  {
+    "token": "segments",
+    "frequency": 7
+  },
+  {
+    "token": "[\\",
+    "frequency": 7
+  },
+  {
+    "token": "function",
+    "frequency": 7
+  },
+  {
+    "token": "expectation",
+    "frequency": 7
+  },
+  {
+    "token": "Rec",
+    "frequency": 7
+  },
+  {
+    "token": "absolute",
+    "frequency": 7
+  },
+  {
+    "token": "magnitude",
+    "frequency": 7
+  },
+  {
+    "token": "far",
+    "frequency": 7
+  },
+  {
+    "token": "ming",
+    "frequency": 7
+  },
+  {
+    "token": "around",
+    "frequency": 7
+  },
+  {
+    "token": "under",
+    "frequency": 7
+  },
+  {
+    "token": "adjacent",
+    "frequency": 7
+  },
+  {
+    "token": "verified",
+    "frequency": 7
+  },
+  {
+    "token": "error",
+    "frequency": 7
+  },
+  {
+    "token": ")\\",
+    "frequency": 7
+  },
+  {
+    "token": "came",
+    "frequency": 7
+  },
+  {
+    "token": "provided",
+    "frequency": 7
+  },
+  {
+    "token": "subtle",
+    "frequency": 7
+  },
+  {
+    "token": "choice",
+    "frequency": 7
+  },
+  {
+    "token": ":**",
+    "frequency": 7
+  },
+  {
+    "token": "going",
+    "frequency": 7
+  },
+  {
+    "token": "full",
+    "frequency": 7
+  },
+  {
+    "token": "Calculate",
+    "frequency": 7
+  },
+  {
+    "token": "end",
+    "frequency": 7
+  },
+  {
+    "token": "Terms",
+    "frequency": 7
+  },
+  {
+    "token": "exact",
+    "frequency": 7
+  },
+  {
+    "token": "involves",
+    "frequency": 7
+  },
+  {
+    "token": "/n",
+    "frequency": 7
+  },
+  {
+    "token": "perfectly",
+    "frequency": 7
+  },
+  {
+    "token": "separate",
+    "frequency": 7
+  },
+  {
+    "token": "partial",
+    "frequency": 7
+  },
+  {
+    "token": "signs",
+    "frequency": 7
+  },
+  {
+    "token": "trick",
+    "frequency": 7
+  },
+  {
+    "token": "Example",
+    "frequency": 7
+  },
+  {
+    "token": "clear",
+    "frequency": 7
+  },
+  {
+    "token": "finite",
+    "frequency": 7
+  },
+  {
+    "token": "[-",
+    "frequency": 7
+  },
+  {
+    "token": "analyzed",
+    "frequency": 7
+  },
+  {
+    "token": "increases",
+    "frequency": 7
+  },
+  {
+    "token": "general",
+    "frequency": 7
+  },
+  {
+    "token": "Four",
+    "frequency": 7
+  },
+  {
+    "token": "+d",
+    "frequency": 7
+  },
+  {
+    "token": ",d",
+    "frequency": 7
+  },
+  {
+    "token": "maxim",
+    "frequency": 7
+  },
+  {
+    "token": "specified",
+    "frequency": 7
+  },
+  {
+    "token": "Each",
+    "frequency": 7
+  },
+  {
+    "token": "heads",
+    "frequency": 7
+  },
+  {
+    "token": "Any",
+    "frequency": 7
+  },
+  {
+    "token": "corresponding",
+    "frequency": 7
+  },
+  {
+    "token": "span",
+    "frequency": 7
+  },
+  {
+    "token": "rather",
+    "frequency": 7
+  },
+  {
+    "token": "shifted",
+    "frequency": 7
+  },
+  {
+    "token": "deg",
+    "frequency": 7
+  },
+  {
+    "token": "Square",
+    "frequency": 7
+  },
+  {
+    "token": "companies",
+    "frequency": 7
+  },
+  {
+    "token": ".,",
+    "frequency": 7
+  },
+  {
+    "token": "uses",
+    "frequency": 7
+  },
+  {
+    "token": "force",
+    "frequency": 7
+  },
+  {
+    "token": "incident",
+    "frequency": 7
+  },
+  {
+    "token": "sufficient",
+    "frequency": 7
+  },
+  {
+    "token": "AND",
+    "frequency": 7
+  },
+  {
+    "token": "leave",
+    "frequency": 7
+  },
+  {
+    "token": "Alt",
+    "frequency": 7
+  },
+  {
+    "token": "quart",
+    "frequency": 7
+  },
+  {
+    "token": "context",
+    "frequency": 7
+  },
+  {
+    "token": "leaving",
+    "frequency": 7
+  },
+  {
+    "token": "board",
+    "frequency": 7
+  },
+  {
+    "token": "his",
+    "frequency": 7
+  },
+  {
+    "token": "switch",
+    "frequency": 7
+  },
+  {
+    "token": "arrives",
+    "frequency": 7
+  },
+  {
+    "token": "painting",
+    "frequency": 7
+  },
+  {
+    "token": "tricky",
+    "frequency": 7
+  },
+  {
+    "token": "congr",
+    "frequency": 7
+  },
+  {
+    "token": "appending",
+    "frequency": 7
+  },
+  {
+    "token": "(U",
+    "frequency": 7
+  },
+  {
+    "token": "additional",
+    "frequency": 7
+  },
+  {
+    "token": "probabilities",
+    "frequency": 7
+  },
+  {
+    "token": "power",
+    "frequency": 7
+  },
+  {
+    "token": "middle",
+    "frequency": 7
+  },
+  {
+    "token": "win",
+    "frequency": 7
+  },
+  {
+    "token": "-q",
+    "frequency": 7
+  },
+  {
+    "token": "(w",
+    "frequency": 7
+  },
+  {
+    "token": "\"$",
+    "frequency": 6
+  },
+  {
+    "token": "centered",
+    "frequency": 6
+  },
+  {
+    "token": "relate",
+    "frequency": 6
+  },
+  {
+    "token": "l",
+    "frequency": 6
+  },
+  {
+    "token": "depending",
+    "frequency": 6
+  },
+  {
+    "token": "swapped",
+    "frequency": 6
+  },
+  {
+    "token": "high",
+    "frequency": 6
+  },
+  {
+    "token": "us",
+    "frequency": 6
+  },
+  {
+    "token": "foot",
+    "frequency": 6
+  },
+  {
+    "token": "upper",
+    "frequency": 6
+  },
+  {
+    "token": "minus",
+    "frequency": 6
+  },
+  {
+    "token": "along",
+    "frequency": 6
+  },
+  {
+    "token": "four",
+    "frequency": 6
+  },
+  {
+    "token": "parameters",
+    "frequency": 6
+  },
+  {
+    "token": "Vertices",
+    "frequency": 6
+  },
+  {
+    "token": "Sym",
+    "frequency": 6
+  },
+  {
+    "token": "off",
+    "frequency": 6
+  },
+  {
+    "token": "roughly",
+    "frequency": 6
+  },
+  {
+    "token": "ing",
+    "frequency": 6
+  },
+  {
+    "token": "division",
+    "frequency": 6
+  },
+  {
+    "token": "simple",
+    "frequency": 6
+  },
+  {
+    "token": "expressions",
+    "frequency": 6
+  },
+  {
+    "token": "relied",
+    "frequency": 6
+  },
+  {
+    "token": "forced",
+    "frequency": 6
+  },
+  {
+    "token": "Roots",
+    "frequency": 6
+  },
+  {
+    "token": "subtraction",
+    "frequency": 6
+  },
+  {
+    "token": "ruled",
+    "frequency": 6
+  },
+  {
+    "token": "identical",
+    "frequency": 6
+  },
+  {
+    "token": "Compute",
+    "frequency": 6
+  },
+  {
+    "token": "Cycle",
+    "frequency": 6
+  },
+  {
+    "token": "That",
+    "frequency": 6
+  },
+  {
+    "token": "boxes",
+    "frequency": 6
+  },
+  {
+    "token": "Period",
+    "frequency": 6
+  },
+  {
+    "token": "..",
+    "frequency": 6
+  },
+  {
+    "token": "\\[",
+    "frequency": 6
+  },
+  {
+    "token": "Trip",
+    "frequency": 6
+  },
+  {
+    "token": "manual",
+    "frequency": 6
+  },
+  {
+    "token": "series",
+    "frequency": 6
+  },
+  {
+    "token": "Current",
+    "frequency": 6
+  },
+  {
+    "token": "alternating",
+    "frequency": 6
+  },
+  {
+    "token": "unordered",
+    "frequency": 6
+  },
+  {
+    "token": "swap",
+    "frequency": 6
+  },
+  {
+    "token": "interpreted",
+    "frequency": 6
+  },
+  {
+    "token": "included",
+    "frequency": 6
+  },
+  {
+    "token": "Con",
+    "frequency": 6
+  },
+  {
+    "token": "lowest",
+    "frequency": 6
+  },
+  {
+    "token": "Calcul",
+    "frequency": 6
+  },
+  {
+    "token": "contest",
+    "frequency": 6
+  },
+  {
+    "token": "issue",
+    "frequency": 6
+  },
+  {
+    "token": "...\"",
+    "frequency": 6
+  },
+  {
+    "token": "show",
+    "frequency": 6
+  },
+  {
+    "token": "Sometimes",
+    "frequency": 6
+  },
+  {
+    "token": "fails",
+    "frequency": 6
+  },
+  {
+    "token": "worked",
+    "frequency": 6
+  },
+  {
+    "token": "candidates",
+    "frequency": 6
+  },
+  {
+    "token": "while",
+    "frequency": 6
+  },
+  {
+    "token": "stitute",
+    "frequency": 6
+  },
+  {
+    "token": "mis",
+    "frequency": 6
+  },
+  {
+    "token": "un",
+    "frequency": 6
+  },
+  {
+    "token": "rational",
+    "frequency": 6
+  },
+  {
+    "token": "OK",
+    "frequency": 6
+  },
+  {
+    "token": "involving",
+    "frequency": 6
+  },
+  {
+    "token": "minimizing",
+    "frequency": 6
+  },
+  {
+    "token": "ness",
+    "frequency": 6
+  },
+  {
+    "token": "coins",
+    "frequency": 6
+  },
+  {
+    "token": "sounds",
+    "frequency": 6
+  },
+  {
+    "token": "States",
+    "frequency": 6
+  },
+  {
+    "token": "differ",
+    "frequency": 6
+  },
+  {
+    "token": "differences",
+    "frequency": 6
+  },
+  {
+    "token": "Pair",
+    "frequency": 6
+  },
+  {
+    "token": "kernel",
+    "frequency": 6
+  },
+  {
+    "token": "image",
+    "frequency": 6
+  },
+  {
+    "token": "ANY",
+    "frequency": 6
+  },
+  {
+    "token": "'=",
+    "frequency": 6
+  },
+  {
+    "token": "splits",
+    "frequency": 6
+  },
+  {
+    "token": "Pre",
+    "frequency": 6
+  },
+  {
+    "token": "fully",
+    "frequency": 6
+  },
+  {
+    "token": "lf",
+    "frequency": 6
+  },
+  {
+    "token": "care",
+    "frequency": 6
+  },
+  {
+    "token": "significantly",
+    "frequency": 6
+  },
+  {
+    "token": "proportional",
+    "frequency": 6
+  },
+  {
+    "token": "Sphere",
+    "frequency": 6
+  },
+  {
+    "token": "\"If",
+    "frequency": 6
+  },
+  {
+    "token": "fix",
+    "frequency": 6
+  },
+  {
+    "token": "sec",
+    "frequency": 6
+  },
+  {
+    "token": "Circle",
+    "frequency": 6
+  },
+  {
+    "token": "yield",
+    "frequency": 6
+  },
+  {
+    "token": "Cancel",
+    "frequency": 6
+  },
+  {
+    "token": "convention",
+    "frequency": 6
+  },
+  {
+    "token": "itself",
+    "frequency": 6
+  },
+  {
+    "token": "Every",
+    "frequency": 6
+  },
+  {
+    "token": "forms",
+    "frequency": 6
+  },
+  {
+    "token": "known",
+    "frequency": 6
+  },
+  {
+    "token": "crossing",
+    "frequency": 6
+  },
+  {
+    "token": "across",
+    "frequency": 6
+  },
+  {
+    "token": "you",
+    "frequency": 6
+  },
+  {
+    "token": "decomposition",
+    "frequency": 6
+  },
+  {
+    "token": "separated",
+    "frequency": 6
+  },
+  {
+    "token": "hard",
+    "frequency": 6
+  },
+  {
+    "token": "parts",
+    "frequency": 6
+  },
+  {
+    "token": "lengths",
+    "frequency": 6
+  },
+  {
+    "token": "obt",
+    "frequency": 6
+  },
+  {
+    "token": "algebra",
+    "frequency": 6
+  },
+  {
+    "token": "+v",
+    "frequency": 6
+  },
+  {
+    "token": "switching",
+    "frequency": 6
+  },
+  {
+    "token": "paints",
+    "frequency": 6
+  },
+  {
+    "token": "shapes",
+    "frequency": 6
+  },
+  {
+    "token": "sup",
+    "frequency": 6
+  },
+  {
+    "token": "adds",
+    "frequency": 6
+  },
+  {
+    "token": "relevant",
+    "frequency": 6
+  },
+  {
+    "token": "denominator",
+    "frequency": 6
+  },
+  {
+    "token": "})",
+    "frequency": 6
+  },
+  {
+    "token": "work",
+    "frequency": 6
+  },
+  {
+    "token": "Roll",
+    "frequency": 6
+  },
+  {
+    "token": "Prime",
+    "frequency": 6
+  },
+  {
+    "token": "bounded",
+    "frequency": 6
+  },
+  {
+    "token": "sufficiently",
+    "frequency": 6
+  },
+  {
+    "token": "'_",
+    "frequency": 6
+  },
+  {
+    "token": "drops",
+    "frequency": 6
+  },
+  {
+    "token": "students",
+    "frequency": 6
+  },
+  {
+    "token": "reduce",
+    "frequency": 6
+  },
+  {
+    "token": "lost",
+    "frequency": 6
+  },
+  {
+    "token": "selecting",
+    "frequency": 6
+  },
+  {
+    "token": "=n",
+    "frequency": 6
+  },
+  {
+    "token": "oriented",
+    "frequency": 6
+  },
+  {
+    "token": "Surface",
+    "frequency": 6
+  },
+  {
+    "token": "(f",
+    "frequency": 6
+  },
+  {
+    "token": "events",
+    "frequency": 6
+  },
+  {
+    "token": "log",
+    "frequency": 6
+  },
+  {
+    "token": "_R",
+    "frequency": 6
+  },
+  {
+    "token": "ID",
+    "frequency": 6
+  },
+  {
+    "token": "+y",
+    "frequency": 5
+  },
+  {
+    "token": "yet",
+    "frequency": 5
+  },
+  {
+    "token": "locus",
+    "frequency": 5
+  },
+  {
+    "token": "somewhere",
+    "frequency": 5
+  },
+  {
+    "token": "MUST",
+    "frequency": 5
+  },
+  {
+    "token": "help",
+    "frequency": 5
+  },
+  {
+    "token": "expand",
+    "frequency": 5
+  },
+  {
+    "token": "explicitly",
+    "frequency": 5
+  },
+  {
+    "token": "too",
+    "frequency": 5
+  },
+  {
+    "token": "shifting",
+    "frequency": 5
+  },
+  {
+    "token": "reasonable",
+    "frequency": 5
+  },
+  {
+    "token": "Triangle",
+    "frequency": 5
+  },
+  {
+    "token": "approach",
+    "frequency": 5
+  },
+  {
+    "token": "down",
+    "frequency": 5
+  },
+  {
+    "token": "vec",
+    "frequency": 5
+  },
+  {
+    "token": "ide",
+    "frequency": 5
+  },
+  {
+    "token": "sym",
+    "frequency": 5
+  },
+  {
+    "token": "diagonal",
+    "frequency": 5
+  },
+  {
+    "token": "=D",
+    "frequency": 5
+  },
+  {
+    "token": "[X",
+    "frequency": 5
+  },
+  {
+    "token": "Cons",
+    "frequency": 5
+  },
+  {
+    "token": "confirm",
+    "frequency": 5
+  },
+  {
+    "token": "/\\",
+    "frequency": 5
+  },
+  {
+    "token": "rearr",
+    "frequency": 5
+  },
+  {
+    "token": "bx",
+    "frequency": 5
+  },
+  {
+    "token": "sanity",
+    "frequency": 5
+  },
+  {
+    "token": "thing",
+    "frequency": 5
+  },
+  {
+    "token": "didn",
+    "frequency": 5
+  },
+  {
+    "token": "excluded",
+    "frequency": 5
+  },
+  {
+    "token": "takes",
+    "frequency": 5
+  },
+  {
+    "token": "First",
+    "frequency": 5
+  },
+  {
+    "token": "repeating",
+    "frequency": 5
+  },
+  {
+    "token": "chance",
+    "frequency": 5
+  },
+  {
+    "token": "followed",
+    "frequency": 5
+  },
+  {
+    "token": "effectively",
+    "frequency": 5
+  },
+  {
+    "token": ",n",
+    "frequency": 5
+  },
+  {
+    "token": "Odd",
+    "frequency": 5
+  },
+  {
+    "token": "conver",
+    "frequency": 5
+  },
+  {
+    "token": "few",
+    "frequency": 5
+  },
+  {
+    "token": "ex",
+    "frequency": 5
+  },
+  {
+    "token": "select",
+    "frequency": 5
+  },
+  {
+    "token": "others",
+    "frequency": 5
+  },
+  {
+    "token": "restricted",
+    "frequency": 5
+  },
+  {
+    "token": "\"The",
+    "frequency": 5
+  },
+  {
+    "token": "'ll",
+    "frequency": 5
+  },
+  {
+    "token": "potential",
+    "frequency": 5
+  },
+  {
+    "token": "reasoning",
+    "frequency": 5
+  },
+  {
+    "token": "undefined",
+    "frequency": 5
+  },
+  {
+    "token": "+m",
+    "frequency": 5
+  },
+  {
+    "token": "bounding",
+    "frequency": 5
+  },
+  {
+    "token": "grows",
+    "frequency": 5
+  },
+  {
+    "token": "plus",
+    "frequency": 5
+  },
+  {
+    "token": "Cor",
+    "frequency": 5
+  },
+  {
+    "token": "keeps",
+    "frequency": 5
+  },
+  {
+    "token": "Operation",
+    "frequency": 5
+  },
+  {
+    "token": "subs",
+    "frequency": 5
+  },
+  {
+    "token": "whole",
+    "frequency": 5
+  },
+  {
+    "token": "operate",
+    "frequency": 5
+  },
+  {
+    "token": "formal",
+    "frequency": 5
+  },
+  {
+    "token": "bit",
+    "frequency": 5
+  },
+  {
+    "token": "par",
+    "frequency": 5
+  },
+  {
+    "token": "mapping",
+    "frequency": 5
+  },
+  {
+    "token": "belong",
+    "frequency": 5
+  },
+  {
+    "token": "}_",
+    "frequency": 5
+  },
+  {
+    "token": "Weights",
+    "frequency": 5
+  },
+  {
+    "token": "fits",
+    "frequency": 5
+  },
+  {
+    "token": "{n",
+    "frequency": 5
+  },
+  {
+    "token": "quite",
+    "frequency": 5
+  },
+  {
+    "token": "focus",
+    "frequency": 5
+  },
+  {
+    "token": "-check",
+    "frequency": 5
+  },
+  {
+    "token": "touches",
+    "frequency": 5
+  },
+  {
+    "token": "Constraints",
+    "frequency": 5
+  },
+  {
+    "token": "huge",
+    "frequency": 5
+  },
+  {
+    "token": "assigned",
+    "frequency": 5
+  },
+  {
+    "token": "prevent",
+    "frequency": 5
+  },
+  {
+    "token": "construction",
+    "frequency": 5
+  },
+  {
+    "token": "pairwise",
+    "frequency": 5
+  },
+  {
+    "token": "Dis",
+    "frequency": 5
+  },
+  {
+    "token": "least",
+    "frequency": 5
+  },
+  {
+    "token": "(O",
+    "frequency": 5
+  },
+  {
+    "token": "_H",
+    "frequency": 5
+  },
+  {
+    "token": "extremely",
+    "frequency": 5
+  },
+  {
+    "token": "hours",
+    "frequency": 5
+  },
+  {
+    "token": "noon",
+    "frequency": 5
+  },
+  {
+    "token": "until",
+    "frequency": 5
+  },
+  {
+    "token": "catch",
+    "frequency": 5
+  },
+  {
+    "token": "once",
+    "frequency": 5
+  },
+  {
+    "token": "track",
+    "frequency": 5
+  },
+  {
+    "token": "him",
+    "frequency": 5
+  },
+  {
+    "token": "arriving",
+    "frequency": 5
+  },
+  {
+    "token": "ones",
+    "frequency": 5
+  },
+  {
+    "token": "travels",
+    "frequency": 5
+  },
+  {
+    "token": "initially",
+    "frequency": 5
+  },
+  {
+    "token": "nested",
+    "frequency": 5
+  },
+  {
+    "token": "Side",
+    "frequency": 5
+  },
+  {
+    "token": "overlap",
+    "frequency": 5
+  },
+  {
+    "token": "pi",
+    "frequency": 5
+  },
+  {
+    "token": "diameter",
+    "frequency": 5
+  },
+  {
+    "token": "wouldn",
+    "frequency": 5
+  },
+  {
+    "token": "generates",
+    "frequency": 5
+  },
+  {
+    "token": "bought",
+    "frequency": 5
+  },
+  {
+    "token": "mandatory",
+    "frequency": 5
+  },
+  {
+    "token": "Checked",
+    "frequency": 5
+  },
+  {
+    "token": "apple",
+    "frequency": 5
+  },
+  {
+    "token": "rolling",
+    "frequency": 5
+  },
+  {
+    "token": "collected",
+    "frequency": 5
+  },
+  {
+    "token": "lead",
+    "frequency": 5
+  },
+  {
+    "token": "List",
+    "frequency": 5
+  },
+  {
+    "token": "zeros",
+    "frequency": 5
+  },
+  {
+    "token": "arbitrarily",
+    "frequency": 5
+  },
+  {
+    "token": "Option",
+    "frequency": 5
+  },
+  {
+    "token": "Die",
+    "frequency": 5
+  },
+  {
+    "token": "transvers",
+    "frequency": 5
+  },
+  {
+    "token": "Gap",
+    "frequency": 5
+  },
+  {
+    "token": "arranged",
+    "frequency": 5
+  },
+  {
+    "token": "equally",
+    "frequency": 5
+  },
+  {
+    "token": "Allowed",
+    "frequency": 5
+  },
+  {
+    "token": "W",
+    "frequency": 5
+  },
+  {
+    "token": "CA",
+    "frequency": 5
+  },
+  {
+    "token": "beyond",
+    "frequency": 4
+  },
+  {
+    "token": "BAD",
+    "frequency": 4
+  },
+  {
+    "token": "put",
+    "frequency": 4
+  },
+  {
+    "token": "good",
+    "frequency": 4
+  },
+  {
+    "token": "past",
+    "frequency": 4
+  },
+  {
+    "token": "vice",
+    "frequency": 4
+  },
+  {
+    "token": "-y",
+    "frequency": 4
+  },
+  {
+    "token": "taking",
+    "frequency": 4
+  },
+  {
+    "token": "_B",
+    "frequency": 4
+  },
+  {
+    "token": "/A",
+    "frequency": 4
+  },
+  {
+    "token": "_D",
+    "frequency": 4
+  },
+  {
+    "token": "visualize",
+    "frequency": 4
+  },
+  {
+    "token": "=m",
+    "frequency": 4
+  },
+  {
+    "token": "^{-",
+    "frequency": 4
+  },
+  {
+    "token": "Common",
+    "frequency": 4
+  },
+  {
+    "token": "Den",
+    "frequency": 4
+  },
+  {
+    "token": "variable",
+    "frequency": 4
+  },
+  {
+    "token": "arc",
+    "frequency": 4
+  },
+  {
+    "token": "distances",
+    "frequency": 4
+  },
+  {
+    "token": "Back",
+    "frequency": 4
+  },
+  {
+    "token": "(v",
+    "frequency": 4
+  },
+  {
+    "token": "evaluate",
+    "frequency": 4
+  },
+  {
+    "token": "du",
+    "frequency": 4
+  },
+  {
+    "token": "Int",
+    "frequency": 4
+  },
+  {
+    "token": "|(",
+    "frequency": 4
+  },
+  {
+    "token": "-v",
+    "frequency": 4
+  },
+  {
+    "token": "Row",
+    "frequency": 4
+  },
+  {
+    "token": "ization",
+    "frequency": 4
+  },
+  {
+    "token": "integr",
+    "frequency": 4
+  },
+  {
+    "token": "Product",
+    "frequency": 4
+  },
+  {
+    "token": "redundant",
+    "frequency": 4
+  },
+  {
+    "token": "seem",
+    "frequency": 4
+  },
+  {
+    "token": "almost",
+    "frequency": 4
+  },
+  {
+    "token": "=C",
+    "frequency": 4
+  },
+  {
+    "token": "slightly",
+    "frequency": 4
+  },
+  {
+    "token": "sim",
+    "frequency": 4
+  },
+  {
+    "token": "involve",
+    "frequency": 4
+  },
+  {
+    "token": "complicated",
+    "frequency": 4
+  },
+  {
+    "token": "(b",
+    "frequency": 4
+  },
+  {
+    "token": "gamma",
+    "frequency": 4
+  },
+  {
+    "token": "Factor",
+    "frequency": 4
+  },
+  {
+    "token": "contrad",
+    "frequency": 4
+  },
+  {
+    "token": "sound",
+    "frequency": 4
+  },
+  {
+    "token": "ok",
+    "frequency": 4
+  },
+  {
+    "token": "contradiction",
+    "frequency": 4
+  },
+  {
+    "token": "Eq",
+    "frequency": 4
+  },
+  {
+    "token": "ded",
+    "frequency": 4
+  },
+  {
+    "token": "Distinct",
+    "frequency": 4
+  },
+  {
+    "token": "closer",
+    "frequency": 4
+  },
+  {
+    "token": "th",
+    "frequency": 4
+  },
+  {
+    "token": "now",
+    "frequency": 4
+  },
+  {
+    "token": "mult",
+    "frequency": 4
+  },
+  {
+    "token": "diver",
+    "frequency": 4
+  },
+  {
+    "token": "subtract",
+    "frequency": 4
+  },
+  {
+    "token": "assignment",
+    "frequency": 4
+  },
+  {
+    "token": "NO",
+    "frequency": 4
+  },
+  {
+    "token": "third",
+    "frequency": 4
+  },
+  {
+    "token": "Express",
+    "frequency": 4
+  },
+  {
+    "token": "Rel",
+    "frequency": 4
+  },
+  {
+    "token": "thorough",
+    "frequency": 4
+  },
+  {
+    "token": "}_{",
+    "frequency": 4
+  },
+  {
+    "token": "dependency",
+    "frequency": 4
+  },
+  {
+    "token": "Answer",
+    "frequency": 4
+  },
+  {
+    "token": "further",
+    "frequency": 4
+  },
+  {
+    "token": "den",
+    "frequency": 4
+  },
+  {
+    "token": "Our",
+    "frequency": 4
+  },
+  {
+    "token": "perfect",
+    "frequency": 4
+  },
+  {
+    "token": "...,",
+    "frequency": 4
+  },
+  {
+    "token": "diff",
+    "frequency": 4
+  },
+  {
+    "token": "numerator",
+    "frequency": 4
+  },
+  {
+    "token": "confident",
+    "frequency": 4
+  },
+  {
+    "token": "Mean",
+    "frequency": 4
+  },
+  {
+    "token": "$\"",
+    "frequency": 4
+  },
+  {
+    "token": "Simpl",
+    "frequency": 4
+  },
+  {
+    "token": "=k",
+    "frequency": 4
+  },
+  {
+    "token": "Positive",
+    "frequency": 4
+  },
+  {
+    "token": "Determine",
+    "frequency": 4
+  },
+  {
+    "token": "Multip",
+    "frequency": 4
+  },
+  {
+    "token": "bits",
+    "frequency": 4
+  },
+  {
+    "token": ")?",
+    "frequency": 4
+  },
+  {
+    "token": "Component",
+    "frequency": 4
+  },
+  {
+    "token": "Par",
+    "frequency": 4
+  },
+  {
+    "token": "distinguish",
+    "frequency": 4
+  },
+  {
+    "token": "configurations",
+    "frequency": 4
+  },
+  {
+    "token": "App",
+    "frequency": 4
+  },
+  {
+    "token": "ending",
+    "frequency": 4
+  },
+  {
+    "token": "Op",
+    "frequency": 4
+  },
+  {
+    "token": "worry",
+    "frequency": 4
+  },
+  {
+    "token": "onto",
+    "frequency": 4
+  },
+  {
+    "token": "curve",
+    "frequency": 4
+  },
+  {
+    "token": "CT",
+    "frequency": 4
+  },
+  {
+    "token": "((",
+    "frequency": 4
+  },
+  {
+    "token": ",y",
+    "frequency": 4
+  },
+  {
+    "token": "-R",
+    "frequency": 4
+  },
+  {
+    "token": "Center",
+    "frequency": 4
+  },
+  {
+    "token": "=R",
+    "frequency": 4
+  },
+  {
+    "token": "PV",
+    "frequency": 4
+  },
+  {
+    "token": "crosses",
+    "frequency": 4
+  },
+  {
+    "token": "described",
+    "frequency": 4
+  },
+  {
+    "token": "ed",
+    "frequency": 4
+  },
+  {
+    "token": "hits",
+    "frequency": 4
+  },
+  {
+    "token": "having",
+    "frequency": 4
+  },
+  {
+    "token": "hyper",
+    "frequency": 4
+  },
+  {
+    "token": "open",
+    "frequency": 4
+  },
+  {
+    "token": "guarantee",
+    "frequency": 4
+  },
+  {
+    "token": "big",
+    "frequency": 4
+  },
+  {
+    "token": "scenario",
+    "frequency": 4
+  },
+  {
+    "token": "Edges",
+    "frequency": 4
+  },
+  {
+    "token": "keeping",
+    "frequency": 4
+  },
+  {
+    "token": "_a",
+    "frequency": 4
+  },
+  {
+    "token": "consisting",
+    "frequency": 4
+  },
+  {
+    "token": "covering",
+    "frequency": 4
+  },
+  {
+    "token": "Removing",
+    "frequency": 4
+  },
+  {
+    "token": "unions",
+    "frequency": 4
+  },
+  {
+    "token": "-r",
+    "frequency": 4
+  },
+  {
+    "token": "Color",
+    "frequency": 4
+  },
+  {
+    "token": "FH",
+    "frequency": 4
+  },
+  {
+    "token": "Close",
+    "frequency": 4
+  },
+  {
+    "token": "substit",
+    "frequency": 4
+  },
+  {
+    "token": "transformation",
+    "frequency": 4
+  },
+  {
+    "token": "previously",
+    "frequency": 4
+  },
+  {
+    "token": "note",
+    "frequency": 4
+  },
+  {
+    "token": "trans",
+    "frequency": 4
+  },
+  {
+    "token": "transfer",
+    "frequency": 4
+  },
+  {
+    "token": "On",
+    "frequency": 4
+  },
+  {
+    "token": "during",
+    "frequency": 4
+  },
+  {
+    "token": "most",
+    "frequency": 4
+  },
+  {
+    "token": "completely",
+    "frequency": 4
+  },
+  {
+    "token": "Painting",
+    "frequency": 4
+  },
+  {
+    "token": "overlaps",
+    "frequency": 4
+  },
+  {
+    "token": "currently",
+    "frequency": 4
+  },
+  {
+    "token": "Bur",
+    "frequency": 4
+  },
+  {
+    "token": "cribe",
+    "frequency": 4
+  },
+  {
+    "token": "limit",
+    "frequency": 4
+  },
+  {
+    "token": "refer",
+    "frequency": 4
+  },
+  {
+    "token": "Dan",
+    "frequency": 4
+  },
+  {
+    "token": "budget",
+    "frequency": 4
+  },
+  {
+    "token": "adjust",
+    "frequency": 4
+  },
+  {
+    "token": "maximizing",
+    "frequency": 4
+  },
+  {
+    "token": "Rightarrow",
+    "frequency": 4
+  },
+  {
+    "token": "money",
+    "frequency": 4
+  },
+  {
+    "token": "RM",
+    "frequency": 4
+  },
+  {
+    "token": "subject",
+    "frequency": 4
+  },
+  {
+    "token": "quantity",
+    "frequency": 4
+  },
+  {
+    "token": "probably",
+    "frequency": 4
+  },
+  {
+    "token": "finish",
+    "frequency": 4
+  },
+  {
+    "token": "Missing",
+    "frequency": 4
+  },
+  {
+    "token": "Done",
+    "frequency": 4
+  },
+  {
+    "token": "propag",
+    "frequency": 4
+  },
+  {
+    "token": "cancelled",
+    "frequency": 4
+  },
+  {
+    "token": "larg",
+    "frequency": 4
+  },
+  {
+    "token": "argued",
+    "frequency": 4
+  },
+  {
+    "token": "saw",
+    "frequency": 4
+  },
+  {
+    "token": "drop",
+    "frequency": 4
+  },
+  {
+    "token": "(r",
+    "frequency": 4
+  },
+  {
+    "token": "-A",
+    "frequency": 4
+  },
+  {
+    "token": "possibilities",
+    "frequency": 4
+  },
+  {
+    "token": "ind",
+    "frequency": 4
+  },
+  {
+    "token": "achieved",
+    "frequency": 4
+  },
+  {
+    "token": "decrease",
+    "frequency": 4
+  },
+  {
+    "token": "pol",
+    "frequency": 4
+  },
+  {
+    "token": "Its",
+    "frequency": 4
+  },
+  {
+    "token": "Res",
+    "frequency": 4
+  },
+  {
+    "token": "cup",
+    "frequency": 4
+  },
+  {
+    "token": "strategy",
+    "frequency": 4
+  },
+  {
+    "token": "fair",
+    "frequency": 4
+  },
+  {
+    "token": "shows",
+    "frequency": 4
+  },
+  {
+    "token": "turn",
+    "frequency": 4
+  },
+  {
+    "token": "plays",
+    "frequency": 4
+  },
+  {
+    "token": "blocked",
+    "frequency": 4
+  },
+  {
+    "token": "option",
+    "frequency": 4
+  },
+  {
+    "token": "axes",
+    "frequency": 4
+  },
+  {
+    "token": "orientations",
+    "frequency": 4
+  },
+  {
+    "token": "ly",
+    "frequency": 4
+  },
+  {
+    "token": "Ray",
+    "frequency": 4
+  },
+  {
+    "token": "_Q",
+    "frequency": 4
+  },
+  {
+    "token": "Tang",
+    "frequency": 4
+  },
+  {
+    "token": "associated",
+    "frequency": 4
+  },
+  {
+    "token": "Ra",
+    "frequency": 4
+  },
+  {
+    "token": "opponent",
+    "frequency": 4
+  },
+  {
+    "token": "Dexter",
+    "frequency": 4
+  },
+  {
+    "token": "stones",
+    "frequency": 4
+  },
+  {
+    "token": "prev",
+    "frequency": 4
+  },
+  {
+    "token": "Moves",
+    "frequency": 4
+  },
+  {
+    "token": "external",
+    "frequency": 3
+  },
+  {
+    "token": "rays",
+    "frequency": 3
+  },
+  {
+    "token": "properties",
+    "frequency": 3
+  },
+  {
+    "token": "better",
+    "frequency": 3
+  },
+  {
+    "token": "treat",
+    "frequency": 3
+  },
+  {
+    "token": "guess",
+    "frequency": 3
+  },
+  {
+    "token": "DM",
+    "frequency": 3
+  },
+  {
+    "token": "extended",
+    "frequency": 3
+  },
+  {
+    "token": "=(-",
+    "frequency": 3
+  },
+  {
+    "token": "delta",
+    "frequency": 3
+  },
+  {
+    "token": "/b",
+    "frequency": 3
+  },
+  {
+    "token": "/c",
+    "frequency": 3
+  },
+  {
+    "token": "/k",
+    "frequency": 3
+  },
+  {
+    "token": "account",
+    "frequency": 3
+  },
+  {
+    "token": "denomin",
+    "frequency": 3
+  },
+  {
+    "token": "Delta",
+    "frequency": 3
+  },
+  {
+    "token": "_O",
+    "frequency": 3
+  },
+  {
+    "token": "haven",
+    "frequency": 3
+  },
+  {
+    "token": "Gamma",
+    "frequency": 3
+  },
+  {
+    "token": "mp",
+    "frequency": 3
+  },
+  {
+    "token": "Unit",
+    "frequency": 3
+  },
+  {
+    "token": "Points",
+    "frequency": 3
+  },
+  {
+    "token": "correspond",
+    "frequency": 3
+  },
+  {
+    "token": "PDF",
+    "frequency": 3
+  },
+  {
+    "token": "AX",
+    "frequency": 3
+  },
+  {
+    "token": "Segments",
+    "frequency": 3
+  },
+  {
+    "token": "vu",
+    "frequency": 3
+  },
+  {
+    "token": "quadr",
+    "frequency": 3
+  },
+  {
+    "token": "summ",
+    "frequency": 3
+  },
+  {
+    "token": "agonal",
+    "frequency": 3
+  },
+  {
+    "token": "Per",
+    "frequency": 3
+  },
+  {
+    "token": "=s",
+    "frequency": 3
+  },
+  {
+    "token": "confused",
+    "frequency": 3
+  },
+  {
+    "token": "checks",
+    "frequency": 3
+  },
+  {
+    "token": "passed",
+    "frequency": 3
+  },
+  {
+    "token": "handle",
+    "frequency": 3
+  },
+  {
+    "token": "Looks",
+    "frequency": 3
+  },
+  {
+    "token": "including",
+    "frequency": 3
+  },
+  {
+    "token": "endpoints",
+    "frequency": 3
+  },
+  {
+    "token": "formulas",
+    "frequency": 3
+  },
+  {
+    "token": "ac",
+    "frequency": 3
+  },
+  {
+    "token": "rewrite",
+    "frequency": 3
+  },
+  {
+    "token": "pause",
+    "frequency": 3
+  },
+  {
+    "token": "names",
+    "frequency": 3
+  },
+  {
+    "token": "=r",
+    "frequency": 3
+  },
+  {
+    "token": "Proof",
+    "frequency": 3
+  },
+  {
+    "token": "possibly",
+    "frequency": 3
+  },
+  {
+    "token": "observe",
+    "frequency": 3
+  },
+  {
+    "token": "description",
+    "frequency": 3
+  },
+  {
+    "token": "Position",
+    "frequency": 3
+  },
+  {
+    "token": "phase",
+    "frequency": 3
+  },
+  {
+    "token": "generation",
+    "frequency": 3
+  },
+  {
+    "token": "compare",
+    "frequency": 3
+  },
+  {
+    "token": "Earlier",
+    "frequency": 3
+  },
+  {
+    "token": "absolutely",
+    "frequency": 3
+  },
+  {
+    "token": "actual",
+    "frequency": 3
+  },
+  {
+    "token": "Steps",
+    "frequency": 3
+  },
+  {
+    "token": "trap",
+    "frequency": 3
+  },
+  {
+    "token": "come",
+    "frequency": 3
+  },
+  {
+    "token": "ambiguous",
+    "frequency": 3
+  },
+  {
+    "token": "Z",
+    "frequency": 3
+  },
+  {
+    "token": "shifts",
+    "frequency": 3
+  },
+  {
+    "token": "specify",
+    "frequency": 3
+  },
+  {
+    "token": "classes",
+    "frequency": 3
+  },
+  {
+    "token": "essentially",
+    "frequency": 3
+  },
+  {
+    "token": "manually",
+    "frequency": 3
+  },
+  {
+    "token": "weights",
+    "frequency": 3
+  },
+  {
+    "token": "infinite",
+    "frequency": 3
+  },
+  {
+    "token": "tr",
+    "frequency": 3
+  },
+  {
+    "token": "simplified",
+    "frequency": 3
+  },
+  {
+    "token": "prompt",
+    "frequency": 3
+  },
+  {
+    "token": "Indeed",
+    "frequency": 3
+  },
+  {
+    "token": "Match",
+    "frequency": 3
+  },
+  {
+    "token": "dominate",
+    "frequency": 3
+  },
+  {
+    "token": "$j",
+    "frequency": 3
+  },
+  {
+    "token": "multiplied",
+    "frequency": 3
+  },
+  {
+    "token": "attempt",
+    "frequency": 3
+  },
+  {
+    "token": "hidden",
+    "frequency": 3
+  },
+  {
+    "token": "relates",
+    "frequency": 3
+  },
+  {
+    "token": "Part",
+    "frequency": 3
+  },
+  {
+    "token": "-negative",
+    "frequency": 3
+  },
+  {
+    "token": "Form",
+    "frequency": 3
+  },
+  {
+    "token": "rough",
+    "frequency": 3
+  },
+  {
+    "token": "en",
+    "frequency": 3
+  },
+  {
+    "token": "=d",
+    "frequency": 3
+  },
+  {
+    "token": "flipping",
+    "frequency": 3
+  },
+  {
+    "token": "Basically",
+    "frequency": 3
+  },
+  {
+    "token": "opl",
+    "frequency": 3
+  },
+  {
+    "token": "<->",
+    "frequency": 3
+  },
+  {
+    "token": "Change",
+    "frequency": 3
+  },
+  {
+    "token": "final",
+    "frequency": 3
+  },
+  {
+    "token": "Coefficient",
+    "frequency": 3
+  },
+  {
+    "token": "constrain",
+    "frequency": 3
+  },
+  {
+    "token": "local",
+    "frequency": 3
+  },
+  {
+    "token": "obtained",
+    "frequency": 3
+  },
+  {
+    "token": "pivot",
+    "frequency": 3
+  },
+  {
+    "token": "transforms",
+    "frequency": 3
+  },
+  {
+    "token": "''",
+    "frequency": 3
+  },
+  {
+    "token": "transform",
+    "frequency": 3
+  },
+  {
+    "token": "An",
+    "frequency": 3
+  },
+  {
+    "token": "Original",
+    "frequency": 3
+  },
+  {
+    "token": "transformed",
+    "frequency": 3
+  },
+  {
+    "token": "exponent",
+    "frequency": 3
+  },
+  {
+    "token": "fail",
+    "frequency": 3
+  },
+  {
+    "token": "/p",
+    "frequency": 3
+  },
+  {
+    "token": "\\d",
+    "frequency": 3
+  },
+  {
+    "token": "tx",
+    "frequency": 3
+  },
+  {
+    "token": "projects",
+    "frequency": 3
+  },
+  {
+    "token": "=y",
+    "frequency": 3
+  },
+  {
+    "token": "due",
+    "frequency": 3
+  },
+  {
+    "token": "connecting",
+    "frequency": 3
+  },
+  {
+    "token": "de",
+    "frequency": 3
+  },
+  {
+    "token": "_t",
+    "frequency": 3
+  },
+  {
+    "token": "elsewhere",
+    "frequency": 3
+  },
+  {
+    "token": "=p",
+    "frequency": 3
+  },
+  {
+    "token": "kept",
+    "frequency": 3
+  },
+  {
+    "token": "Emperor",
+    "frequency": 3
+  },
+  {
+    "token": "chrom",
+    "frequency": 3
+  },
+  {
+    "token": "remain",
+    "frequency": 3
+  },
+  {
+    "token": "star",
+    "frequency": 3
+  },
+  {
+    "token": "present",
+    "frequency": 3
+  },
+  {
+    "token": "meaning",
+    "frequency": 3
+  },
+  {
+    "token": "talking",
+    "frequency": 3
+  },
+  {
+    "token": "entirely",
+    "frequency": 3
+  },
+  {
+    "token": "'(",
+    "frequency": 3
+  },
+  {
+    "token": "bridge",
+    "frequency": 3
+  },
+  {
+    "token": "|=",
+    "frequency": 3
+  },
+  {
+    "token": "stronger",
+    "frequency": 3
+  },
+  {
+    "token": "strong",
+    "frequency": 3
+  },
+  {
+    "token": "definitions",
+    "frequency": 3
+  },
+  {
+    "token": "sizes",
+    "frequency": 3
+  },
+  {
+    "token": "-s",
+    "frequency": 3
+  },
+  {
+    "token": "subsets",
+    "frequency": 3
+  },
+  {
+    "token": "dis",
+    "frequency": 3
+  },
+  {
+    "token": "isolate",
+    "frequency": 3
+  },
+  {
+    "token": "trivial",
+    "frequency": 3
+  },
+  {
+    "token": "orth",
+    "frequency": 3
+  },
+  {
+    "token": "started",
+    "frequency": 3
+  },
+  {
+    "token": "rejected",
+    "frequency": 3
+  },
+  {
+    "token": "}\\",
+    "frequency": 3
+  },
+  {
+    "token": "failed",
+    "frequency": 3
+  },
+  {
+    "token": "clarify",
+    "frequency": 3
+  },
+  {
+    "token": "eliminate",
+    "frequency": 3
+  },
+  {
+    "token": "elementary",
+    "frequency": 3
+  },
+  {
+    "token": "As",
+    "frequency": 3
+  },
+  {
+    "token": "details",
+    "frequency": 3
+  },
+  {
+    "token": "powers",
+    "frequency": 3
+  },
+  {
+    "token": "Alternatively",
+    "frequency": 3
+  },
+  {
+    "token": "Checking",
+    "frequency": 3
+  },
+  {
+    "token": "boards",
+    "frequency": 3
+  },
+  {
+    "token": "destination",
+    "frequency": 3
+  },
+  {
+    "token": "Switch",
+    "frequency": 3
+  },
+  {
+    "token": "event",
+    "frequency": 3
+  },
+  {
+    "token": "careful",
+    "frequency": 3
+  },
+  {
+    "token": "away",
+    "frequency": 3
+  },
+  {
+    "token": "Pass",
+    "frequency": 3
+  },
+  {
+    "token": "won",
+    "frequency": 3
+  },
+  {
+    "token": "regular",
+    "frequency": 3
+  },
+  {
+    "token": "Me",
+    "frequency": 3
+  },
+  {
+    "token": "moment",
+    "frequency": 3
+  },
+  {
+    "token": "arrival",
+    "frequency": 3
+  },
+  {
+    "token": "Ins",
+    "frequency": 3
+  },
+  {
+    "token": "cribing",
+    "frequency": 3
+  },
+  {
+    "token": "cribes",
+    "frequency": 3
+  },
+  {
+    "token": "circ",
+    "frequency": 3
+  },
+  {
+    "token": "ann",
+    "frequency": 3
+  },
+  {
+    "token": "-like",
+    "frequency": 3
+  },
+  {
+    "token": "nesting",
+    "frequency": 3
+  },
+  {
+    "token": "indefinitely",
+    "frequency": 3
+  },
+  {
+    "token": "Net",
+    "frequency": 3
+  },
+  {
+    "token": "Specifically",
+    "frequency": 3
+  },
+  {
+    "token": "produces",
+    "frequency": 3
+  },
+  {
+    "token": "mentioned",
+    "frequency": 3
+  },
+  {
+    "token": "applied",
+    "frequency": 3
+  },
+  {
+    "token": "recursive",
+    "frequency": 3
+  },
+  {
+    "token": "vary",
+    "frequency": 3
+  },
+  {
+    "token": "reason",
+    "frequency": 3
+  },
+  {
+    "token": "costs",
+    "frequency": 3
+  },
+  {
+    "token": "imize",
+    "frequency": 3
+  },
+  {
+    "token": "\":",
+    "frequency": 3
+  },
+  {
+    "token": "Alternative",
+    "frequency": 3
+  },
+  {
+    "token": "spend",
+    "frequency": 3
+  },
+  {
+    "token": "align",
+    "frequency": 3
+  },
+  {
+    "token": "objective",
+    "frequency": 3
+  },
+  {
+    "token": "increased",
+    "frequency": 3
+  },
+  {
+    "token": "Stop",
+    "frequency": 3
+  },
+  {
+    "token": "stopping",
+    "frequency": 3
+  },
+  {
+    "token": "seen",
+    "frequency": 3
+  },
+  {
+    "token": "rolled",
+    "frequency": 3
+  },
+  {
+    "token": "classify",
+    "frequency": 3
+  },
+  {
+    "token": "counting",
+    "frequency": 3
+  },
+  {
+    "token": "affect",
+    "frequency": 3
+  },
+  {
+    "token": "Add",
+    "frequency": 3
+  },
+  {
+    "token": "propagate",
+    "frequency": 3
+  },
+  {
+    "token": "concaten",
+    "frequency": 3
+  },
+  {
+    "token": "addition",
+    "frequency": 3
+  },
+  {
+    "token": "overlapping",
+    "frequency": 3
+  },
+  {
+    "token": "inf",
+    "frequency": 3
+  },
+  {
+    "token": "}-",
+    "frequency": 3
+  },
+  {
+    "token": "False",
+    "frequency": 3
+  },
+  {
+    "token": "choices",
+    "frequency": 3
+  },
+  {
+    "token": "mixed",
+    "frequency": 3
+  },
+  {
+    "token": "(ab",
+    "frequency": 3
+  },
+  {
+    "token": "later",
+    "frequency": 3
+  },
+  {
+    "token": "wor",
+    "frequency": 3
+  },
+  {
+    "token": "asking",
+    "frequency": 3
+  },
+  {
+    "token": "weighted",
+    "frequency": 3
+  },
+  {
+    "token": "candies",
+    "frequency": 3
+  },
+  {
+    "token": "situation",
+    "frequency": 3
+  },
+  {
+    "token": "impose",
+    "frequency": 3
+  },
+  {
+    "token": "fill",
+    "frequency": 3
+  },
+  {
+    "token": "reduction",
+    "frequency": 3
+  },
+  {
+    "token": "Bound",
+    "frequency": 3
+  },
+  {
+    "token": "sure",
+    "frequency": 3
+  },
+  {
+    "token": "circular",
+    "frequency": 3
+  },
+  {
+    "token": "competition",
+    "frequency": 3
+  },
+  {
+    "token": "incorrectly",
+    "frequency": 3
+  },
+  {
+    "token": "together",
+    "frequency": 3
+  },
+  {
+    "token": "nothing",
+    "frequency": 3
+  },
+  {
+    "token": "\"After",
+    "frequency": 3
+  },
+  {
+    "token": "prove",
+    "frequency": 3
+  },
+  {
+    "token": "consumed",
+    "frequency": 3
+  },
+  {
+    "token": "Shift",
+    "frequency": 3
+  },
+  {
+    "token": "nx",
+    "frequency": 3
+  },
+  {
+    "token": "Ex",
+    "frequency": 3
+  },
+  {
+    "token": "picking",
+    "frequency": 3
+  },
+  {
+    "token": "Turn",
+    "frequency": 3
+  },
+  {
+    "token": "sees",
+    "frequency": 3
+  },
+  {
+    "token": "fit",
+    "frequency": 3
+  },
+  {
+    "token": "hole",
+    "frequency": 3
+  },
+  {
+    "token": "beginning",
+    "frequency": 3
+  },
+  {
+    "token": "dipped",
+    "frequency": 3
+  },
+  {
+    "token": "*.",
+    "frequency": 3
+  },
+  {
+    "token": "rotation",
+    "frequency": 3
+  },
+  {
+    "token": "directions",
+    "frequency": 3
+  },
+  {
+    "token": "dimensions",
+    "frequency": 3
+  },
+  {
+    "token": "indicator",
+    "frequency": 3
+  },
+  {
+    "token": "cumulative",
+    "frequency": 3
+  },
+  {
+    "token": "facing",
+    "frequency": 3
+  },
+  {
+    "token": "ln",
+    "frequency": 3
+  },
+  {
+    "token": "Top",
+    "frequency": 3
+  },
+  {
+    "token": "interested",
+    "frequency": 3
+  },
+  {
+    "token": "chord",
+    "frequency": 3
+  },
+  {
+    "token": "quick",
+    "frequency": 3
+  },
+  {
+    "token": "QP",
+    "frequency": 3
+  },
+  {
+    "token": "scaled",
+    "frequency": 3
+  },
+  {
+    "token": "AA",
+    "frequency": 3
+  },
+  {
+    "token": "DA",
+    "frequency": 3
+  },
+  {
+    "token": "IDE",
+    "frequency": 3
+  },
+  {
+    "token": "ADC",
+    "frequency": 3
+  },
+  {
+    "token": "\"In",
+    "frequency": 3
+  },
+  {
+    "token": "DAC",
+    "frequency": 2
+  },
+  {
+    "token": "Dot",
+    "frequency": 2
+  },
+  {
+    "token": "dot",
+    "frequency": 2
+  },
+  {
+    "token": "reduced",
+    "frequency": 2
+  },
+  {
+    "token": "plug",
+    "frequency": 2
+  },
+  {
+    "token": "_C",
+    "frequency": 2
+  },
+  {
+    "token": "sine",
+    "frequency": 2
+  },
+  {
+    "token": "constr",
+    "frequency": 2
+  },
+  {
+    "token": "-P",
+    "frequency": 2
+  },
+  {
+    "token": "located",
+    "frequency": 2
+  },
+  {
+    "token": "measured",
+    "frequency": 2
+  },
+  {
+    "token": "bracket",
+    "frequency": 2
+  },
+  {
+    "token": "/a",
+    "frequency": 2
+  },
+  {
+    "token": "IF",
+    "frequency": 2
+  },
+  {
+    "token": "intercept",
+    "frequency": 2
+  },
+  {
+    "token": "Order",
+    "frequency": 2
+  },
+  {
+    "token": "substituted",
+    "frequency": 2
+  },
+  {
+    "token": "pm",
+    "frequency": 2
+  },
+  {
+    "token": "easier",
+    "frequency": 2
+  },
+  {
+    "token": "joint",
+    "frequency": 2
+  },
+  {
+    "token": "divided",
+    "frequency": 2
+  },
+  {
+    "token": "ij",
+    "frequency": 2
+  },
+  {
+    "token": "categor",
+    "frequency": 2
+  },
+  {
+    "token": "integrate",
+    "frequency": 2
+  },
+  {
+    "token": "))",
+    "frequency": 2
+  },
+  {
+    "token": "Group",
+    "frequency": 2
+  },
+  {
+    "token": "Inner",
+    "frequency": 2
+  },
+  {
+    "token": "Off",
+    "frequency": 2
+  },
+  {
+    "token": "silly",
+    "frequency": 2
+  },
+  {
+    "token": "piece",
+    "frequency": 2
+  },
+  {
+    "token": "simulate",
+    "frequency": 2
+  },
+  {
+    "token": "integration",
+    "frequency": 2
+  },
+  {
+    "token": ",u",
+    "frequency": 2
+  },
+  {
+    "token": "=u",
+    "frequency": 2
+  },
+  {
+    "token": "computed",
+    "frequency": 2
+  },
+  {
+    "token": "determinant",
+    "frequency": 2
+  },
+  {
+    "token": "Determin",
+    "frequency": 2
+  },
+  {
+    "token": "calculating",
+    "frequency": 2
+  },
+  {
+    "token": "XY",
+    "frequency": 2
+  },
+  {
+    "token": "preserve",
+    "frequency": 2
+  },
+  {
+    "token": "Reflection",
+    "frequency": 2
+  },
+  {
+    "token": "Values",
+    "frequency": 2
+  },
+  {
+    "token": "applies",
+    "frequency": 2
+  },
+  {
+    "token": "],",
+    "frequency": 2
+  },
+  {
+    "token": "_Y",
+    "frequency": 2
+  },
+  {
+    "token": "irrelevant",
+    "frequency": 2
+  },
+  {
+    "token": "dx",
+    "frequency": 2
+  },
+  {
+    "token": "fractions",
+    "frequency": 2
+  },
+  {
+    "token": "Height",
+    "frequency": 2
+  },
+  {
+    "token": "explicit",
+    "frequency": 2
+  },
+  {
+    "token": "/x",
+    "frequency": 2
+  },
+  {
+    "token": "tract",
+    "frequency": 2
+  },
+  {
+    "token": "leading",
+    "frequency": 2
+  },
+  {
+    "token": "loophole",
+    "frequency": 2
+  },
+  {
+    "token": "multip",
+    "frequency": 2
+  },
+  {
+    "token": "weren",
+    "frequency": 2
+  },
+  {
+    "token": "Discrim",
+    "frequency": 2
+  },
+  {
+    "token": "naturally",
+    "frequency": 2
+  },
+  {
+    "token": "exclude",
+    "frequency": 2
+  },
+  {
+    "token": "Exclude",
+    "frequency": 2
+  },
+  {
+    "token": "obvious",
+    "frequency": 2
+  },
+  {
+    "token": "forces",
+    "frequency": 2
+  },
+  {
+    "token": "Calculation",
+    "frequency": 2
+  },
+  {
+    "token": "movement",
+    "frequency": 2
+  },
+  {
+    "token": "motion",
+    "frequency": 2
+  },
+  {
+    "token": "skipping",
+    "frequency": 2
+  },
+  {
+    "token": "?)",
+    "frequency": 2
+  },
+  {
+    "token": "Re",
+    "frequency": 2
+  },
+  {
+    "token": "really",
+    "frequency": 2
+  },
+  {
+    "token": "composed",
+    "frequency": 2
+  },
+  {
+    "token": "identifying",
+    "frequency": 2
+  },
+  {
+    "token": "Target",
+    "frequency": 2
+  },
+  {
+    "token": "\"a",
+    "frequency": 2
+  },
+  {
+    "token": "Like",
+    "frequency": 2
+  },
+  {
+    "token": "called",
+    "frequency": 2
+  },
+  {
+    "token": "crucial",
+    "frequency": 2
+  },
+  {
+    "token": "irre",
+    "frequency": 2
+  },
+  {
+    "token": "confirmed",
+    "frequency": 2
+  },
+  {
+    "token": "multiplication",
+    "frequency": 2
+  },
+  {
+    "token": "technique",
+    "frequency": 2
+  },
+  {
+    "token": "repetitions",
+    "frequency": 2
+  },
+  {
+    "token": "oscill",
+    "frequency": 2
+  },
+  {
+    "token": "fairly",
+    "frequency": 2
+  },
+  {
+    "token": "ready",
+    "frequency": 2
+  },
+  {
+    "token": "Class",
+    "frequency": 2
+  },
+  {
+    "token": "handles",
+    "frequency": 2
+  },
+  {
+    "token": "output",
+    "frequency": 2
+  },
+  {
+    "token": "pos",
+    "frequency": 2
+  },
+  {
+    "token": "Ready",
+    "frequency": 2
+  },
+  {
+    "token": "approximate",
+    "frequency": 2
+  },
+  {
+    "token": "jn",
+    "frequency": 2
+  },
+  {
+    "token": "balance",
+    "frequency": 2
+  },
+  {
+    "token": "rule",
+    "frequency": 2
+  },
+  {
+    "token": "\"D",
+    "frequency": 2
+  },
+  {
+    "token": "multiply",
+    "frequency": 2
+  },
+  {
+    "token": "...\\",
+    "frequency": 2
+  },
+  {
+    "token": "copied",
+    "frequency": 2
+  },
+  {
+    "token": "interpretations",
+    "frequency": 2
+  },
+  {
+    "token": "themselves",
+    "frequency": 2
+  },
+  {
+    "token": "<b",
+    "frequency": 2
+  },
+  {
+    "token": "straightforward",
+    "frequency": 2
+  },
+  {
+    "token": "global",
+    "frequency": 2
+  },
+  {
+    "token": "minimized",
+    "frequency": 2
+  },
+  {
+    "token": "binding",
+    "frequency": 2
+  },
+  {
+    "token": "ent",
+    "frequency": 2
+  },
+  {
+    "token": "include",
+    "frequency": 2
+  },
+  {
+    "token": "competitions",
+    "frequency": 2
+  },
+  {
+    "token": "Im",
+    "frequency": 2
+  },
+  {
+    "token": "\b",
+    "frequency": 2
+  },
+  {
+    "token": "arrangements",
+    "frequency": 2
+  },
+  {
+    "token": "Comp",
+    "frequency": 2
+  },
+  {
+    "token": "decide",
+    "frequency": 2
+  },
+  {
+    "token": "dimension",
+    "frequency": 2
+  },
+  {
+    "token": "Weight",
+    "frequency": 2
+  },
+  {
+    "token": "manipulate",
+    "frequency": 2
+  },
+  {
+    "token": "wanted",
+    "frequency": 2
+  },
+  {
+    "token": "unchanged",
+    "frequency": 2
+  },
+  {
+    "token": "confusing",
+    "frequency": 2
+  },
+  {
+    "token": "rename",
+    "frequency": 2
+  },
+  {
+    "token": "update",
+    "frequency": 2
+  },
+  {
+    "token": "preserves",
+    "frequency": 2
+  },
+  {
+    "token": "')",
+    "frequency": 2
+  },
+  {
+    "token": "flawed",
+    "frequency": 2
+  },
+  {
+    "token": "iv",
+    "frequency": 2
+  },
+  {
+    "token": "Com",
+    "frequency": 2
+  },
+  {
+    "token": "prim",
+    "frequency": 2
+  },
+  {
+    "token": "discussed",
+    "frequency": 2
+  },
+  {
+    "token": "cast",
+    "frequency": 2
+  },
+  {
+    "token": "envelope",
+    "frequency": 2
+  },
+  {
+    "token": "orthogonal",
+    "frequency": 2
+  },
+  {
+    "token": "PM",
+    "frequency": 2
+  },
+  {
+    "token": "constants",
+    "frequency": 2
+  },
+  {
+    "token": "(y",
+    "frequency": 2
+  },
+  {
+    "token": "[(",
+    "frequency": 2
+  },
+  {
+    "token": "vertically",
+    "frequency": 2
+  },
+  {
+    "token": "degener",
+    "frequency": 2
+  },
+  {
+    "token": "free",
+    "frequency": 2
+  },
+  {
+    "token": "cross",
+    "frequency": 2
+  },
+  {
+    "token": "contact",
+    "frequency": 2
+  },
+  {
+    "token": "linking",
+    "frequency": 2
+  },
+  {
+    "token": "special",
+    "frequency": 2
+  },
+  {
+    "token": "Plane",
+    "frequency": 2
+  },
+  {
+    "token": "north",
+    "frequency": 2
+  },
+  {
+    "token": "Previously",
+    "frequency": 2
+  },
+  {
+    "token": "certain",
+    "frequency": 2
+  },
+  {
+    "token": "degrees",
+    "frequency": 2
+  },
+  {
+    "token": "Shadow",
+    "frequency": 2
+  },
+  {
+    "token": "generic",
+    "frequency": 2
+  },
+  {
+    "token": "direct",
+    "frequency": 2
+  },
+  {
+    "token": "=N",
+    "frequency": 2
+  },
+  {
+    "token": "describes",
+    "frequency": 2
+  },
+  {
+    "token": "certainly",
+    "frequency": 2
+  },
+  {
+    "token": "compared",
+    "frequency": 2
+  },
+  {
+    "token": "proper",
+    "frequency": 2
+  },
+  {
+    "token": "lot",
+    "frequency": 2
+  },
+  {
+    "token": "adversary",
+    "frequency": 2
+  },
+  {
+    "token": "nature",
+    "frequency": 2
+  },
+  {
+    "token": "distribute",
+    "frequency": 2
+  },
+  {
+    "token": "hold",
+    "frequency": 2
+  },
+  {
+    "token": "belongs",
+    "frequency": 2
+  },
+  {
+    "token": "graphs",
+    "frequency": 2
+  },
+  {
+    "token": "Ed",
+    "frequency": 2
+  },
+  {
+    "token": "_u",
+    "frequency": 2
+  },
+  {
+    "token": "trying",
+    "frequency": 2
+  },
+  {
+    "token": "restart",
+    "frequency": 2
+  },
+  {
+    "token": "easy",
+    "frequency": 2
+  },
+  {
+    "token": "done",
+    "frequency": 2
+  },
+  {
+    "token": "Connected",
+    "frequency": 2
+  },
+  {
+    "token": "cli",
+    "frequency": 2
+  },
+  {
+    "token": "Say",
+    "frequency": 2
+  },
+  {
+    "token": "allow",
+    "frequency": 2
+  },
+  {
+    "token": "Remove",
+    "frequency": 2
+  },
+  {
+    "token": "FM",
+    "frequency": 2
+  },
+  {
+    "token": "OF",
+    "frequency": 2
+  },
+  {
+    "token": "Two",
+    "frequency": 2
+  },
+  {
+    "token": "cot",
+    "frequency": 2
+  },
+  {
+    "token": "Rectangle",
+    "frequency": 2
+  },
+  {
+    "token": "unknown",
+    "frequency": 2
+  },
+  {
+    "token": "|$",
+    "frequency": 2
+  },
+  {
+    "token": "_F",
+    "frequency": 2
+  },
+  {
+    "token": "-co",
+    "frequency": 2
+  },
+  {
+    "token": "Combine",
+    "frequency": 2
+  },
+  {
+    "token": "Coeff",
+    "frequency": 2
+  },
+  {
+    "token": "rec",
+    "frequency": 2
+  },
+  {
+    "token": "results",
+    "frequency": 2
+  },
+  {
+    "token": "ask",
+    "frequency": 2
+  },
+  {
+    "token": "stated",
+    "frequency": 2
+  },
+  {
+    "token": "become",
+    "frequency": 2
+  },
+  {
+    "token": "Transform",
+    "frequency": 2
+  },
+  {
+    "token": "+(",
+    "frequency": 2
+  },
+  {
+    "token": "uvw",
+    "frequency": 2
+  },
+  {
+    "token": "Exp",
+    "frequency": 2
+  },
+  {
+    "token": "speed",
+    "frequency": 2
+  },
+  {
+    "token": "transfers",
+    "frequency": 2
+  },
+  {
+    "token": "immediately",
+    "frequency": 2
+  },
+  {
+    "token": "coming",
+    "frequency": 2
+  },
+  {
+    "token": "behind",
+    "frequency": 2
+  },
+  {
+    "token": "ahead",
+    "frequency": 2
+  },
+  {
+    "token": "met",
+    "frequency": 2
+  },
+  {
+    "token": "?\".",
+    "frequency": 2
+  },
+  {
+    "token": "location",
+    "frequency": 2
+  },
+  {
+    "token": "abs",
+    "frequency": 2
+  },
+  {
+    "token": "modeled",
+    "frequency": 2
+  },
+  {
+    "token": "physically",
+    "frequency": 2
+  },
+  {
+    "token": "Time",
+    "frequency": 2
+  },
+  {
+    "token": "locations",
+    "frequency": 2
+  },
+  {
+    "token": "occurs",
+    "frequency": 2
+  },
+  {
+    "token": "gone",
+    "frequency": 2
+  },
+  {
+    "token": "run",
+    "frequency": 2
+  },
+  {
+    "token": "?).",
+    "frequency": 2
+  },
+  {
+    "token": "\"She",
+    "frequency": 2
+  },
+  {
+    "token": "logical",
+    "frequency": 2
+  },
+  {
+    "token": "Diameter",
+    "frequency": 2
+  },
+  {
+    "token": "Repeat",
+    "frequency": 2
+  },
+  {
+    "token": "Generally",
+    "frequency": 2
+  },
+  {
+    "token": "circles",
+    "frequency": 2
+  },
+  {
+    "token": "Region",
+    "frequency": 2
+  },
+  {
+    "token": "ratios",
+    "frequency": 2
+  },
+  {
+    "token": "online",
+    "frequency": 2
+  },
+  {
+    "token": "variation",
+    "frequency": 2
+  },
+  {
+    "token": "created",
+    "frequency": 2
+  },
+  {
+    "token": "isn",
+    "frequency": 2
+  },
+  {
+    "token": "static",
+    "frequency": 2
+  },
+  {
+    "token": "weird",
+    "frequency": 2
+  },
+  {
+    "token": "procedure",
+    "frequency": 2
+  },
+  {
+    "token": "Perhaps",
+    "frequency": 2
+  },
+  {
+    "token": "White",
+    "frequency": 2
+  },
+  {
+    "token": "cribed",
+    "frequency": 2
+  },
+  {
+    "token": "natural",
+    "frequency": 2
+  },
+  {
+    "token": "turns",
+    "frequency": 2
+  },
+  {
+    "token": "affected",
+    "frequency": 2
+  },
+  {
+    "token": "rem",
+    "frequency": 2
+  },
+  {
+    "token": "object",
+    "frequency": 2
+  },
+  {
+    "token": "source",
+    "frequency": 2
+  },
+  {
+    "token": "Substitute",
+    "frequency": 2
+  },
+  {
+    "token": "Solve",
+    "frequency": 2
+  },
+  {
+    "token": "Lower",
+    "frequency": 2
+  },
+  {
+    "token": "Invalid",
+    "frequency": 2
+  },
+  {
+    "token": "mix",
+    "frequency": 2
+  },
+  {
+    "token": "Verification",
+    "frequency": 2
+  },
+  {
+    "token": "Gre",
+    "frequency": 2
+  },
+  {
+    "token": "combination",
+    "frequency": 2
+  },
+  {
+    "token": "amount",
+    "frequency": 2
+  },
+  {
+    "token": "sp",
+    "frequency": 2
+  },
+  {
+    "token": "Currently",
+    "frequency": 2
+  },
+  {
+    "token": "fruit",
+    "frequency": 2
+  },
+  {
+    "token": "trade",
+    "frequency": 2
+  },
+  {
+    "token": "contribution",
+    "frequency": 2
+  },
+  {
+    "token": "Verify",
+    "frequency": 2
+  },
+  {
+    "token": "options",
+    "frequency": 2
+  },
+  {
+    "token": "otherwise",
+    "frequency": 2
+  },
+  {
+    "token": "Analy",
+    "frequency": 2
+  },
+  {
+    "token": "expensive",
+    "frequency": 2
+  },
+  {
+    "token": "Left",
+    "frequency": 2
+  },
+  {
+    "token": "absorb",
+    "frequency": 2
+  },
+  {
+    "token": "Increase",
+    "frequency": 2
+  },
+  {
+    "token": "appear",
+    "frequency": 2
+  },
+  {
+    "token": "target",
+    "frequency": 2
+  },
+  {
+    "token": "refine",
+    "frequency": 2
+  },
+  {
+    "token": "affects",
+    "frequency": 2
+  },
+  {
+    "token": "com",
+    "frequency": 2
+  },
+  {
+    "token": "Accept",
+    "frequency": 2
+  },
+  {
+    "token": "swapping",
+    "frequency": 2
+  },
+  {
+    "token": "stay",
+    "frequency": 2
+  },
+  {
+    "token": "systematically",
+    "frequency": 2
+  },
+  {
+    "token": "status",
+    "frequency": 2
+  },
+  {
+    "token": "+E",
+    "frequency": 2
+  },
+  {
+    "token": "iterate",
+    "frequency": 2
+  },
+  {
+    "token": "sorted",
+    "frequency": 2
+  },
+  {
+    "token": "equals",
+    "frequency": 2
+  },
+  {
+    "token": "happen",
+    "frequency": 2
+  },
+  {
+    "token": "recurrence",
+    "frequency": 2
+  },
+  {
+    "token": "highest",
+    "frequency": 2
+  },
+  {
+    "token": "Always",
+    "frequency": 2
+  },
+  {
+    "token": "Generating",
+    "frequency": 2
+  },
+  {
+    "token": "maintained",
+    "frequency": 2
+  },
+  {
+    "token": ")+",
+    "frequency": 2
+  },
+  {
+    "token": "achieve",
+    "frequency": 2
+  },
+  {
+    "token": "bigger",
+    "frequency": 2
+  },
+  {
+    "token": "Digits",
+    "frequency": 2
+  },
+  {
+    "token": "purely",
+    "frequency": 2
+  },
+  {
+    "token": "constructed",
+    "frequency": 2
+  },
+  {
+    "token": "causes",
+    "frequency": 2
+  },
+  {
+    "token": "Drop",
+    "frequency": 2
+  },
+  {
+    "token": "Vi",
+    "frequency": 2
+  },
+  {
+    "token": "+r",
+    "frequency": 2
+  },
+  {
+    "token": "functions",
+    "frequency": 2
+  },
+  {
+    "token": "eliminated",
+    "frequency": 2
+  },
+  {
+    "token": "alone",
+    "frequency": 2
+  },
+  {
+    "token": "Integer",
+    "frequency": 2
+  },
+  {
+    "token": "Other",
+    "frequency": 2
+  },
+  {
+    "token": "teacher",
+    "frequency": 2
+  },
+  {
+    "token": "solves",
+    "frequency": 2
+  },
+  {
+    "token": "Olymp",
+    "frequency": 2
+  },
+  {
+    "token": "reg",
+    "frequency": 2
+  },
+  {
+    "token": "achievable",
+    "frequency": 2
+  },
+  {
+    "token": "contributes",
+    "frequency": 2
+  },
+  {
+    "token": "fills",
+    "frequency": 2
+  },
+  {
+    "token": "helps",
+    "frequency": 2
+  },
+  {
+    "token": "-m",
+    "frequency": 2
+  },
+  {
+    "token": "Value",
+    "frequency": 2
+  },
+  {
+    "token": "handled",
+    "frequency": 2
+  },
+  {
+    "token": "Der",
+    "frequency": 2
+  },
+  {
+    "token": "restriction",
+    "frequency": 2
+  },
+  {
+    "token": "-free",
+    "frequency": 2
+  },
+  {
+    "token": "application",
+    "frequency": 2
+  },
+  {
+    "token": "Cartesian",
+    "frequency": 2
+  },
+  {
+    "token": "independence",
+    "frequency": 2
+  },
+  {
+    "token": "collection",
+    "frequency": 2
+  },
+  {
+    "token": "Identify",
+    "frequency": 2
+  },
+  {
+    "token": "erase",
+    "frequency": 2
+  },
+  {
+    "token": "duplicates",
+    "frequency": 2
+  },
+  {
+    "token": "stuck",
+    "frequency": 2
+  },
+  {
+    "token": "Used",
+    "frequency": 2
+  },
+  {
+    "token": "generalize",
+    "frequency": 2
+  },
+  {
+    "token": "combined",
+    "frequency": 2
+  },
+  {
+    "token": "operands",
+    "frequency": 2
+  },
+  {
+    "token": "paired",
+    "frequency": 2
+  },
+  {
+    "token": "couldn",
+    "frequency": 2
+  },
+  {
+    "token": "tried",
+    "frequency": 2
+  },
+  {
+    "token": "_r",
+    "frequency": 2
+  },
+  {
+    "token": "wasn",
+    "frequency": 2
+  },
+  {
+    "token": "ONLY",
+    "frequency": 2
+  },
+  {
+    "token": ",v",
+    "frequency": 2
+  },
+  {
+    "token": "cycles",
+    "frequency": 2
+  },
+  {
+    "token": "Charlie",
+    "frequency": 2
+  },
+  {
+    "token": "overall",
+    "frequency": 2
+  },
+  {
+    "token": "Expected",
+    "frequency": 2
+  },
+  {
+    "token": "exclusion",
+    "frequency": 2
+  },
+  {
+    "token": "reject",
+    "frequency": 2
+  },
+  {
+    "token": "filter",
+    "frequency": 2
+  },
+  {
+    "token": "[S",
+    "frequency": 2
+  },
+  {
+    "token": "seeing",
+    "frequency": 2
+  },
+  {
+    "token": "kill",
+    "frequency": 2
+  },
+  {
+    "token": "knows",
+    "frequency": 2
+  },
+  {
+    "token": "dom",
+    "frequency": 2
+  },
+  {
+    "token": "forall",
+    "frequency": 2
+  },
+  {
+    "token": "pieces",
+    "frequency": 2
+  },
+  {
+    "token": "(R",
+    "frequency": 2
+  },
+  {
+    "token": "chose",
+    "frequency": 2
+  },
+  {
+    "token": "Cannot",
+    "frequency": 2
+  },
+  {
+    "token": "excluding",
+    "frequency": 2
+  },
+  {
+    "token": "exterior",
+    "frequency": 2
+  },
+  {
+    "token": "\"These",
+    "frequency": 2
+  },
+  {
+    "token": "ifies",
+    "frequency": 2
+  },
+  {
+    "token": "applications",
+    "frequency": 2
+  },
+  {
+    "token": "(pos",
+    "frequency": 2
+  },
+  {
+    "token": "rotate",
+    "frequency": 2
+  },
+  {
+    "token": "rep",
+    "frequency": 2
+  },
+  {
+    "token": "Half",
+    "frequency": 2
+  },
+  {
+    "token": "exposes",
+    "frequency": 2
+  },
+  {
+    "token": "+,",
+    "frequency": 2
+  },
+  {
+    "token": "permutation",
+    "frequency": 2
+  },
+  {
+    "token": "Face",
+    "frequency": 2
+  },
+  {
+    "token": "Cube",
+    "frequency": 2
+  },
+  {
+    "token": "pointing",
+    "frequency": 2
+  },
+  {
+    "token": "mutually",
+    "frequency": 2
+  },
+  {
+    "token": "bottom",
+    "frequency": 2
+  },
+  {
+    "token": "asked",
+    "frequency": 2
+  },
+  {
+    "token": "tax",
+    "frequency": 2
+  },
+  {
+    "token": "touch",
+    "frequency": 2
+  },
+  {
+    "token": "stable",
+    "frequency": 2
+  },
+  {
+    "token": "Hom",
+    "frequency": 2
+  },
+  {
+    "token": "AP",
+    "frequency": 2
+  },
+  {
+    "token": "=g",
+    "frequency": 2
+  },
+  {
+    "token": "Primitive",
+    "frequency": 2
+  },
+  {
+    "token": "Products",
+    "frequency": 2
+  },
+  {
+    "token": ";",
+    "frequency": 2
+  },
+  {
+    "token": "optimal",
+    "frequency": 2
+  },
+  {
+    "token": "oten",
+    "frequency": 2
+  },
+  {
+    "token": "nw",
+    "frequency": 2
+  },
+  {
+    "token": "/d",
+    "frequency": 2
+  },
+  {
+    "token": "variant",
+    "frequency": 2
+  },
+  {
+    "token": "stone",
+    "frequency": 2
+  },
+  {
+    "token": "Win",
+    "frequency": 2
+  },
+  {
+    "token": "numer",
+    "frequency": 2
+  },
+  {
+    "token": "Eu",
+    "frequency": 2
+  },
+  {
+    "token": "DF",
+    "frequency": 2
+  },
+  {
+    "token": "IE",
+    "frequency": 2
+  },
+  {
+    "token": "Num",
+    "frequency": 2
+  },
+  {
+    "token": "bk",
+    "frequency": 2
+  },
+  {
+    "token": "}s",
+    "frequency": 1
+  },
+  {
+    "token": "messy",
+    "frequency": 1
+  },
+  {
+    "token": "breaks",
+    "frequency": 1
+  },
+  {
+    "token": "ky",
+    "frequency": 1
+  },
+  {
+    "token": "py",
+    "frequency": 1
+  },
+  {
+    "token": "ADE",
+    "frequency": 1
+  },
+  {
+    "token": "individually",
+    "frequency": 1
+  },
+  {
+    "token": "squared",
+    "frequency": 1
+  },
+  {
+    "token": "ector",
+    "frequency": 1
+  },
+  {
+    "token": "omin",
+    "frequency": 1
+  },
+  {
+    "token": "-E",
+    "frequency": 1
+  },
+  {
+    "token": "+\\",
+    "frequency": 1
+  },
+  {
+    "token": "similarity",
+    "frequency": 1
+  },
+  {
+    "token": "AO",
+    "frequency": 1
+  },
+  {
+    "token": "cev",
+    "frequency": 1
+  },
+  {
+    "token": "major",
+    "frequency": 1
+  },
+  {
+    "token": "DC",
+    "frequency": 1
+  },
+  {
+    "token": "lambda",
+    "frequency": 1
+  },
+  {
+    "token": "Direction",
+    "frequency": 1
+  },
+  {
+    "token": "ED",
+    "frequency": 1
+  },
+  {
+    "token": "clockwise",
+    "frequency": 1
+  },
+  {
+    "token": "independently",
+    "frequency": 1
+  },
+  {
+    "token": "]^",
+    "frequency": 1
+  },
+  {
+    "token": ",j",
+    "frequency": 1
+  },
+  {
+    "token": "=j",
+    "frequency": 1
+  },
+  {
+    "token": "op",
+    "frequency": 1
+  },
+  {
+    "token": "Big",
+    "frequency": 1
+  },
+  {
+    "token": "dv",
+    "frequency": 1
+  },
+  {
+    "token": "Summary",
+    "frequency": 1
+  },
+  {
+    "token": "Es",
+    "frequency": 1
+  },
+  {
+    "token": "plausible",
+    "frequency": 1
+  },
+  {
+    "token": "polygon",
+    "frequency": 1
+  },
+  {
+    "token": "ds",
+    "frequency": 1
+  },
+  {
+    "token": "broken",
+    "frequency": 1
+  },
+  {
+    "token": "det",
+    "frequency": 1
+  },
+  {
+    "token": "Avg",
+    "frequency": 1
+  },
+  {
+    "token": "individual",
+    "frequency": 1
+  },
+  {
+    "token": "expectations",
+    "frequency": 1
+  },
+  {
+    "token": "Reflect",
+    "frequency": 1
+  },
+  {
+    "token": "ii",
+    "frequency": 1
+  },
+  {
+    "token": "confidence",
+    "frequency": 1
+  },
+  {
+    "token": "Uniform",
+    "frequency": 1
+  },
+  {
+    "token": "accounts",
+    "frequency": 1
+  },
+  {
+    "token": "=B",
+    "frequency": 1
+  },
+  {
+    "token": "ther",
+    "frequency": 1
+  },
+  {
+    "token": "\"in",
+    "frequency": 1
+  },
+  {
+    "token": "Det",
+    "frequency": 1
+  },
+  {
+    "token": "intuition",
+    "frequency": 1
+  },
+  {
+    "token": "[u",
+    "frequency": 1
+  },
+  {
+    "token": "arguments",
+    "frequency": 1
+  },
+  {
+    "token": "-add",
+    "frequency": 1
+  },
+  {
+    "token": "landing",
+    "frequency": 1
+  },
+  {
+    "token": "dist",
+    "frequency": 1
+  },
+  {
+    "token": "triangles",
+    "frequency": 1
+  },
+  {
+    "token": "determin",
+    "frequency": 1
+  },
+  {
+    "token": "conditional",
+    "frequency": 1
+  },
+  {
+    "token": "told",
+    "frequency": 1
+  },
+  {
+    "token": "recip",
+    "frequency": 1
+  },
+  {
+    "token": "Dist",
+    "frequency": 1
+  },
+  {
+    "token": "arose",
+    "frequency": 1
+  },
+  {
+    "token": "coeff",
+    "frequency": 1
+  },
+  {
+    "token": "alternative",
+    "frequency": 1
+  },
+  {
+    "token": "cx",
+    "frequency": 1
+  },
+  {
+    "token": "specifies",
+    "frequency": 1
+  },
+  {
+    "token": "generally",
+    "frequency": 1
+  },
+  {
+    "token": "firm",
+    "frequency": 1
+  },
+  {
+    "token": "/r",
+    "frequency": 1
+  },
+  {
+    "token": "enforce",
+    "frequency": 1
+  },
+  {
+    "token": "recap",
+    "frequency": 1
+  },
+  {
+    "token": "provide",
+    "frequency": 1
+  },
+  {
+    "token": "reciprocal",
+    "frequency": 1
+  },
+  {
+    "token": "Choosing",
+    "frequency": 1
+  },
+  {
+    "token": "numbered",
+    "frequency": 1
+  },
+  {
+    "token": "sequentially",
+    "frequency": 1
+  },
+  {
+    "token": "placement",
+    "frequency": 1
+  },
+  {
+    "token": "follows",
+    "frequency": 1
+  },
+  {
+    "token": "Goal",
+    "frequency": 1
+  },
+  {
+    "token": "identify",
+    "frequency": 1
+  },
+  {
+    "token": "forward",
+    "frequency": 1
+  },
+  {
+    "token": "Map",
+    "frequency": 1
+  },
+  {
+    "token": "Index",
+    "frequency": 1
+  },
+  {
+    "token": "backward",
+    "frequency": 1
+  },
+  {
+    "token": "continuation",
+    "frequency": 1
+  },
+  {
+    "token": "ping",
+    "frequency": 1
+  },
+  {
+    "token": "vers",
+    "frequency": 1
+  },
+  {
+    "token": ")\",",
+    "frequency": 1
+  },
+  {
+    "token": "??",
+    "frequency": 1
+  },
+  {
+    "token": "st",
+    "frequency": 1
+  },
+  {
+    "token": "repetition",
+    "frequency": 1
+  },
+  {
+    "token": "head",
+    "frequency": 1
+  },
+  {
+    "token": "claim",
+    "frequency": 1
+  },
+  {
+    "token": "revers",
+    "frequency": 1
+  },
+  {
+    "token": "boundaries",
+    "frequency": 1
+  },
+  {
+    "token": "walk",
+    "frequency": 1
+  },
+  {
+    "token": "visited",
+    "frequency": 1
+  },
+  {
+    "token": "return",
+    "frequency": 1
+  },
+  {
+    "token": "Boxes",
+    "frequency": 1
+  },
+  {
+    "token": "returning",
+    "frequency": 1
+  },
+  {
+    "token": "three",
+    "frequency": 1
+  },
+  {
+    "token": "tedious",
+    "frequency": 1
+  },
+  {
+    "token": "prone",
+    "frequency": 1
+  },
+  {
+    "token": "fast",
+    "frequency": 1
+  },
+  {
+    "token": "estimation",
+    "frequency": 1
+  },
+  {
+    "token": ">-",
+    "frequency": 1
+  },
+  {
+    "token": "convergence",
+    "frequency": 1
+  },
+  {
+    "token": "decay",
+    "frequency": 1
+  },
+  {
+    "token": "tuple",
+    "frequency": 1
+  },
+  {
+    "token": "strongly",
+    "frequency": 1
+  },
+  {
+    "token": "operator",
+    "frequency": 1
+  },
+  {
+    "token": "typo",
+    "frequency": 1
+  },
+  {
+    "token": "reading",
+    "frequency": 1
+  },
+  {
+    "token": "Get",
+    "frequency": 1
+  },
+  {
+    "token": "summed",
+    "frequency": 1
+  },
+  {
+    "token": "analogy",
+    "frequency": 1
+  },
+  {
+    "token": "formulate",
+    "frequency": 1
+  },
+  {
+    "token": "Sigma",
+    "frequency": 1
+  },
+  {
+    "token": "minor",
+    "frequency": 1
+  },
+  {
+    "token": "Evaluate",
+    "frequency": 1
+  },
+  {
+    "token": "desired",
+    "frequency": 1
+  },
+  {
+    "token": "omega",
+    "frequency": 1
+  },
+  {
+    "token": "identification",
+    "frequency": 1
+  },
+  {
+    "token": "proceed",
+    "frequency": 1
+  },
+  {
+    "token": "Ar",
+    "frequency": 1
+  },
+  {
+    "token": "equality",
+    "frequency": 1
+  },
+  {
+    "token": "mx",
+    "frequency": 1
+  },
+  {
+    "token": "identified",
+    "frequency": 1
+  },
+  {
+    "token": "instance",
+    "frequency": 1
+  },
+  {
+    "token": "considering",
+    "frequency": 1
+  },
+  {
+    "token": "Approx",
+    "frequency": 1
+  },
+  {
+    "token": "solving",
+    "frequency": 1
+  },
+  {
+    "token": "counter",
+    "frequency": 1
+  },
+  {
+    "token": "dominates",
+    "frequency": 1
+  },
+  {
+    "token": "?\"",
+    "frequency": 1
+  },
+  {
+    "token": "LC",
+    "frequency": 1
+  },
+  {
+    "token": "useful",
+    "frequency": 1
+  },
+  {
+    "token": "Unique",
+    "frequency": 1
+  },
+  {
+    "token": "Equality",
+    "frequency": 1
+  },
+  {
+    "token": "translates",
+    "frequency": 1
+  },
+  {
+    "token": "nu",
+    "frequency": 1
+  },
+  {
+    "token": "lo",
+    "frequency": 1
+  },
+  {
+    "token": "strongest",
+    "frequency": 1
+  },
+  {
+    "token": "labels",
+    "frequency": 1
+  },
+  {
+    "token": "Another",
+    "frequency": 1
+  },
+  {
+    "token": "pitfalls",
+    "frequency": 1
+  },
+  {
+    "token": "France",
+    "frequency": 1
+  },
+  {
+    "token": "posit",
+    "frequency": 1
+  },
+  {
+    "token": "English",
+    "frequency": 1
+  },
+  {
+    "token": "Means",
+    "frequency": 1
+  },
+  {
+    "token": "forb",
+    "frequency": 1
+  },
+  {
+    "token": "Heads",
+    "frequency": 1
+  },
+  {
+    "token": "reversible",
+    "frequency": 1
+  },
+  {
+    "token": "applying",
+    "frequency": 1
+  },
+  {
+    "token": "neg",
+    "frequency": 1
+  },
+  {
+    "token": "ation",
+    "frequency": 1
+  },
+  {
+    "token": "incorrect",
+    "frequency": 1
+  },
+  {
+    "token": "prerequisite",
+    "frequency": 1
+  },
+  {
+    "token": ")=(",
+    "frequency": 1
+  },
+  {
+    "token": "Equal",
+    "frequency": 1
+  },
+  {
+    "token": "Fl",
+    "frequency": 1
+  },
+  {
+    "token": "}?",
+    "frequency": 1
+  },
+  {
+    "token": "flipped",
+    "frequency": 1
+  },
+  {
+    "token": "tails",
+    "frequency": 1
+  },
+  {
+    "token": "ignore",
+    "frequency": 1
+  },
+  {
+    "token": "observation",
+    "frequency": 1
+  },
+  {
+    "token": "break",
+    "frequency": 1
+  },
+  {
+    "token": "Apply",
+    "frequency": 1
+  },
+  {
+    "token": "interesting",
+    "frequency": 1
+  },
+  {
+    "token": "fl",
+    "frequency": 1
+  },
+  {
+    "token": "=i",
+    "frequency": 1
+  },
+  {
+    "token": "anymore",
+    "frequency": 1
+  },
+  {
+    "token": "sur",
+    "frequency": 1
+  },
+  {
+    "token": "coin",
+    "frequency": 1
+  },
+  {
+    "token": "inactive",
+    "frequency": 1
+  },
+  {
+    "token": "toggle",
+    "frequency": 1
+  },
+  {
+    "token": "induces",
+    "frequency": 1
+  },
+  {
+    "token": "updates",
+    "frequency": 1
+  },
+  {
+    "token": "bij",
+    "frequency": 1
+  },
+  {
+    "token": "recover",
+    "frequency": 1
+  },
+  {
+    "token": "-bit",
+    "frequency": 1
+  },
+  {
+    "token": "sends",
+    "frequency": 1
+  },
+  {
+    "token": ",\\",
+    "frequency": 1
+  },
+  {
+    "token": "bel",
+    "frequency": 1
+  },
+  {
+    "token": "induce",
+    "frequency": 1
+  },
+  {
+    "token": "induced",
+    "frequency": 1
+  },
+  {
+    "token": "quot",
+    "frequency": 1
+  },
+  {
+    "token": "ident",
+    "frequency": 1
+  },
+  {
+    "token": "Vert",
+    "frequency": 1
+  },
+  {
+    "token": "lifts",
+    "frequency": 1
+  },
+  {
+    "token": "bar",
+    "frequency": 1
+  },
+  {
+    "token": "properly",
+    "frequency": 1
+  },
+  {
+    "token": "ivot",
+    "frequency": 1
+  },
+  {
+    "token": "systematic",
+    "frequency": 1
+  },
+  {
+    "token": "piv",
+    "frequency": 1
+  },
+  {
+    "token": "changed",
+    "frequency": 1
+  },
+  {
+    "token": "lift",
+    "frequency": 1
+  },
+  {
+    "token": "capture",
+    "frequency": 1
+  },
+  {
+    "token": "grouping",
+    "frequency": 1
+  },
+  {
+    "token": "listing",
+    "frequency": 1
+  },
+  {
+    "token": "images",
+    "frequency": 1
+  },
+  {
+    "token": "dividing",
+    "frequency": 1
+  },
+  {
+    "token": "contribute",
+    "frequency": 1
+  },
+  {
+    "token": "Ends",
+    "frequency": 1
+  },
+  {
+    "token": "contributing",
+    "frequency": 1
+  },
+  {
+    "token": "%",
+    "frequency": 1
+  },
+  {
+    "token": "vanish",
+    "frequency": 1
+  },
+  {
+    "token": "Requires",
+    "frequency": 1
+  },
+  {
+    "token": "Legend",
+    "frequency": 1
+  },
+  {
+    "token": "divis",
+    "frequency": 1
+  },
+  {
+    "token": "<|im_end|>",
+    "frequency": 1
+  },
+  {
+    "token": "param",
+    "frequency": 1
+  },
+  {
+    "token": "section",
+    "frequency": 1
+  },
+  {
+    "token": "tilted",
+    "frequency": 1
+  },
+  {
+    "token": "Ax",
+    "frequency": 1
+  },
+  {
+    "token": "opening",
+    "frequency": 1
+  },
+  {
+    "token": "DR",
+    "frequency": 1
+  },
+  {
+    "token": "separately",
+    "frequency": 1
+  },
+  {
+    "token": "occupies",
+    "frequency": 1
+  },
+  {
+    "token": "Vertex",
+    "frequency": 1
+  },
+  {
+    "token": "CO",
+    "frequency": 1
+  },
+  {
+    "token": "-D",
+    "frequency": 1
+  },
+  {
+    "token": "planes",
+    "frequency": 1
+  },
+  {
+    "token": "enters",
+    "frequency": 1
+  },
+  {
+    "token": "ay",
+    "frequency": 1
+  },
+  {
+    "token": "bz",
+    "frequency": 1
+  },
+  {
+    "token": "begin",
+    "frequency": 1
+  },
+  {
+    "token": "{i",
+    "frequency": 1
+  },
+  {
+    "token": "Magnitude",
+    "frequency": 1
+  },
+  {
+    "token": "=T",
+    "frequency": 1
+  },
+  {
+    "token": "Focus",
+    "frequency": 1
+  },
+  {
+    "token": "Direct",
+    "frequency": 1
+  },
+  {
+    "token": "projected",
+    "frequency": 1
+  },
+  {
+    "token": "quad",
+    "frequency": 1
+  },
+  {
+    "token": "cylinder",
+    "frequency": 1
+  },
+  {
+    "token": "everywhere",
+    "frequency": 1
+  },
+  {
+    "token": "<R",
+    "frequency": 1
+  },
+  {
+    "token": "represents",
+    "frequency": 1
+  },
+  {
+    "token": "rho",
+    "frequency": 1
+  },
+  {
+    "token": "van",
+    "frequency": 1
+  },
+  {
+    "token": "-ex",
+    "frequency": 1
+  },
+  {
+    "token": "const",
+    "frequency": 1
+  },
+  {
+    "token": "-empty",
+    "frequency": 1
+  },
+  {
+    "token": "Projected",
+    "frequency": 1
+  },
+  {
+    "token": "North",
+    "frequency": 1
+  },
+  {
+    "token": "Closing",
+    "frequency": 1
+  },
+  {
+    "token": "closing",
+    "frequency": 1
+  },
+  {
+    "token": "extra",
+    "frequency": 1
+  },
+  {
+    "token": "Hamilton",
+    "frequency": 1
+  },
+  {
+    "token": "Keeping",
+    "frequency": 1
+  },
+  {
+    "token": "spanning",
+    "frequency": 1
+  },
+  {
+    "token": "How",
+    "frequency": 1
+  },
+  {
+    "token": "spans",
+    "frequency": 1
+  },
+  {
+    "token": "singleton",
+    "frequency": 1
+  },
+  {
+    "token": "width",
+    "frequency": 1
+  },
+  {
+    "token": "(i",
+    "frequency": 1
+  },
+  {
+    "token": "Needs",
+    "frequency": 1
+  },
+  {
+    "token": "weaker",
+    "frequency": 1
+  },
+  {
+    "token": "connections",
+    "frequency": 1
+  },
+  {
+    "token": "resolution",
+    "frequency": 1
+  },
+  {
+    "token": "binary",
+    "frequency": 1
+  },
+  {
+    "token": "tells",
+    "frequency": 1
+  },
+  {
+    "token": "Ham",
+    "frequency": 1
+  },
+  {
+    "token": "metric",
+    "frequency": 1
+  },
+  {
+    "token": "_w",
+    "frequency": 1
+  },
+  {
+    "token": "rethink",
+    "frequency": 1
+  },
+  {
+    "token": "Such",
+    "frequency": 1
+  },
+  {
+    "token": "contr",
+    "frequency": 1
+  },
+  {
+    "token": "KEEP",
+    "frequency": 1
+  },
+  {
+    "token": "suffice",
+    "frequency": 1
+  },
+  {
+    "token": "stars",
+    "frequency": 1
+  },
+  {
+    "token": "Within",
+    "frequency": 1
+  },
+  {
+    "token": "safe",
+    "frequency": 1
+  },
+  {
+    "token": "dense",
+    "frequency": 1
+  },
+  {
+    "token": "continue",
+    "frequency": 1
+  },
+  {
+    "token": "freedom",
+    "frequency": 1
+  },
+  {
+    "token": "theorem",
+    "frequency": 1
+  },
+  {
+    "token": "Path",
+    "frequency": 1
+  },
+  {
+    "token": "conflicts",
+    "frequency": 1
+  },
+  {
+    "token": "held",
+    "frequency": 1
+  },
+  {
+    "token": "EXISTS",
+    "frequency": 1
+  },
+  {
+    "token": "-color",
+    "frequency": 1
+  },
+  {
+    "token": "respectively",
+    "frequency": 1
+  },
+  {
+    "token": "HM",
+    "frequency": 1
+  },
+  {
+    "token": "XYZ",
+    "frequency": 1
+  },
+  {
+    "token": "coincide",
+    "frequency": 1
+  },
+  {
+    "token": "((-",
+    "frequency": 1
+  },
+  {
+    "token": "Adjacent",
+    "frequency": 1
+  },
+  {
+    "token": "cyclic",
+    "frequency": 1
+  },
+  {
+    "token": "project",
+    "frequency": 1
+  },
+  {
+    "token": "Euler",
+    "frequency": 1
+  },
+  {
+    "token": "OH",
+    "frequency": 1
+  },
+  {
+    "token": "beh",
+    "frequency": 1
+  },
+  {
+    "token": "Law",
+    "frequency": 1
+  },
+  {
+    "token": "cosine",
+    "frequency": 1
+  },
+  {
+    "token": "=M",
+    "frequency": 1
+  },
+  {
+    "token": "CM",
+    "frequency": 1
+  },
+  {
+    "token": "{|",
+    "frequency": 1
+  },
+  {
+    "token": "consequence",
+    "frequency": 1
+  },
+  {
+    "token": "introduced",
+    "frequency": 1
+  },
+  {
+    "token": "enforced",
+    "frequency": 1
+  },
+  {
+    "token": "extr",
+    "frequency": 1
+  },
+  {
+    "token": "violates",
+    "frequency": 1
+  },
+  {
+    "token": "-H",
+    "frequency": 1
+  },
+  {
+    "token": "FC",
+    "frequency": 1
+  },
+  {
+    "token": "metry",
+    "frequency": 1
+  },
+  {
+    "token": "Standard",
+    "frequency": 1
+  },
+  {
+    "token": "wr",
+    "frequency": 1
+  },
+  {
+    "token": "(s",
+    "frequency": 1
+  },
+  {
+    "token": "(e",
+    "frequency": 1
+  },
+  {
+    "token": "monot",
+    "frequency": 1
+  },
+  {
+    "token": "Real",
+    "frequency": 1
+  },
+  {
+    "token": "uniqueness",
+    "frequency": 1
+  },
+  {
+    "token": "mess",
+    "frequency": 1
+  },
+  {
+    "token": "Setting",
+    "frequency": 1
+  },
+  {
+    "token": ")((",
+    "frequency": 1
+  },
+  {
+    "token": "methods",
+    "frequency": 1
+  },
+  {
+    "token": "\"-",
+    "frequency": 1
+  },
+  {
+    "token": "synthetic",
+    "frequency": 1
+  },
+  {
+    "token": "Identity",
+    "frequency": 1
+  },
+  {
+    "token": "supports",
+    "frequency": 1
+  },
+  {
+    "token": "According",
+    "frequency": 1
+  },
+  {
+    "token": "Testing",
+    "frequency": 1
+  },
+  {
+    "token": "hour",
+    "frequency": 1
+  },
+  {
+    "token": "encounters",
+    "frequency": 1
+  },
+  {
+    "token": "overt",
+    "frequency": 1
+  },
+  {
+    "token": "mins",
+    "frequency": 1
+  },
+  {
+    "token": "faster",
+    "frequency": 1
+  },
+  {
+    "token": "velocity",
+    "frequency": 1
+  },
+  {
+    "token": "travel",
+    "frequency": 1
+  },
+  {
+    "token": "town",
+    "frequency": 1
+  },
+  {
+    "token": "Will",
+    "frequency": 1
+  },
+  {
+    "token": "ever",
+    "frequency": 1
+  },
+  {
+    "token": "accounted",
+    "frequency": 1
+  },
+  {
+    "token": "journey",
+    "frequency": 1
+  },
+  {
+    "token": "considered",
+    "frequency": 1
+  },
+  {
+    "token": "terminates",
+    "frequency": 1
+  },
+  {
+    "token": "whenever",
+    "frequency": 1
+  },
+  {
+    "token": "minutes",
+    "frequency": 1
+  },
+  {
+    "token": "Mid",
+    "frequency": 1
+  },
+  {
+    "token": "reference",
+    "frequency": 1
+  },
+  {
+    "token": "day",
+    "frequency": 1
+  },
+  {
+    "token": ")\".",
+    "frequency": 1
+  },
+  {
+    "token": "Noon",
+    "frequency": 1
+  },
+  {
+    "token": "timing",
+    "frequency": 1
+  },
+  {
+    "token": "establishes",
+    "frequency": 1
+  },
+  {
+    "token": "schedule",
+    "frequency": 1
+  },
+  {
+    "token": "offsets",
+    "frequency": 1
+  },
+  {
+    "token": "indexing",
+    "frequency": 1
+  },
+  {
+    "token": "aves",
+    "frequency": 1
+  },
+  {
+    "token": "traced",
+    "frequency": 1
+  },
+  {
+    "token": "During",
+    "frequency": 1
+  },
+  {
+    "token": "happened",
+    "frequency": 1
+  },
+  {
+    "token": "speeds",
+    "frequency": 1
+  },
+  {
+    "token": "uninterrupted",
+    "frequency": 1
+  },
+  {
+    "token": "according",
+    "frequency": 1
+  },
+  {
+    "token": "-index",
+    "frequency": 1
+  },
+  {
+    "token": "Before",
+    "frequency": 1
+  },
+  {
+    "token": "hasn",
+    "frequency": 1
+  },
+  {
+    "token": "straight",
+    "frequency": 1
+  },
+  {
+    "token": "concern",
+    "frequency": 1
+  },
+  {
+    "token": "arrive",
+    "frequency": 1
+  },
+  {
+    "token": "exploited",
+    "frequency": 1
+  },
+  {
+    "token": "Diff",
+    "frequency": 1
+  },
+  {
+    "token": "))/",
+    "frequency": 1
+  },
+  {
+    "token": "closed",
+    "frequency": 1
+  },
+  {
+    "token": "arrived",
+    "frequency": 1
+  },
+  {
+    "token": "Comb",
+    "frequency": 1
+  },
+  {
+    "token": "goal",
+    "frequency": 1
+  },
+  {
+    "token": "Incorrect",
+    "frequency": 1
+  },
+  {
+    "token": "inequalities",
+    "frequency": 1
+  },
+  {
+    "token": "earliest",
+    "frequency": 1
+  },
+  {
+    "token": "stopped",
+    "frequency": 1
+  },
+  {
+    "token": "encountered",
+    "frequency": 1
+  },
+  {
+    "token": "skip",
+    "frequency": 1
+  },
+  {
+    "token": "scri",
+    "frequency": 1
+  },
+  {
+    "token": "unch",
+    "frequency": 1
+  },
+  {
+    "token": "uli",
+    "frequency": 1
+  },
+  {
+    "token": "corn",
+    "frequency": 1
+  },
+  {
+    "token": "supposed",
+    "frequency": 1
+  },
+  {
+    "token": "unlikely",
+    "frequency": 1
+  },
+  {
+    "token": "sentence",
+    "frequency": 1
+  },
+  {
+    "token": "Rat",
+    "frequency": 1
+  },
+  {
+    "token": "Bear",
+    "frequency": 1
+  },
+  {
+    "token": "negligible",
+    "frequency": 1
+  },
+  {
+    "token": "nons",
+    "frequency": 1
+  },
+  {
+    "token": "pit",
+    "frequency": 1
+  },
+  {
+    "token": "format",
+    "frequency": 1
+  },
+  {
+    "token": "irrational",
+    "frequency": 1
+  },
+  {
+    "token": "progression",
+    "frequency": 1
+  },
+  {
+    "token": "newly",
+    "frequency": 1
+  },
+  {
+    "token": "fract",
+    "frequency": 1
+  },
+  {
+    "token": "al",
+    "frequency": 1
+  },
+  {
+    "token": "constructions",
+    "frequency": 1
+  },
+  {
+    "token": "-step",
+    "frequency": 1
+  },
+  {
+    "token": "recently",
+    "frequency": 1
+  },
+  {
+    "token": "iteration",
+    "frequency": 1
+  },
+  {
+    "token": "canonical",
+    "frequency": 1
+  },
+  {
+    "token": "answers",
+    "frequency": 1
+  },
+  {
+    "token": "AMC",
+    "frequency": 1
+  },
+  {
+    "token": "canvas",
+    "frequency": 1
+  },
+  {
+    "token": "representation",
+    "frequency": 1
+  },
+  {
+    "token": "actions",
+    "frequency": 1
+  },
+  {
+    "token": "maximal",
+    "frequency": 1
+  },
+  {
+    "token": "action",
+    "frequency": 1
+  },
+  {
+    "token": "normalized",
+    "frequency": 1
+  },
+  {
+    "token": "scribe",
+    "frequency": 1
+  },
+  {
+    "token": "Contribution",
+    "frequency": 1
+  },
+  {
+    "token": "Suppose",
+    "frequency": 1
+  },
+  {
+    "token": "switched",
+    "frequency": 1
+  },
+  {
+    "token": "believe",
+    "frequency": 1
+  },
+  {
+    "token": "stage",
+    "frequency": 1
+  },
+  {
+    "token": "ill",
+    "frequency": 1
+  },
+  {
+    "token": "taken",
+    "frequency": 1
+  },
+  {
+    "token": "sequences",
+    "frequency": 1
+  },
+  {
+    "token": "cop",
+    "frequency": 1
+  },
+  {
+    "token": "Ident",
+    "frequency": 1
+  },
+  {
+    "token": "prioritize",
+    "frequency": 1
+  },
+  {
+    "token": "buying",
+    "frequency": 1
+  },
+  {
+    "token": "Prices",
+    "frequency": 1
+  },
+  {
+    "token": "Initial",
+    "frequency": 1
+  },
+  {
+    "token": "Attempt",
+    "frequency": 1
+  },
+  {
+    "token": "cheapest",
+    "frequency": 1
+  },
+  {
+    "token": "Ref",
+    "frequency": 1
+  },
+  {
+    "token": "Iter",
+    "frequency": 1
+  },
+  {
+    "token": "ating",
+    "frequency": 1
+  },
+  {
+    "token": ".*",
+    "frequency": 1
+  },
+  {
+    "token": "Review",
+    "frequency": 1
+  },
+  {
+    "token": "Results",
+    "frequency": 1
+  },
+  {
+    "token": "Solutions",
+    "frequency": 1
+  },
+  {
+    "token": "Got",
+    "frequency": 1
+  },
+  {
+    "token": "Paid",
+    "frequency": 1
+  },
+  {
+    "token": "Approach",
+    "frequency": 1
+  },
+  {
+    "token": "):**",
+    "frequency": 1
+  },
+  {
+    "token": "adjustments",
+    "frequency": 1
+  },
+  {
+    "token": "pen",
+    "frequency": 1
+  },
+  {
+    "token": "provides",
+    "frequency": 1
+  },
+  {
+    "token": "label",
+    "frequency": 1
+  },
+  {
+    "token": "Rear",
+    "frequency": 1
+  },
+  {
+    "token": "Structure",
+    "frequency": 1
+  },
+  {
+    "token": "types",
+    "frequency": 1
+  },
+  {
+    "token": "*\",",
+    "frequency": 1
+  },
+  {
+    "token": "universe",
+    "frequency": 1
+  },
+  {
+    "token": "limited",
+    "frequency": 1
+  },
+  {
+    "token": "cher",
+    "frequency": 1
+  },
+  {
+    "token": "costing",
+    "frequency": 1
+  },
+  {
+    "token": "uns",
+    "frequency": 1
+  },
+  {
+    "token": "Apple",
+    "frequency": 1
+  },
+  {
+    "token": "yielding",
+    "frequency": 1
+  },
+  {
+    "token": "classic",
+    "frequency": 1
+  },
+  {
+    "token": "optimization",
+    "frequency": 1
+  },
+  {
+    "token": "buys",
+    "frequency": 1
+  },
+  {
+    "token": "save",
+    "frequency": 1
+  },
+  {
+    "token": "cheaper",
+    "frequency": 1
+  },
+  {
+    "token": "spends",
+    "frequency": 1
+  },
+  {
+    "token": "You",
+    "frequency": 1
+  },
+  {
+    "token": "item",
+    "frequency": 1
+  },
+  {
+    "token": "app",
+    "frequency": 1
+  },
+  {
+    "token": "pap",
+    "frequency": 1
+  },
+  {
+    "token": "changing",
+    "frequency": 1
+  },
+  {
+    "token": "working",
+    "frequency": 1
+  },
+  {
+    "token": "loss",
+    "frequency": 1
+  },
+  {
+    "token": ",p",
+    "frequency": 1
+  },
+  {
+    "token": "ways",
+    "frequency": 1
+  },
+  {
+    "token": "following",
+    "frequency": 1
+  },
+  {
+    "token": "Compar",
+    "frequency": 1
+  },
+  {
+    "token": "Sabrina",
+    "frequency": 1
+  },
+  {
+    "token": "_N",
+    "frequency": 1
+  },
+  {
+    "token": "Otherwise",
+    "frequency": 1
+  },
+  {
+    "token": "built",
+    "frequency": 1
+  },
+  {
+    "token": "successful",
+    "frequency": 1
+  },
+  {
+    "token": "collect",
+    "frequency": 1
+  },
+  {
+    "token": "collecting",
+    "frequency": 1
+  },
+  {
+    "token": "plementary",
+    "frequency": 1
+  },
+  {
+    "token": "complementary",
+    "frequency": 1
+  },
+  {
+    "token": "discarded",
+    "frequency": 1
+  },
+  {
+    "token": "Complement",
+    "frequency": 1
+  },
+  {
+    "token": "(L",
+    "frequency": 1
+  },
+  {
+    "token": "comple",
+    "frequency": 1
+  },
+  {
+    "token": "struct",
+    "frequency": 1
+  },
+  {
+    "token": "Bad",
+    "frequency": 1
+  },
+  {
+    "token": "describe",
+    "frequency": 1
+  },
+  {
+    "token": "finally",
+    "frequency": 1
+  },
+  {
+    "token": "distinction",
+    "frequency": 1
+  },
+  {
+    "token": "formally",
+    "frequency": 1
+  },
+  {
+    "token": "ell",
+    "frequency": 1
+  },
+  {
+    "token": "indicates",
+    "frequency": 1
+  },
+  {
+    "token": "=S",
+    "frequency": 1
+  },
+  {
+    "token": "_\\",
+    "frequency": 1
+  },
+  {
+    "token": "old",
+    "frequency": 1
+  },
+  {
+    "token": "+w",
+    "frequency": 1
+  },
+  {
+    "token": "accepting",
+    "frequency": 1
+  },
+  {
+    "token": "completion",
+    "frequency": 1
+  },
+  {
+    "token": "-L",
+    "frequency": 1
+  },
+  {
+    "token": "link",
+    "frequency": 1
+  },
+  {
+    "token": "Recall",
+    "frequency": 1
+  },
+  {
+    "token": "Sol",
+    "frequency": 1
+  },
+  {
+    "token": "=E",
+    "frequency": 1
+  },
+  {
+    "token": "discrepancy",
+    "frequency": 1
+  },
+  {
+    "token": "Constants",
+    "frequency": 1
+  },
+  {
+    "token": "abilities",
+    "frequency": 1
+  },
+  {
+    "token": "leftrightarrow",
+    "frequency": 1
+  },
+  {
+    "token": "YES",
+    "frequency": 1
+  },
+  {
+    "token": "feel",
+    "frequency": 1
+  },
+  {
+    "token": "Iterate",
+    "frequency": 1
+  },
+  {
+    "token": "Fail",
+    "frequency": 1
+  },
+  {
+    "token": "Count",
+    "frequency": 1
+  },
+  {
+    "token": "scratch",
+    "frequency": 1
+  },
+  {
+    "token": "!=",
+    "frequency": 1
+  },
+  {
+    "token": "decimal",
+    "frequency": 1
+  },
+  {
+    "token": "qualification",
+    "frequency": 1
+  },
+  {
+    "token": "choosing",
+    "frequency": 1
+  },
+  {
+    "token": "revisit",
+    "frequency": 1
+  },
+  {
+    "token": "^K",
+    "frequency": 1
+  },
+  {
+    "token": "control",
+    "frequency": 1
+  },
+  {
+    "token": "long",
+    "frequency": 1
+  },
+  {
+    "token": "placing",
+    "frequency": 1
+  },
+  {
+    "token": "offset",
+    "frequency": 1
+  },
+  {
+    "token": "setting",
+    "frequency": 1
+  },
+  {
+    "token": "Ens",
+    "frequency": 1
+  },
+  {
+    "token": "modify",
+    "frequency": 1
+  },
+  {
+    "token": "extend",
+    "frequency": 1
+  },
+  {
+    "token": "gg",
+    "frequency": 1
+  },
+  {
+    "token": "appended",
+    "frequency": 1
+  },
+  {
+    "token": "proposed",
+    "frequency": 1
+  },
+  {
+    "token": "=L",
+    "frequency": 1
+  },
+  {
+    "token": "trigger",
+    "frequency": 1
+  },
+  {
+    "token": "subsequent",
+    "frequency": 1
+  },
+  {
+    "token": "-defined",
+    "frequency": 1
+  },
+  {
+    "token": "handling",
+    "frequency": 1
+  },
+  {
+    "token": "universally",
+    "frequency": 1
+  },
+  {
+    "token": "Works",
+    "frequency": 1
+  },
+  {
+    "token": "paranoid",
+    "frequency": 1
+  },
+  {
+    "token": "ecess",
+    "frequency": 1
+  },
+  {
+    "token": "interfere",
+    "frequency": 1
+  },
+  {
+    "token": "constructing",
+    "frequency": 1
+  },
+  {
+    "token": "relating",
+    "frequency": 1
+  },
+  {
+    "token": "things",
+    "frequency": 1
+  },
+  {
+    "token": "olve",
+    "frequency": 1
+  },
+  {
+    "token": "Division",
+    "frequency": 1
+  },
+  {
+    "token": "izations",
+    "frequency": 1
+  },
+  {
+    "token": "St",
+    "frequency": 1
+  },
+  {
+    "token": "giving",
+    "frequency": 1
+  },
+  {
+    "token": "Negative",
+    "frequency": 1
+  },
+  {
+    "token": "Clearly",
+    "frequency": 1
+  },
+  {
+    "token": "filters",
+    "frequency": 1
+  },
+  {
+    "token": "-ab",
+    "frequency": 1
+  },
+  {
+    "token": "'-",
+    "frequency": 1
+  },
+  {
+    "token": "eliminating",
+    "frequency": 1
+  },
+  {
+    "token": "permutations",
+    "frequency": 1
+  },
+  {
+    "token": "exhaustive",
+    "frequency": 1
+  },
+  {
+    "token": "modified",
+    "frequency": 1
+  },
+  {
+    "token": "student",
+    "frequency": 1
+  },
+  {
+    "token": "distributed",
+    "frequency": 1
+  },
+  {
+    "token": "score",
+    "frequency": 1
+  },
+  {
+    "token": "translate",
+    "frequency": 1
+  },
+  {
+    "token": "beforehand",
+    "frequency": 1
+  },
+  {
+    "token": "accommodate",
+    "frequency": 1
+  },
+  {
+    "token": "performance",
+    "frequency": 1
+  },
+  {
+    "token": "tuples",
+    "frequency": 1
+  },
+  {
+    "token": "(j",
+    "frequency": 1
+  },
+  {
+    "token": "stock",
+    "frequency": 1
+  },
+  {
+    "token": "freely",
+    "frequency": 1
+  },
+  {
+    "token": "represented",
+    "frequency": 1
+  },
+  {
+    "token": "assigning",
+    "frequency": 1
+  },
+  {
+    "token": "vac",
+    "frequency": 1
+  },
+  {
+    "token": "uously",
+    "frequency": 1
+  },
+  {
+    "token": "Too",
+    "frequency": 1
+  },
+  {
+    "token": "requiring",
+    "frequency": 1
+  },
+  {
+    "token": "suffix",
+    "frequency": 1
+  },
+  {
+    "token": "sparse",
+    "frequency": 1
+  },
+  {
+    "token": "exceed",
+    "frequency": 1
+  },
+  {
+    "token": "efficient",
+    "frequency": 1
+  },
+  {
+    "token": "Small",
+    "frequency": 1
+  },
+  {
+    "token": "reducing",
+    "frequency": 1
+  },
+  {
+    "token": "drastically",
+    "frequency": 1
+  },
+  {
+    "token": "compatible",
+    "frequency": 1
+  },
+  {
+    "token": "critical",
+    "frequency": 1
+  },
+  {
+    "token": "-n",
+    "frequency": 1
+  },
+  {
+    "token": "etermine",
+    "frequency": 1
+  },
+  {
+    "token": "iad",
+    "frequency": 1
+  },
+  {
+    "token": "captured",
+    "frequency": 1
+  },
+  {
+    "token": "Gain",
+    "frequency": 1
+  },
+  {
+    "token": "shares",
+    "frequency": 1
+  },
+  {
+    "token": "Less",
+    "frequency": 1
+  },
+  {
+    "token": "soon",
+    "frequency": 1
+  },
+  {
+    "token": "convex",
+    "frequency": 1
+  },
+  {
+    "token": "Represent",
+    "frequency": 1
+  },
+  {
+    "token": "imized",
+    "frequency": 1
+  },
+  {
+    "token": "Actual",
+    "frequency": 1
+  },
+  {
+    "token": "Lo",
+    "frequency": 1
+  },
+  {
+    "token": "-expand",
+    "frequency": 1
+  },
+  {
+    "token": "connection",
+    "frequency": 1
+  },
+  {
+    "token": "transformations",
+    "frequency": 1
+  },
+  {
+    "token": "coeffs",
+    "frequency": 1
+  },
+  {
+    "token": "Relation",
+    "frequency": 1
+  },
+  {
+    "token": "polate",
+    "frequency": 1
+  },
+  {
+    "token": "implied",
+    "frequency": 1
+  },
+  {
+    "token": "expanded",
+    "frequency": 1
+  },
+  {
+    "token": "respective",
+    "frequency": 1
+  },
+  {
+    "token": "negatives",
+    "frequency": 1
+  },
+  {
+    "token": "Exactly",
+    "frequency": 1
+  },
+  {
+    "token": "derivative",
+    "frequency": 1
+  },
+  {
+    "token": "Transformation",
+    "frequency": 1
+  },
+  {
+    "token": "proves",
+    "frequency": 1
+  },
+  {
+    "token": "translation",
+    "frequency": 1
+  },
+  {
+    "token": "domain",
+    "frequency": 1
+  },
+  {
+    "token": "completing",
+    "frequency": 1
+  },
+  {
+    "token": "expressed",
+    "frequency": 1
+  },
+  {
+    "token": "decreasing",
+    "frequency": 1
+  },
+  {
+    "token": "Inverse",
+    "frequency": 1
+  },
+  {
+    "token": "magn",
+    "frequency": 1
+  },
+  {
+    "token": "estimate",
+    "frequency": 1
+  },
+  {
+    "token": "Still",
+    "frequency": 1
+  },
+  {
+    "token": "confusion",
+    "frequency": 1
+  },
+  {
+    "token": "Often",
+    "frequency": 1
+  },
+  {
+    "token": "inclusion",
+    "frequency": 1
+  },
+  {
+    "token": "multis",
+    "frequency": 1
+  },
+  {
+    "token": "nice",
+    "frequency": 1
+  },
+  {
+    "token": "errors",
+    "frequency": 1
+  },
+  {
+    "token": "blind",
+    "frequency": 1
+  },
+  {
+    "token": "\"is",
+    "frequency": 1
+  },
+  {
+    "token": "evaluation",
+    "frequency": 1
+  },
+  {
+    "token": "contexts",
+    "frequency": 1
+  },
+  {
+    "token": "important",
+    "frequency": 1
+  },
+  {
+    "token": "-case",
+    "frequency": 1
+  },
+  {
+    "token": "Tr",
+    "frequency": 1
+  },
+  {
+    "token": "combining",
+    "frequency": 1
+  },
+  {
+    "token": "reverse",
+    "frequency": 1
+  },
+  {
+    "token": "inverse",
+    "frequency": 1
+  },
+  {
+    "token": "resulting",
+    "frequency": 1
+  },
+  {
+    "token": "branches",
+    "frequency": 1
+  },
+  {
+    "token": "Second",
+    "frequency": 1
+  },
+  {
+    "token": "-in",
+    "frequency": 1
+  },
+  {
+    "token": "maintain",
+    "frequency": 1
+  },
+  {
+    "token": "copy",
+    "frequency": 1
+  },
+  {
+    "token": "consumes",
+    "frequency": 1
+  },
+  {
+    "token": "replaces",
+    "frequency": 1
+  },
+  {
+    "token": "suggest",
+    "frequency": 1
+  },
+  {
+    "token": "replaced",
+    "frequency": 1
+  },
+  {
+    "token": "eating",
+    "frequency": 1
+  },
+  {
+    "token": "producing",
+    "frequency": 1
+  },
+  {
+    "token": "idea",
+    "frequency": 1
+  },
+  {
+    "token": "gener",
+    "frequency": 1
+  },
+  {
+    "token": "needing",
+    "frequency": 1
+  },
+  {
+    "token": "untouched",
+    "frequency": 1
+  },
+  {
+    "token": "search",
+    "frequency": 1
+  },
+  {
+    "token": "induction",
+    "frequency": 1
+  },
+  {
+    "token": "Starting",
+    "frequency": 1
+  },
+  {
+    "token": "preserving",
+    "frequency": 1
+  },
+  {
+    "token": "requirements",
+    "frequency": 1
+  },
+  {
+    "token": "spare",
+    "frequency": 1
+  },
+  {
+    "token": "organ",
+    "frequency": 1
+  },
+  {
+    "token": "adapt",
+    "frequency": 1
+  },
+  {
+    "token": "Counts",
+    "frequency": 1
+  },
+  {
+    "token": "id",
+    "frequency": 1
+  },
+  {
+    "token": "version",
+    "frequency": 1
+  },
+  {
+    "token": "inputs",
+    "frequency": 1
+  },
+  {
+    "token": "flaw",
+    "frequency": 1
+  },
+  {
+    "token": "(B",
+    "frequency": 1
+  },
+  {
+    "token": "IS",
+    "frequency": 1
+  },
+  {
+    "token": "ences",
+    "frequency": 1
+  },
+  {
+    "token": "'ve",
+    "frequency": 1
+  },
+  {
+    "token": "Largest",
+    "frequency": 1
+  },
+  {
+    "token": "forgot",
+    "frequency": 1
+  },
+  {
+    "token": "^n",
+    "frequency": 1
+  },
+  {
+    "token": "differing",
+    "frequency": 1
+  },
+  {
+    "token": "numbering",
+    "frequency": 1
+  },
+  {
+    "token": "ulo",
+    "frequency": 1
+  },
+  {
+    "token": "flawless",
+    "frequency": 1
+  },
+  {
+    "token": "Fund",
+    "frequency": 1
+  },
+  {
+    "token": "=v",
+    "frequency": 1
+  },
+  {
+    "token": "imposs",
+    "frequency": 1
+  },
+  {
+    "token": "Dy",
+    "frequency": 1
+  },
+  {
+    "token": "proof",
+    "frequency": 1
+  },
+  {
+    "token": "selected",
+    "frequency": 1
+  },
+  {
+    "token": "/m",
+    "frequency": 1
+  },
+  {
+    "token": ",$",
+    "frequency": 1
+  },
+  {
+    "token": "-list",
+    "frequency": 1
+  },
+  {
+    "token": "reasoned",
+    "frequency": 1
+  },
+  {
+    "token": "Subset",
+    "frequency": 1
+  },
+  {
+    "token": "{T",
+    "frequency": 1
+  },
+  {
+    "token": "der",
+    "frequency": 1
+  },
+  {
+    "token": "calcul",
+    "frequency": 1
+  },
+  {
+    "token": "inclusive",
+    "frequency": 1
+  },
+  {
+    "token": "Candidates",
+    "frequency": 1
+  },
+  {
+    "token": "hence",
+    "frequency": 1
+  },
+  {
+    "token": "Select",
+    "frequency": 1
+  },
+  {
+    "token": "comm",
+    "frequency": 1
+  },
+  {
+    "token": "-sum",
+    "frequency": 1
+  },
+  {
+    "token": "eliminates",
+    "frequency": 1
+  },
+  {
+    "token": "bounds",
+    "frequency": 1
+  },
+  {
+    "token": "appears",
+    "frequency": 1
+  },
+  {
+    "token": "proceeds",
+    "frequency": 1
+  },
+  {
+    "token": "Player",
+    "frequency": 1
+  },
+  {
+    "token": "completes",
+    "frequency": 1
+  },
+  {
+    "token": "reserve",
+    "frequency": 1
+  },
+  {
+    "token": "successfully",
+    "frequency": 1
+  },
+  {
+    "token": "rules",
+    "frequency": 1
+  },
+  {
+    "token": "kills",
+    "frequency": 1
+  },
+  {
+    "token": "protect",
+    "frequency": 1
+  },
+  {
+    "token": "survives",
+    "frequency": 1
+  },
+  {
+    "token": "making",
+    "frequency": 1
+  },
+  {
+    "token": "removal",
+    "frequency": 1
+  },
+  {
+    "token": "clustered",
+    "frequency": 1
+  },
+  {
+    "token": "hit",
+    "frequency": 1
+  },
+  {
+    "token": "Interval",
+    "frequency": 1
+  },
+  {
+    "token": "falls",
+    "frequency": 1
+  },
+  {
+    "token": "sects",
+    "frequency": 1
+  },
+  {
+    "token": "holes",
+    "frequency": 1
+  },
+  {
+    "token": "positioned",
+    "frequency": 1
+  },
+  {
+    "token": "central",
+    "frequency": 1
+  },
+  {
+    "token": "|-",
+    "frequency": 1
+  },
+  {
+    "token": "creates",
+    "frequency": 1
+  },
+  {
+    "token": "merge",
+    "frequency": 1
+  },
+  {
+    "token": "arises",
+    "frequency": 1
+  },
+  {
+    "token": "splitting",
+    "frequency": 1
+  },
+  {
+    "token": "responds",
+    "frequency": 1
+  },
+  {
+    "token": "happy",
+    "frequency": 1
+  },
+  {
+    "token": "anywhere",
+    "frequency": 1
+  },
+  {
+    "token": "Empty",
+    "frequency": 1
+  },
+  {
+    "token": "specifically",
+    "frequency": 1
+  },
+  {
+    "token": "survivor",
+    "frequency": 1
+  },
+  {
+    "token": "against",
+    "frequency": 1
+  },
+  {
+    "token": "sacrifice",
+    "frequency": 1
+  },
+  {
+    "token": "none",
+    "frequency": 1
+  },
+  {
+    "token": "extreme",
+    "frequency": 1
+  },
+  {
+    "token": "regarding",
+    "frequency": 1
+  },
+  {
+    "token": "INVALID",
+    "frequency": 1
+  },
+  {
+    "token": "Contains",
+    "frequency": 1
+  },
+  {
+    "token": "Un",
+    "frequency": 1
+  },
+  {
+    "token": "dipping",
+    "frequency": 1
+  },
+  {
+    "token": "figure",
+    "frequency": 1
+  },
+  {
+    "token": "Corner",
+    "frequency": 1
+  },
+  {
+    "token": "constituent",
+    "frequency": 1
+  },
+  {
+    "token": "twist",
+    "frequency": 1
+  },
+  {
+    "token": "Regardless",
+    "frequency": 1
+  },
+  {
+    "token": "reconsider",
+    "frequency": 1
+  },
+  {
+    "token": "build",
+    "frequency": 1
+  },
+  {
+    "token": "inter",
+    "frequency": 1
+  },
+  {
+    "token": "rot",
+    "frequency": 1
+  },
+  {
+    "token": "thick",
+    "frequency": 1
+  },
+  {
+    "token": "accumulate",
+    "frequency": 1
+  },
+  {
+    "token": "tracking",
+    "frequency": 1
+  },
+  {
+    "token": "twice",
+    "frequency": 1
+  },
+  {
+    "token": "permanent",
+    "frequency": 1
+  },
+  {
+    "token": "(\"",
+    "frequency": 1
+  },
+  {
+    "token": "reused",
+    "frequency": 1
+  },
+  {
+    "token": "sense",
+    "frequency": 1
+  },
+  {
+    "token": "collections",
+    "frequency": 1
+  },
+  {
+    "token": "jag",
+    "frequency": 1
+  },
+  {
+    "token": "contributed",
+    "frequency": 1
+  },
+  {
+    "token": "growth",
+    "frequency": 1
+  },
+  {
+    "token": "unp",
+    "frequency": 1
+  },
+  {
+    "token": "approximately",
+    "frequency": 1
+  },
+  {
+    "token": "singular",
+    "frequency": 1
+  },
+  {
+    "token": "surf",
+    "frequency": 1
+  },
+  {
+    "token": "indicators",
+    "frequency": 1
+  },
+  {
+    "token": "rotations",
+    "frequency": 1
+  },
+  {
+    "token": "involved",
+    "frequency": 1
+  },
+  {
+    "token": ",+",
+    "frequency": 1
+  },
+  {
+    "token": ",-",
+    "frequency": 1
+  },
+  {
+    "token": "creating",
+    "frequency": 1
+  },
+  {
+    "token": "builds",
+    "frequency": 1
+  },
+  {
+    "token": "arrange",
+    "frequency": 1
+  },
+  {
+    "token": "puzzles",
+    "frequency": 1
+  },
+  {
+    "token": "expose",
+    "frequency": 1
+  },
+  {
+    "token": "perm",
+    "frequency": 1
+  },
+  {
+    "token": "}/",
+    "frequency": 1
+  },
+  {
+    "token": "}]",
+    "frequency": 1
+  },
+  {
+    "token": "prod",
+    "frequency": 1
+  },
+  {
+    "token": "Bern",
+    "frequency": 1
+  },
+  {
+    "token": "trial",
+    "frequency": 1
+  },
+  {
+    "token": "reuse",
+    "frequency": 1
+  },
+  {
+    "token": "fresh",
+    "frequency": 1
+  },
+  {
+    "token": "volume",
+    "frequency": 1
+  },
+  {
+    "token": "Faces",
+    "frequency": 1
+  },
+  {
+    "token": "Front",
+    "frequency": 1
+  },
+  {
+    "token": "outward",
+    "frequency": 1
+  },
+  {
+    "token": "avg",
+    "frequency": 1
+  },
+  {
+    "token": "finishes",
+    "frequency": 1
+  },
+  {
+    "token": "implying",
+    "frequency": 1
+  },
+  {
+    "token": "averaged",
+    "frequency": 1
+  },
+  {
+    "token": "Choices",
+    "frequency": 1
+  },
+  {
+    "token": "moved",
+    "frequency": 1
+  },
+  {
+    "token": "accum",
+    "frequency": 1
+  },
+  {
+    "token": "correlated",
+    "frequency": 1
+  },
+  {
+    "token": "marginal",
+    "frequency": 1
+  },
+  {
+    "token": "basically",
+    "frequency": 1
+  },
+  {
+    "token": "/S",
+    "frequency": 1
+  },
+  {
+    "token": "tops",
+    "frequency": 1
+  },
+  {
+    "token": "+S",
+    "frequency": 1
+  },
+  {
+    "token": "Take",
+    "frequency": 1
+  },
+  {
+    "token": "precise",
+    "frequency": 1
+  },
+  {
+    "token": "logs",
+    "frequency": 1
+  },
+  {
+    "token": "Probability",
+    "frequency": 1
+  },
+  {
+    "token": "distr",
+    "frequency": 1
+  },
+  {
+    "token": "_f",
+    "frequency": 1
+  },
+  {
+    "token": "Hardy",
+    "frequency": 1
+  },
+  {
+    "token": "gl",
+    "frequency": 1
+  },
+  {
+    "token": "discrete",
+    "frequency": 1
+  },
+  {
+    "token": "setter",
+    "frequency": 1
+  },
+  {
+    "token": "Hard",
+    "frequency": 1
+  },
+  {
+    "token": "exceeds",
+    "frequency": 1
+  },
+  {
+    "token": "proximity",
+    "frequency": 1
+  },
+  {
+    "token": "blob",
+    "frequency": 1
+  },
+  {
+    "token": "alignment",
+    "frequency": 1
+  },
+  {
+    "token": "knew",
+    "frequency": 1
+  },
+  {
+    "token": "clos",
+    "frequency": 1
+  },
+  {
+    "token": "significant",
+    "frequency": 1
+  },
+  {
+    "token": "approximation",
+    "frequency": 1
+  },
+  {
+    "token": "Taylor",
+    "frequency": 1
+  },
+  {
+    "token": "calculator",
+    "frequency": 1
+  },
+  {
+    "token": "intended",
+    "frequency": 1
+  },
+  {
+    "token": "Taking",
+    "frequency": 1
+  },
+  {
+    "token": "logarith",
+    "frequency": 1
+  },
+  {
+    "token": "Point",
+    "frequency": 1
+  },
+  {
+    "token": "normal",
+    "frequency": 1
+  },
+  {
+    "token": "quadrant",
+    "frequency": 1
+  },
+  {
+    "token": "\"T",
+    "frequency": 1
+  },
+  {
+    "token": "usual",
+    "frequency": 1
+  },
+  {
+    "token": "disk",
+    "frequency": 1
+  },
+  {
+    "token": "extending",
+    "frequency": 1
+  },
+  {
+    "token": "\"P",
+    "frequency": 1
+  },
+  {
+    "token": "extends",
+    "frequency": 1
+  },
+  {
+    "token": "ominator",
+    "frequency": 1
+  },
+  {
+    "token": "-h",
+    "frequency": 1
+  },
+  {
+    "token": "Normal",
+    "frequency": 1
+  },
+  {
+    "token": "angent",
+    "frequency": 1
+  },
+  {
+    "token": "yielded",
+    "frequency": 1
+  },
+  {
+    "token": "backwards",
+    "frequency": 1
+  },
+  {
+    "token": "=P",
+    "frequency": 1
+  },
+  {
+    "token": "coords",
+    "frequency": 1
+  },
+  {
+    "token": "externally",
+    "frequency": 1
+  },
+  {
+    "token": "intern",
+    "frequency": 1
+  },
+  {
+    "token": "mental",
+    "frequency": 1
+  },
+  {
+    "token": "slip",
+    "frequency": 1
+  },
+  {
+    "token": "shown",
+    "frequency": 1
+  },
+  {
+    "token": "Power",
+    "frequency": 1
+  },
+  {
+    "token": "inversion",
+    "frequency": 1
+  },
+  {
+    "token": "hom",
+    "frequency": 1
+  },
+  {
+    "token": "scale",
+    "frequency": 1
+  },
+  {
+    "token": "(P",
+    "frequency": 1
+  },
+  {
+    "token": "clean",
+    "frequency": 1
+  },
+  {
+    "token": "Coll",
+    "frequency": 1
+  },
+  {
+    "token": "ine",
+    "frequency": 1
+  },
+  {
+    "token": "coinc",
+    "frequency": 1
+  },
+  {
+    "token": "internally",
+    "frequency": 1
+  },
+  {
+    "token": "Without",
+    "frequency": 1
+  },
+  {
+    "token": "holding",
+    "frequency": 1
+  },
+  {
+    "token": "dy",
+    "frequency": 1
+  },
+  {
+    "token": "yp",
+    "frequency": 1
+  },
+  {
+    "token": "Hyp",
+    "frequency": 1
+  },
+  {
+    "token": "-p",
+    "frequency": 1
+  },
+  {
+    "token": "wu",
+    "frequency": 1
+  },
+  {
+    "token": "iding",
+    "frequency": 1
+  },
+  {
+    "token": "retry",
+    "frequency": 1
+  },
+  {
+    "token": "ku",
+    "frequency": 1
+  },
+  {
+    "token": "=z",
+    "frequency": 1
+  },
+  {
+    "token": "Leg",
+    "frequency": 1
+  },
+  {
+    "token": "HA",
+    "frequency": 1
+  },
+  {
+    "token": "Must",
+    "frequency": 1
+  },
+  {
+    "token": "Triple",
+    "frequency": 1
+  },
+  {
+    "token": "brings",
+    "frequency": 1
+  },
+  {
+    "token": "Legs",
+    "frequency": 1
+  },
+  {
+    "token": "flaws",
+    "frequency": 1
+  },
+  {
+    "token": "/w",
+    "frequency": 1
+  },
+  {
+    "token": "impartial",
+    "frequency": 1
+  },
+  {
+    "token": "Nim",
+    "frequency": 1
+  },
+  {
+    "token": "often",
+    "frequency": 1
+  },
+  {
+    "token": "winner",
+    "frequency": 1
+  },
+  {
+    "token": "knowing",
+    "frequency": 1
+  },
+  {
+    "token": "Losing",
+    "frequency": 1
+  },
+  {
+    "token": "Prev",
+    "frequency": 1
+  },
+  {
+    "token": "land",
+    "frequency": 1
+  },
+  {
+    "token": "+B",
+    "frequency": 1
+  },
+  {
+    "token": "+s",
+    "frequency": 1
+  },
+  {
+    "token": "chain",
+    "frequency": 1
+  },
+  {
+    "token": "upwards",
+    "frequency": 1
+  },
+  {
+    "token": "-re",
+    "frequency": 1
+  },
+  {
+    "token": "similarly",
+    "frequency": 1
+  },
+  {
+    "token": "(N",
+    "frequency": 1
+  },
+  {
+    "token": "stabil",
+    "frequency": 1
+  },
+  {
+    "token": "settle",
+    "frequency": 1
+  },
+  {
+    "token": "feasible",
+    "frequency": 1
+  },
+  {
+    "token": "mostly",
+    "frequency": 1
+  },
+  {
+    "token": "neighbor",
+    "frequency": 1
+  },
+  {
+    "token": "played",
+    "frequency": 1
+  },
+  {
+    "token": "hypothesis",
+    "frequency": 1
+  },
+  {
+    "token": "Plus",
+    "frequency": 1
+  },
+  {
+    "token": "-con",
+    "frequency": 1
+  },
+  {
+    "token": "Fibonacci",
+    "frequency": 1
+  },
+  {
+    "token": "word",
+    "frequency": 1
+  },
+  {
+    "token": "prefix",
+    "frequency": 1
+  },
+  {
+    "token": "expect",
+    "frequency": 1
+  },
+  {
+    "token": "ircle",
+    "frequency": 1
+  },
+  {
+    "token": "BT",
+    "frequency": 1
+  },
+  {
+    "token": "AT",
+    "frequency": 1
+  },
+  {
+    "token": "EA",
+    "frequency": 1
+  },
+  {
+    "token": "centers",
+    "frequency": 1
+  },
+  {
+    "token": "semi",
+    "frequency": 1
+  },
+  {
+    "token": "median",
+    "frequency": 1
+  },
+  {
+    "token": "IDC",
+    "frequency": 1
+  },
+  {
+    "token": "DIE",
+    "frequency": 1
+  },
+  {
+    "token": "IC",
+    "frequency": 1
+  },
+  {
+    "token": "AI",
+    "frequency": 1
+  },
+  {
+    "token": "nicely",
+    "frequency": 1
+  },
+  {
+    "token": "ah",
+    "frequency": 1
+  },
+  {
+    "token": "/h",
+    "frequency": 1
+  },
+  {
+    "token": "Good",
+    "frequency": 1
+  },
+  {
+    "token": "$_",
+    "frequency": 1
+  },
+  {
+    "token": "cancellation",
+    "frequency": 1
+  },
+  {
+    "token": "went",
+    "frequency": 1
+  },
+  {
+    "token": "differs",
+    "frequency": 1
+  },
+  {
+    "token": "os",
+    "frequency": 1
+  },
+  {
+    "token": "Bracket",
+    "frequency": 1
+  },
+  {
+    "token": "draw",
+    "frequency": 1
+  },
+  {
+    "token": "Coordinates",
+    "frequency": 1
+  },
+  {
+    "token": "ic",
+    "frequency": 1
+  },
+  {
+    "token": "incontro",
+    "frequency": 1
+  },
+  {
+    "token": "perp",
+    "frequency": 1
+  }
+]

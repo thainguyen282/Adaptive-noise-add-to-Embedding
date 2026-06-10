@@ -1,0 +1,12 @@
+{
+  "observed_tokens": 555,
+  "unseen_tokens": 247765,
+  "entropy_top_ratio": 0.1,
+  "entropy_scale": 1.0,
+  "threshold": 1.9873809814453125,
+  "scale_min": 1.0,
+  "scale_max": 2.0,
+  "scale_mean_observed": 1.0413697957992554,
+  "changed_tokens": 55,
+  "unchanged_tokens": 248265
+}
